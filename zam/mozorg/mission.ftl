@@ -1,3 +1,8 @@
-# NOTE: https://www-dev.allizom.org/mission/ the video is not localizable for now, only the text
-mission-history = Ree koo güil
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+### URL: https://www-dev.allizom.org/mission/
+
+mission-history = Ree koo güil
