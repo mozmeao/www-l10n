@@ -1,9 +1,5 @@
-# All files translated by the community by at least some locales should
-# be covered by the [[paths]] in this file.
-
-basepath = ".."
-
-locales = [
+{
+  "active_locales": [
     "ach",
     "af",
     "am",
@@ -19,7 +15,6 @@ locales = [
     "bs",
     "ca",
     "cak",
-    "crh",
     "cs",
     "cy",
     "da",
@@ -49,7 +44,6 @@ locales = [
     "hi-IN",
     "hr",
     "hsb",
-    "hto",
     "hu",
     "hy-AM",
     "ia",
@@ -68,7 +62,6 @@ locales = [
     "lt",
     "ltg",
     "lv",
-    "mk",
     "ml",
     "mr",
     "ms",
@@ -80,12 +73,9 @@ locales = [
     "nv",
     "oc",
     "pa-IN",
-    "pai",
-    "pbb",
     "pl",
     "pt-BR",
     "pt-PT",
-    "qvi",
     "rm",
     "ro",
     "ru",
@@ -96,7 +86,6 @@ locales = [
     "sq",
     "sr",
     "sv-SE",
-    "sw",
     "ta",
     "te",
     "th",
@@ -111,10 +100,6 @@ locales = [
     "xh",
     "zam",
     "zh-CN",
-    "zh-TW",
-    "zu",
-]
-
-[[paths]]
-    reference = "en/**/*.ftl"
-    l10n = "{locale}/**/*.ftl"
+    "zh-TW"
+  ]
+}
