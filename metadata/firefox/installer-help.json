@@ -2,9 +2,11 @@
   "active_locales": [
     "en-CA",
     "en-GB",
+    "es-CL",
     "nb-NO",
     "pt-BR",
     "sv-SE",
-    "uk"
+    "uk",
+    "zh-TW"
   ]
 }
