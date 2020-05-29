@@ -16,6 +16,32 @@ firefox-all-you-are-about-to-download = Ti apreuvo a scaregâ:
 firefox-all-browser = Navegatô:
 firefox-all-platform = Piataforma:
 firefox-all-language = Lengoa
+firefox-all-sorry-we-couldnt-find = Ne spiaxe, no poemmo trovâ o descaregamento che ti çerchi. Pe piaxei preuva torna, ò seleçionn-a un descaregamento da-a lista chi sotta.
+firefox-all-64-bit-installers = Programmi de instaçion a 64-bit
+firefox-all-choose-a-64-bit-installer = Piggia 'n istalatô a 64-bit pe-i computer con procesoî a 64-bit, che permetan de alocâ ciù RAM pe ògni programma — questo o l'é ben ben inportante pe-i zeughi e atre aplicaçioin inpegnative.
+firefox-all-32-bit-installers = Programmi de instaçion a 32-bit
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = Scarega o { -brand-name-firefox-browser } in zeneize e pe ciù de atre 90 lengoe
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access = Tutti meritan l'acesso a l'internet — a teu lengoa a no dovieiva ese mai 'na bârêa. Questo perché — con l'agiutto di volontai da tutto o mondo — niatri emmo fæto o { -brand-name-firefox-browser } in ciù de 90 lengoe.
+firefox-all-choose-which-firefox = Çerni quæ { -brand-name-firefox-browser } scaregâ inta teu lengoa
+firefox-all-firefox-privacy-notice = Informaçioin in sciâ privacy de { -brand-name-firefox }
+firefox-all-learn-about-firefox = Atre informaçioin in sci navegtoî { -brand-name-firefox }
+firefox-all-the-standard-firefox = O navegatô { -brand-name-firefox } standard — veloce e privou. Se no t'ê seguo quæ { -brand-name-firefox } ti veu, çerni sto chi.
+firefox-all-get-a-sneak-peek-at = Preuva in anteprimma e urtime fonçioin do navegatô { -brand-name-firefox } primma che vengiàn rilasciæ.
+firefox-all-test-your-sites-against = Fanni di test a-e fonçioin che saian fito rilasciæ into navegatô { -brand-name-firefox } graçie a-i nòstri potenti e flescibili Strumenti do svilupatô.
+firefox-all-count-on-stability-and = O megio de sto navegatô { -brand-name-firefox } o l'é a stabilitæ e façilitæ d'uzo, tutto creou pe-e aziende.
+firefox-all-windows-installers-for = I instalatoî pe Windows into anbito IT aziendale rendan ciù façile a configuraçion, sviluppo e gestion do { -brand-name-firefox-browser }.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+#   $platform (string) e.g. Windows, macOS, Linux
+#   $locale(string) e.g. English (US), German, French
+firefox-all-download-product-for = Scarega { $product_label } pe { $platform } in { $locale }
+firefox-all-msi-installers = Programmi de instalaçion MSI
+firefox-all-which-version = Che verscion ti veu?
+firefox-all-select-your-preferred-installer = Seleçionn-a l'instalatô ch'o te piaxe
+firefox-all-select-your-preferred-language = Seleçionn-a a lengoa ch'a te piaxe
+firefox-all-learn-about-installers = Atre informaçion in sci instalatoî
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
