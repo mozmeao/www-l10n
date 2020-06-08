@@ -2,6 +2,31 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
+navigation-get-a-firefox-account = Ստացեք { -brand-name-firefox-account }-ը
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser }-ը դեսքթոփի համար
+navigation-get-the-browser-that-respects = Ստացեք զննարկիչ, որը ինքնաբար հարգում է ձեր գաղտնիությունը՝ { -brand-name-windows }-ում, { -brand-name-mac }-ում և { -brand-name-linux }-ում:
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser }-ը բջջայինի համար
+navigation-take-speed-privacy-and = Վերցրեք Ձեզ հետ արագություն, գաղտնիություն և մտքի խաղաղություն՝ { -brand-name-android }-ում և { -brand-name-ios }-ում:
+navigation-download-for-ios = Ներբեռնել { -brand-name-ios }-ի համար
+navigation-download-for-android = Ներբեռնել { -brand-name-android }-ի համար
+navigation-ios-support = { -brand-name-ios }-ի աջակցում
+navigation-android-support = { -brand-name-android }-ի աջակցում
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser }-ը ձեռնարկությունների համար
+navigation-strap-on-your-goggles = Կպչեք ձեր ակնոցներին և քայլ կատարեք՝ ընկղմվելով վեբում VR-ի համար { -brand-name-firefox-browser }-ի հետ:
+navigation-firefox-for-fire-tv = { -brand-name-firefox }-ը { -brand-name-fire-tv }-ի համար
+navigation-watch-videos-and-browse = Դիտեք տեսանյութեր և զննարկեք համացանցը ձեր { -brand-name-amazon }{ -brand-name-fire-tv }-ով:
+navigation-firefox-browsers-put = { -brand-name-firefox } զննարկիչները առաջին տեղում են դնում ձեր գաղտնիությունը:
+navigation-take-the-passwords-youve = Վերցրեք գաղտնաբառերը, որոնք դուք պահպանել եք { -brand-name-firefox }-ում ամենուր Ձեզ հետ:
+navigation-firefox-is-a-whole-family = { -brand-name-firefox }-ը ծրագրերի ընտանիք է, որը նախագծված է առցանց Ձեզ անվտանգ և խելամիտ պահելու համար:
+navigation-join-firefox = Միացե՛ք { -brand-name-firefox }-ին
+navigation-access-all-of-firefox = Մատչեք { -brand-name-firefox }-ին պարզ մուտքագրմամբ և ստացեք ավելի յուրաքանչյուր ծրագրից:
+navigation-meet-the-firefox-family = Դիմավորեք { -brand-name-firefox }-ի ընտանիքը
+navigation-firefox-blog = { -brand-name-firefox }-ի բլոգ
+navigation-read-about-new-firefox = Կարդացեք նոր { -brand-name-firefox }-ի յուրահատկությունների մասին և ստացեք հուշումներ, թե ինչպես ապահով լինել առցանց:
+navigation-the-non-profit-behind = Ոչ առևտրային, որը մշակել է { -brand-name-firefox }-ը, և պայքարում է համացանցի առողջության համար:
+navigation-learn-how-firefox-treats = Իմացեք, թե ինչպես է { -brand-name-firefox }-ը հարգանքով վերաբերում ձեր տվյալներին:
+navigation-mozilla-careers = { -brand-name-mozilla } կարիերա
 navigation-release-notes = Թողարկման նշումները
 navigation-features = Հնարավորությունները
 navigation-products = Ծրագրեր
