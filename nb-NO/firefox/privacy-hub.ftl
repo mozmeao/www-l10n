@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
 # HTML page title
-firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } Personvernløfte
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } personvernløfte
 # HTML page description
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } tar mindre data, holder det trygt og uten hemmeligheter.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -36,7 +36,7 @@ firefox-privacy-hub-why-trust-firefox = Hvorfor skal du stole på { -brand-name-
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Fordi vi setter mennesker først. Faktisk er vi støttet av en <a href="{ $foundation }">ideel organisasjon</a>. Fra første dag har det vært vårt oppdrag å beskytte nette og alle som bruker det.
 firefox-privacy-hub-learn-more-about-our-mission = Les mer om oppdraget vårt
-firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkter fungerer annerledes — fordi de er utviklet for å beskytte personvernet ditt.
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkter fungerer annerledes — fordi de er utviklet for å beskytte personvernet ditt først.
 firefox-privacy-hub-learn-about-our-products = Les mer om produktene våre
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } beskytter personvernet ditt i hvert produkt.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskytter</strong> personvernet ditt i hvert produkt.
@@ -50,10 +50,17 @@ firefox-privacy-hub-see-what-firefox-has-blocked = Se hva { -brand-name-firefox 
 firefox-privacy-hub-get-enhanced-tracking-protection = Få utvidet sporingsbeskyttelse
 firefox-privacy-hub-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettleseren
 firefox-privacy-hub-update-your-firefox-browser = Oppdater din { -brand-name-firefox }-nettleser
+firefox-privacy-hub-invisible-to-the-top-trackers = Usynlig for de største sporerne
 firefox-privacy-hub-meet-four-of-the-most-common = Møt fire av de vanligste kategoriene av sporere — som ikke vil møte deg.
 firefox-privacy-hub-always-in-your-control = Alltid under din kontroll
+firefox-privacy-hub-want-to-customize-what = Vil du tilpasse hva som blir blokkert? Innstillingene er bare ett klikk unna.
 firefox-privacy-hub-protection-beyond-tracking = Beskyttelse utover sporing
+firefox-privacy-hub-if-you-have-a-firefox-account = Hvis du har en { -brand-name-firefox-account }, kan du også se hvordan vi hjelper deg med å beskytte din personlige informasjon og passord.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Mer enn { $trackers } sporere blokkerte hver dag for { -brand-name-firefox }-brukere over hele verden
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Når du oppgir e-postadressen din i { -brand-name-firefox-monitor }, glemmer vi den umiddelbart etter at vi har søkt etter et treff i kjente datalekkasjer — med mindre du godkjenner oss til å fortsette å se etter nye lekkasjer på dine personlige opplysninger.
 firefox-privacy-hub-check-for-breaches = Se etter datalekkasjer
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Passordene og legitimasjonene du lagrer i { -brand-name-firefox-lockwise } er kryptert på alle enhetene dine, så ikke engang vi kan se dem.
@@ -62,6 +69,7 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Vi kan ikke se navnene eller innholdet på de store filene du deler via { -brand-name-firefox-send } fordi de er kryptert med ende-til-ende-kryptering — du velger hvem som vil se hva du sender, og du kan til og med angi en utløpsdato og passord.
 firefox-privacy-hub-send-a-file = Send en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } anbefaler høykvalitetsartikler, satt sammen av mennesker uten å samle inn surfehistorikken din eller dele din personlige informasjon med annonsører.
 firefox-privacy-hub-get-pocket = Hent { -brand-name-pocket }
 firefox-privacy-hub-your-firefox-account = Din { -brand-name-firefox-account }
 firefox-privacy-hub-all-the-information-synced = All informasjonen som er synkronisert gjennom { -brand-name-firefox-account } — fra nettleserhistorikk til passord — er kryptert. Og passordet ditt er den eneste nøkkelen.
