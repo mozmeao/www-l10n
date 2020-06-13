@@ -7,12 +7,22 @@
 
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } 隱私權承諾
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } 對個人資料能少拿就少拿、確保資料安全、絕不偷偷來。
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-privacy-hub-firefox-products-are-designed = { -brand-name-firefox } 產品在設計時，就希望能保護您的<strong>隱私</strong>
 # Sub navigation title
 firefox-privacy-privacy = 隱私權
 # Sub navigation link
 firefox-privacy-our-promise = 我們的承諾
 # Sub navigation link
 firefox-privacy-our-products = 我們的產品
+firefox-privacy-hub-you-should-be-able-to-decide = 不只是在朋友之間，還是網路上的所有廣告商與企業（我們也算），都應該要讓您自行決定要讓誰看到您自己的個人資訊。
+firefox-privacy-hub-thats-why-everything-we-make = 這就是我們的所作所為，都必須遵守我們的「個人資料承諾」的原因
+firefox-privacy-hub-take-less = 能少拿就少拿
+firefox-privacy-hub-we-make-a-point-of-knowing = 我們希望知道您越少的資料越好
+firefox-privacy-hub-keep-it-safe = 確保資料安全
+firefox-privacy-hub-no-secrets = 絕不偷偷來
 firefox-privacy-hub-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }？
 firefox-privacy-hub-learn-more-about-our-mission = 更加了解我們的使命
 firefox-privacy-hub-learn-about-our-products = 了解我們的產品
