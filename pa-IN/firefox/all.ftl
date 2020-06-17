@@ -21,15 +21,15 @@ firefox-all-64-bit-installers = 64-ਬਿੱਟ ਇੰਸਟਾਲਰ
 firefox-all-choose-a-64-bit-installer = 64-ਬਿੱਟ ਪਰੋਸੈਸਰ ਵਾਲੇ ਕੰਪਿਊਟਰਾਂ ਲਈ 64-ਬਿੱਟ ਇੰਸਟਾਲਰ ਦੀ ਚੋਣ ਕਰੋ, ਜੋ ਕਿ ਉਹਨਾਂ ਨੂੰ ਵੱਖਰੇ ਪਰੋਗਰਾਮਾਂ ਲਈ ਵਧੇਰੇ RAM ਨਿਰਧਾਰਤ ਕਰਨ ਦੀ ਮਨਜੂਰੀ ਦਿੰਦਾ ਹੈ — ਖੇਡਾਂ ਅਤੇ ਹੋਰ ਮੰਗਾਂ ਵਾਲੇ ਕਾਰਜਾਂ ਲਈ ਵਿਸ਼ੇਸ਼ ਤੌਰ ਤੇ ਮਹੱਤਵਪੂਰਨ।
 firefox-all-32-bit-installers = 32-ਬਿੱਟ ਇੰਸਟਾਲਰ
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਅੰਗਰੇਜ਼ੀ (ਅਮਰੀਕੀ) ਅਤੇ 90 ਤੋਂ ਵੱਧ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } ਬਰਾਊਜ਼ਰ ਅੰਗਰੇਜ਼ੀ (ਅਮਰੀਕੀ) ਅਤੇ 90 ਤੋਂ ਵੱਧ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ਹਰ ਇੱਕ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਾ ਹੱਕ ਹੈ — ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਕਦੇ ਵੀ ਰੁਕਾਵਟ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ। ਇਸ ਲਈ — ਦੁਨੀਆ ਭਰ ਦੇ ਸਮਰਪਿਤ ਵਾਲੰਟੀਅਰਾਂ ਦੀ ਮਦਦ ਨਾਲ — ਅਸੀਂ 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਦੇ ਰਹੇ ਹਾਂ।
-firefox-all-choose-which-firefox = ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ
-firefox-all-firefox-privacy-notice = ਫਾਇਰਫਾਕਸ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ
-firefox-all-learn-about-firefox = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰਾਂ ਬਾਰੇ ਜਾਣੋ
-firefox-all-the-standard-firefox = ਮਿਆਰੀ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ — ਤੇਜ਼ ਅਤੇ ਨਿੱਜੀ। ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਨਹੀਂ ਪਤਾ ਹੈ ਕਿ ਕਿਹੜਾ ਫਾਇਰਫਾਕਸ ਚੁਣਨਾ ਹੈ, ਤਾਂ ਇਹ ਚੁਣੋ।
-firefox-all-get-a-sneak-peek-at = ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਦੇ ਰੀਲਿਜ਼ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਉਹਨਾਂ ‘ਤੇ ਝਾਤੀ ਮਾਰੀ।
-firefox-all-windows-installers-for = ਕਾਰਪੋਰੇਟ ਆਈਟੀ ਲਈ ਵਿੰਡੋਜ਼ ਇੰਸਟਾਲਰ ਜੋ ਫਾਇਰਫਾਕਸ ਬਰਾਉਜ਼ਰ ਦੇ ਸੰਰਚਨਾ, ਡਿਪਲਾਇਮੈਂਟ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਨੂੰ ਸਰਲ ਬਣਾਉਂਦਾ ਹੈ।
+firefox-all-everyone-deserves-access = ਹਰ ਇੱਕ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਾ ਹੱਕ ਹੈ — ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਕਦੇ ਵੀ ਰੁਕਾਵਟ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ। ਇਸ ਲਈ — ਦੁਨੀਆ ਭਰ ਦੇ ਸਮਰਪਿਤ ਵਾਲੰਟੀਅਰਾਂ ਦੀ ਮਦਦ ਨਾਲ — ਅਸੀਂ 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਵਿਚ { -brand-name-firefox-browser } ਬਰਾਊਜ਼ਰ ਦੇ ਰਹੇ ਹਾਂ।
+firefox-all-choose-which-firefox = ਚੁਣੋ ਕਿ ਕਿਹੜਾ { -brand-name-firefox-browser } ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ
+firefox-all-learn-about-firefox = { -brand-name-firefox } ਬਰਾਊਜ਼ਰਾਂ ਬਾਰੇ ਜਾਣੋ
+firefox-all-the-standard-firefox = ਸਟੈਂਡਰਡ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ — ਤੇਜ਼ ਅਤੇ ਨਿੱਜੀ। ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਨਹੀਂ ਪਤਾ ਹੈ ਕਿ ਕਿਹੜਾ { -brand-name-firefox } ਚੁਣਨਾ ਹੈ, ਤਾਂ ਇਹ ਚੁਣੋ।
+firefox-all-get-a-sneak-peek-at = ਨਵੇਂ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਦੇ ਰੀਲਿਜ਼ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਉਹਨਾਂ ‘ਤੇ ਝਾਤੀ ਮਾਰੀ।
+firefox-all-windows-installers-for = ਕਾਰਪੋਰੇਟ ਆਈਟੀ ਲਈ ਵਿੰਡੋਜ਼ ਇੰਸਟਾਲਰ ਜੋ { -brand-name-firefox-browser } ਬਰਾਉਜ਼ਰ ਦੇ ਸੰਰਚਨਾ, ਡਿਪਲਾਇਮੈਂਟ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਨੂੰ ਸਰਲ ਬਣਾਉਂਦਾ ਹੈ।
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-ਬਿੱਟ ਪ੍ਰੋਸੈਸਰਾਂ ਵਾਲੇ ਕੰਪਿਊਟਰਾਂ ਲਈ — ਜਾਂ ਪੁਰਾਣੇ ਜਾਂ ਘੱਟ ਸ਼ਕਤੀਸ਼ਾਲੀ ਕੰਪਿਊਟਰਾਂ ਲਈ 32-ਬਿੱਟ ਇੰਸਟਾਲਰ ਚੁਣੋ। <a href="{ $url }">ਜੇਕਰ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਨਹੀਂ ਹੋ</a> ਕਿ ਕੀ ਤੁਸੀਂ 64-ਬਿੱਟ ਜਾਂ 32-ਬਿੱਟ ਇੰਸਟਾਲਰ ਦੀ ਚੋਣ ਕਰੋਗੇ, ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ 32-ਬਿੱਟ ਨਾਲ ਜਾਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ।
