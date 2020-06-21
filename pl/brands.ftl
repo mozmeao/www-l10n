@@ -2,26 +2,76 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### Please read the trademarks localization guide
 ### https://mozilla-l10n.github.io/styleguides/mozilla_general/index.html#brands-copyright-and-trademark
 
+
 ## Company names
 
--brand-name-amazon = Amazon
--brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
+-brand-name-amazon =
+    { $case ->
+       *[nom] Amazon
+        [gen] Amazona
+        [dat] Amazonowi
+        [acc] Amazona
+        [ins] Amazonem
+        [loc] Amazonie
+    }
+-brand-name-apple =
+    { $case ->
+       *[nom] Apple
+        [gen] Apple’a
+        [dat] Apple’owi
+        [acc] Apple’a
+        [ins] Applem
+        [loc] Apple’u
+    }
+-brand-name-creative-commons = Creative Commons
+-brand-name-facebook =
+    { $case ->
+       *[nom] Facebook
+        [gen] Facebooka
+        [dat] Facebookowi
+        [acc] Facebooka
+        [ins] Facebookiem
+        [loc] Facebooku
+    }
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
--brand-name-mozilla = Mozilla
+-brand-name-mozilla =
+    { $case ->
+       *[nom] Mozilla
+        [gen] Mozilli
+        [dat] Mozilli
+        [acc] Mozillę
+        [ins] Mozillą
+        [loc] Mozilli
+    }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
+-brand-name-twitter =
+    { $case ->
+       *[nom] Twitter
+        [gen] Twittera
+        [dat] Twitterowi
+        [acc] Twittera
+        [ins] Twitterem
+        [loc] Twitterze
+    }
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefoksa
+        [dat] Firefoksowi
+        [acc] Firefoksa
+        [ins] Firefoksem
+        [loc] Firefoksie
+    }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Przeglądarka Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
