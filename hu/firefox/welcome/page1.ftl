@@ -14,4 +14,14 @@ welcome-page1-youre-on-track-to-stay-protected = Úton van ahhoz, hogy védve ma
 welcome-page1-youve-got-the-web-browser = Megkapta a webböngészőt, amely megvédi a magánszféráját – most itt az ideje, hogy szemmel tartsa a hackereket.
 welcome-page1-check-your-breach-report = Ellenőrizze az adatsértési jelentését
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = A { -brand-name-firefox-monitor } megmutatja, ha az adatai ismert adatsértésekben szivárogtak ki, és figyelmezteti Önt, ha a jövőben ilyen történik.
 welcome-page1-stay-ahead-of-hackers = Maradjon a hackerek előtt
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Találja meg a módját az információi megvédésére a <a href="{ $security_tips }">{ -brand-name-monitor } biztonsági tippekkel</a>.
+welcome-page1-stay-in-the-know = Maradjon a körforgásban
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Ön volt a 100 985 047 egyike, aki meghívást kapott az <a href="{ $evite_breach }">Evite adatsértési „partijára”</a>?
+welcome-page1-why-am-i-seeing-this = Miért látom ezt?
