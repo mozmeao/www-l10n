@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Ներբեռնել
-download-button-free-download = Ազատ բեռնումներ
+download-button-free-download = Անվճար ներբեռնումներ
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
@@ -24,9 +24,9 @@ download-button-your-system-does-not = Ձեր համակարգը չի համապ
 download-button-firefox-other-platforms = { -brand-name-firefox }-ը այլ հարթակների համար և այլ լեզուներով
 download-button-update-your-firefox = Թարմացրել { -brand-name-firefox }-ը
 download-button-get-firefox-android = Ձեռք բեր { -brand-name-firefox } { -brand-name-android }-ի համար
-download-button-get-firefox-ios = Ձեռք բեր { -brand-name-firefox }-ը { -brand-name-ios }-ի համար
+download-button-get-firefox-ios = Ձեռք բեր { -brand-name-firefox } { -brand-name-ios }-ի համար
 download-button-google-play = Ձեռք բեր { -brand-name-google-play }-ից
-download-button-free-google-play = Ազատորեն բեռնեք { -brand-name-google-play }-ից
+download-button-free-google-play = Անվճար ներբեռնեք { -brand-name-google-play }-ից
 download-button-app-store = Ներբեռնել անվճար { -brand-name-app-store }-ից
 download-button-download-app-store = Ներբեռնել { -brand-name-app-store }-ից
 download-button-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
@@ -34,8 +34,8 @@ download-button-your-system-may = Հնարավոր է՝ ձեր համակարգ�
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }-ն</span> { -brand-name-android }-ի համար
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }-ն</span> { -brand-name-android }-ի համար
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span>՝ { -brand-name-android }-ի համար
-download-button-firefox-android = <span>{ -brand-name-firefox }-ը</span> { -brand-name-android }-ի համար
+download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android }-ի համար
 download-button-firefox-ios = <span>{ -brand-name-firefox }-ը</span> { -brand-name-ios }-ի համար
 download-button-firefox-privacy = { -brand-name-firefox }-ի գաղտնիությունը
 download-button-firefox-privacy-notice = { -brand-name-firefox }-ի գաղտնիության ծանուցում
-download-button-download = Բեռնել
+download-button-download = Ներբեռնել
