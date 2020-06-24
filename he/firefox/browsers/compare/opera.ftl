@@ -6,6 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # HTML page title
-compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } ali { -brand-name-opera }: Kateri je boljši brskalnik za vas?
+compare-opera-firefox-vs-opera-which-is = ‏{ -brand-name-firefox } לעומת { -brand-name-opera }: מי הדפדפן הטוב יותר עבורך?
 # Main title
-compare-opera-comparing-firefox-browser = Primerjava brskalnika Firefox in { -brand-name-opera }
+compare-opera-comparing-firefox-browser = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-opera }

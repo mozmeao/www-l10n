@@ -6,6 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
 # HTML page title
-compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } ali { -brand-name-safari }: Kateri je boljši brskalnik za vas?
+compare-safari-firefox-vs-safari-which-is = ‏{ -brand-name-firefox } לעומת { -brand-name-safari }: מי הדפדפן הטוב יותר עבורך?
 # Main title.
-compare-safari-comparing-firefox-browser = Primerjava brskalnika Firefox in Apple Safari
+compare-safari-comparing-firefox-browser = השוואה בין { -brand-name-firefox-browser } ל־{ -brand-name-apple } { -brand-name-safari }
