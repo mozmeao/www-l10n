@@ -25,10 +25,20 @@ compare-brave-whether-this-sounds-complicated = 这听起来有点复杂，又�
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = 另一方面，对于 { -brand-name-firefox } 浏览器，我们偏向将事情简单化。  { -brand-name-firefox } 默认会阻止许多第三方跟踪器、挖矿程序和指纹跟踪器。不在“隐私浏览模式”时，{ -brand-name-firefox } 不会阻止广告的展示。就是这么简单，除非您安装了 <a { $attrs }>一款广告屏蔽扩展</a>。
+# Variables:
+#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
+#   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
+#   $privacy (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-brave-there-are-a-few-of-braves = { -brand-name-brave } 中有一些安全功能值得称道，比如它的“HTTPS 连接自动升级”（有一<a { $extension }>扩展</a>也可为 { -brand-name-firefox } 提供该功能 ）。{ -brand-name-brave } 和 { -brand-name-firefox } 都为用户提供了内置的<a { $lockwise }>密码管理器</a> 和随时检查安全统计信息的功能。{ -brand-name-brave } 在您每次打开新标签页时都会显示统计信息，内容包括已拦截的跟踪器数量等。{ -brand-name-firefox } 在您查看<a { $privacy }>隐私报告</a> 时，会展示类似的信息——您可以随时通过单击地址栏的盾形图标来查看隐私报告。
 # "Basic Attention Token" is a brand name.
 compare-brave-the-bottom-line-is-that-even = 最关键的是，尽管 { -brand-name-brave } 的 BAT 收入模型对于许多用户而言可能过于复杂，但总体来看  { -brand-name-brave } 和 { -brand-name-firefox } 浏览器还是都为用户享有安全私密的浏览体验提供了多种方法。
 compare-brave-what-might-surprise-some-new = 可能让一些 { -brand-name-brave } 新用户惊喜的是，其浏览器页面加载很快。加载快的原因是，当所有广告被屏蔽时，页面加载速度就会更快。加载较少的内容，当然所需的时间更少。
 compare-brave-in-terms-of-actual-precious = 就实际耗费的宝贵内存而言，{ -brand-name-brave } 浏览器比 { -brand-name-firefox } 重得多。 { -brand-name-brave } 预先加载各种功能和“附加组件”，这会让它使用更多的内存。另一方面，{ -brand-name-firefox } 允许您决定加载哪些附加组件和扩展。
+# Variables:
+#   $addons - link to addons.mozilla.org/firefox/ with additional attributes for analytics
+#   $screenshot - link to screenshots.firefox.com with additional attributes for analytics
+#   $pocket - link to getpocket.com with additional attributes for analytics
+compare-brave-customization-of-ui-elements = 自定义 UI 元素和主题多年来一直是 { -brand-name-firefox } 用户最喜欢的功能，而且我们热心的开发者社区已经建立了一个庞大的开源<a { $addons }>附加组件和扩展库</a>，支持更多的定制和功能。下载 { -brand-name-firefox }，同时得到强大的<a { $screenshot }>截屏工具</a>、无障碍功能以及内置的 <a { $pocket }>{ -brand-name-pocket }</a>——供您快速保存文章，随时随地阅读。
 compare-brave-brave-also-supports-the-huge = { -brand-name-brave } 也支持 { -brand-name-google } { -brand-name-chrome } 网络商店中庞大的扩展库，并提供了多种浏览器内置功能，例如前面讲到的 { -brand-name-brave } 奖励计划，并支持在浏览器中进行 torrent 下载。
 compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name-firefox } 已经使用了许多年，它可以让您在所有设备和操作系统上同步密码、扩展、表单数据，附加组件和其他首选项。同步数据也是加密的，没有人可以从外部访问这些数据。
 # "Basic Attention Token" is a brand name.
