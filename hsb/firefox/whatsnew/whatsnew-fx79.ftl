@@ -19,13 +19,17 @@ whatsnew79-with-one-tap-mozilla-vpn = Z jednym podótkom { -brand-name-mozilla-v
 # CTA link
 whatsnew79-get-started = Prěnje kroki
 whatsnew79-get-more-control-over = Wjace kontrole nad přesćěhowakami
+whatsnew79-firefox-blocks-more = { -brand-name-firefox } wjace wabjerjow a přesćěhowakow tomu zadźěwa, zo wam slěduja, hač hdy prjedy.
 # CTA link
 whatsnew79-see-your-report = Hlejće swoju rozprawu
 whatsnew79-update-your-firefox = Zaktualizujće swój wobhladowak { -brand-name-firefox }
 whatsnew79-download-the-firefox = Wobhladowak { -brand-name-firefox } sćahnyć
 whatsnew79-read-our-privacy-promise = Čitajće naše slubjenje priwatnosće
+whatsnew79-take-less-keep-it-safe = Hromadźimy mjenje. Dźeržimy to wěste. Nimamy žane potajnstwa. My wašu dowěru skradźu njeznjewužiwamy.
 # CTA link
 whatsnew79-read-more = Dalše informacije
+whatsnew79-keep-facebook-contained = Dźeržće { -brand-name-facebook } pod kontrolu
+whatsnew79-get-the-power-to-prevent = Zadźěwajće tomu, zo { -brand-name-facebook } a { -brand-name-instagram } wam po webje slědujetej.
 # CTA link
 whatsnew79-add-facebook-container = { -brand-name-facebook-container } přidać
 # Modal title
