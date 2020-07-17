@@ -11,12 +11,16 @@ compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } mgal { -brand-
 compare-ie-compare-internet-explorer-to = Serwes { -brand-name-ie } ɣer { -brand-name-firefox-browser } Akken ad twaliḍ anwa iminig i ifazen ɣer ɣur-k/m.
 # Main title
 compare-ie-comparing-firefox-browser-with = Aserwes gar { -brand-name-firefox-browser } akked { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Ticki { -brand-name-ie } n { -brand-name-microsoft } yettas-d yettwasbedd deg tuget n PCs yebnan ɣef Windows, yettban belli { -brand-name-microsoft } yesmenyaf aseqdec n yiminig-ines { -brand-name-edge }, yettusbadun d amezwer mi ara d-taɣeḍ.
 compare-ie-microsoft-discontinued-its-internet = Ddeqs n yiseggasen aya i yeǧǧa { -brand-name-microsoft } ticreḍt-ines { -brand-name-ie }, ɣef laǧalt n yiminig-ines { -brand-name-edge } i yettwaleqqmen i { -brand-name-windows } 10. Ɣas akken, aseqdec ẓẓayen n { -brand-name-edge } yesnulfa-d taxxamt i Internet Explore, aṭas aṭas ɣef ssebbat n umṣada n yimahilen.
 compare-ie-here-well-compare-our-firefox = Dagi, ad nserwes gar yiminig-nneɣ { -brand-name-firefox-browser } d { -brand-name-ie } deg wayen yeɛnan taɣellist, tanfa d uɛebbi. Ad ak-nɛiwen ad tegzuḍ amgired yellan gar yiminig atrar am { -brand-name-firefox } i yettqadaren ilugan n Web d yiminig-nniḍen i tesseqdaceḍ i yiswan n usedri neɣ si tannumi i tuɣeḍ ur tezmireḍ ara ad teǧǧeḍ d umatu.
 # Variables:
 #   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
 compare-ie-if-you-havent-moved-on-from-using = Ma yella teǧǧiḍ aseqdec n { -brand-name-ie }, ala imihi n tɣellist i d imigi ara ak-yesqenεen. Imḍebbar n tɣellist <a { $attrs }>{ -brand-name-microsoft }iεeggen-d ɣef waya</a> d imelyan n yimdanen mazal ttkemmilen deg useqdec n { -brand-name-ie } d iminig n web agejdan, ttarran iman-nsen deg yimihi meqqren.
 compare-ie-microsoft-is-no-longer-supporting = Misrosoft ur issefrak ara tinefliyin timaynutin i { -brand-name-ie }, ayen yebɣan ad d-yini uguren n tɣellist zgan llan. { -brand-name-microsoft } yesteɛṛef ɛinani lexṣaṣ yella s umata deg yileqman akken ma llan  n { -brand-name-ie }.
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your = D acu-tt tifrat i ilaqen ma yella takebbanit-ik·im tsedday isnasen iqburen i teddun kan ɣef { -brand-name-ie }? Lewṣaya-nneɣ igerrzen, ur sexlaḍ ara gar umahil d zzehwan. Awelleh-nneɣ, d aseqdec n { $attrs }aseɣzaf n tallalt n yiminig aqbur</a> i { -brand-name-windows }. Aseɣzaf-a ad teǧǧ iseqdacen ad ldin s wudem awurman tagrumma n URLs yettusbadun deg { -brand-name-ie } syen tuɣalin ɣer { -brand-name-firefox } lawan n tunigin ɣer taɣult-nniḍen.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
 #   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
