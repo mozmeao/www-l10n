@@ -9,7 +9,7 @@
 whatsnew79-page-title = { -brand-name-firefox } 的新变化
 # Main title
 whatsnew79-main-title = 任何人（包括我们）都看不到您的隐私数据
-whatsnew79-main-intro = 互联网应当是让每个人都能感到安全的地方，这也是为何 { -brand-name-firefox } 自己不会，也尽力防止其他人在网上跟踪您。
+whatsnew79-main-intro = 互联网应当是让每个人都能感到安全的地方，这也是 { -brand-name-firefox } 不会在网上跟踪您，并竭力阻止其他方跟踪的原因。
 # Main CTA button
 whatsnew79-primary-cta = 将 { -brand-name-firefox } 设为默认浏览器
 # Fallback CTA button, shown if Firefox is already a user's default browser
@@ -25,7 +25,7 @@ whatsnew79-see-your-report = 查看您的报告
 whatsnew79-update-your-firefox = 更新您的 { -brand-name-firefox } 浏览器
 whatsnew79-download-the-firefox = 下载 { -brand-name-firefox } 浏览器
 whatsnew79-read-our-privacy-promise = 阅读我们的隐私承诺
-whatsnew79-take-less-keep-it-safe = 索取更少、确保安全、绝不隐瞒。我们的的收入并非来自于滥用您对我们的信任。
+whatsnew79-take-less-keep-it-safe = 索取更少、确保安全、绝不隐瞒。我们的收入并非来自于滥用您对我们的信任。
 # CTA link
 whatsnew79-read-more = 阅读更多
 whatsnew79-keep-facebook-contained = 把 { -brand-name-facebook } 隔离起来
