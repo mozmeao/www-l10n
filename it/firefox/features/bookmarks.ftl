@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = Browser Firefox: segnalibri migliorati su tutte le piattaforme
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser(capitalization: "uppercase") }: segnalibri migliorati, ovunque ti trovi
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = Organizza facilmente i segnalibri in cartelle per accedervi su tutti i tuoi dispositivi, dal computer allo smartphone.
 features-bookmarks-better-bookmarks = Segnalibri all’ennesima potenza
@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Portali sempre con te
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Porta sempre con te le tue pagine preferite. Accedi ai segnalibri su tutti i tuoi dispositivi, dal computer allo smartphone, grazie a { -brand-name-firefox-sync }. Oppure prova <a href="{ $url }">{ -brand-name-pocket }</a> per salvare pagine e articoli online e rileggerli in un secondo momento anche senza connessione.
+features-bookmarks-customize-that-bookmark = Personalizza quel segnalibro
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Gestiscili come vuoi tu
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Sperimenta una gestione più raffinata dei segnalibri grazie ai <a href="{ $url }">componenti aggiuntivi</a> a loro dedicati: cattura screenshot dell’intera pagina, utilizza barre laterali per un accesso più rapido, oppure conservali al riparo da sguardi indesiderati.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
