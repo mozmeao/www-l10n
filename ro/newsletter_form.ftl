@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+newsletter-form-you-must-agree-to = Trebuie să fii de acord cu declarația de confidențialitate
 newsletter-form-your-email-here = ADRESA DE E-MAIL AICI
 newsletter-form-format = Format
 newsletter-form-html = HTML
@@ -9,7 +10,7 @@ newsletter-form-text = Text
 newsletter-form-get-firefox-news = Abonează-te la știri despre { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Sunt de acord ca { -brand-name-mozilla } să îmi gestioneze informațiile, conform explicațiilor din <a href="{ $url }">această Declarație de confidențialitate</a>
+newsletter-form-im-okay-with-mozilla = Sunt de acord ca { -brand-name-mozilla } să îmi gestioneze informațiile, conform explicațiilor din <a href="{ $url }">această Notificare privind confidențialitatea</a>
 newsletter-form-we-will-only-send = Îți vom trimite numai informații legate de { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Dacă nu ai confirmat anterior o abonare la un buletin informativ despre { -brand-name-mozilla }, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru a găsi e-mailul de la noi.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + tu
