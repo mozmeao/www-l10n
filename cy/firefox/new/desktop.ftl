@@ -12,7 +12,7 @@
 firefox-desktop-download-meta-title = Llwythwch { -brand-name-firefox-browser } - Cyflym, Preifat ac Am Ddim - gan { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Estynnwch { -brand-name-firefox }, porwr gwe am ddim gan { -brand-name-mozilla }, corff dim-er-elw sy'n ymroddedig i iechyd a phreifatrwydd y rhyngrwyd. Ar gael nawr ar { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios }.
 firefox-desktop-download-og-title = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
-firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof, ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
+firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o gof ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd yma.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Estynnwch y porwr sy'n diogelu'r hyn sy'n bwysig
 # shady is slang which suggests something is untrustworthy
@@ -20,7 +20,7 @@ firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau 
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cefnogaeth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim </strong> gwylio.
+firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-how-firefox-compares = Sut mae { -brand-name-firefox } yn cymharu â phorwyr eraill
 firefox-desktop-download-get-all-the-speed = Sicrhewch yr holl gyflymder ac offer heb ddim ymyriadau ar eich preifatrwydd. Mae { -brand-name-firefox-browser } yn casglu cyn lleied o ddata amdanoch chi, nid ydym hyd yn oed yn gofyn am eich cyfeiriad e-bost i'w lwytho i lawr. Mae hynny oherwydd yn wahanol i borwyr eraill, nid oes gennym unrhyw reswm ariannol i'ch dilyn o amgylch y we.
 firefox-desktop-download-how-we-compare = Sut rydyn ni'n cymharu â phorwyr eraill
@@ -133,6 +133,33 @@ firefox-desktop-download-grab-a-high = Cipiwch delwedd cydraniad uchel o unrhyw 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn rhwystro'n awtomatig llawer o <a { $attrs }>dracwyr trydydd parti</a> rhag casglu a gwerthu eich gweithgaredd gwe.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cefnogaeth { -brand-name-mozilla }</a> yr atebion.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda chi. Nawr beth am gael mwy fyth gan { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfrineiriau gyda { -brand-name-firefox-lockwise }, a mwy.
+firefox-desktop-download-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Llwytho'r Porwr i Lawr
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Bron a gorffen!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Nawr gorffen <strong>gosod</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Nawr <strong>rhedeg</strong> y gosodwr sydd newydd ei lwytho i lawr.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Nawr <strong>agor</strong> y ffeil sydd newydd ei llwytho i lawr.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth gyda'ch gosodiad </a>.
+firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithredu hen ac anniogel <a href="{ $url }">sydd ddim yn cael ei gynnal bellach gan { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Dylai'r llwytho ddigwydd yn awtomatig. Heb weithio? <a id="{ $id }" href="{ $fallback_url }">Ceisiwch eto</a>.
+firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr.
