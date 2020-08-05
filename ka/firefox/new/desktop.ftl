@@ -113,6 +113,12 @@ firefox-desktop-download-get-firefox-android = გადმოწერეთ { 
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
 firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.
 firefox-desktop-download-learn-about-the = ვრცლად, იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექმნა <a { $attrs }>{ -brand-name-mozilla }-მ</a> როგორც სწრაფი, მეტად პირადული ალტერნატივა { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვის. დღესაც, მიზანზე ორიენტირებული ჩვენი კომპანია და მოხალისეთა ერთობა, განაგრძობს თქვენი პირადულობის ყველაფერზე წინ დაყენებას.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში, იცავს { -brand-name-firefox }.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
