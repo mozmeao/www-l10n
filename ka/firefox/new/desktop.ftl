@@ -73,7 +73,7 @@ firefox-desktop-download-third-party-cookie = გარეშე ფუნთუ
 firefox-desktop-download-fingerprinter-blocking = ამოცნობის შეზღუდვა
 firefox-desktop-download-cryptominer-blocking = კრიპტოგამომმუშავებლის შეზღუდვა
 firefox-desktop-download-private-browsing-mode = პირადი თვალიერების რეჟიმი
-firefox-desktop-download-individual-protections-report = პირადი უსაფრთხოების ანგარიში
+firefox-desktop-download-individual-protections-report = დაცვის პირადი ანგარიში
 firefox-desktop-download-secure-your-personal = უსაფრთხოდ შეინახეთ მონაცემები
 firefox-desktop-download-breached-website-alerts = ცნობები, საიტებიდან ინფორმაციის მიტაცებისას
 firefox-desktop-download-built-in-password = პაროლის ჩაშენებული მმართველი
@@ -93,7 +93,7 @@ firefox-desktop-download-go-from-light = გადადით ნათელ�
 firefox-desktop-download-tweak-your-settings = მოირგეთ პარამეტრები
 firefox-desktop-download-theres-no-need = არაა აუცილებელი არსებულს დასჯერდეთ. შეცვალეთ ახალი ჩანართის გვერდი, ძიების ველი, სანიშნები და იმოგზაურეთ ინტერნეტში სასურველი გზებით.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესია ხალხი
+firefox-desktop-download-backed-by-the = <strong>არამომგებიანი</strong> ერთობისგან, რომლისათვისაც უპირველესი ხალხია
 firefox-desktop-download-challenging-the-status = ურყევი მიზანი 1998 წლიდან
 firefox-desktop-download-your-privacy-comes = თქვენი პირადულობა უწინარესია
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -108,11 +108,16 @@ firefox-desktop-download-sync-your-devices = დაასინქრონე�
 firefox-desktop-download-screenshots = ეკრანის სურათები
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
+firefox-desktop-download-from-watching-a = გაკვეთილს უყურებთ თუ საყვარელ გუნდს ადევნებთ თვალს, თქვენი ვიდეო მუდამ თქვენთან დარჩება, სხვა საქმეების კეთების დროსაც.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
 firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.
 firefox-desktop-download-learn-about-the = ვრცლად, იხილეთ ქვემოთ { -brand-name-firefox } ბრაუზერი კომპიუტერისთვის
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = უსაფრთხოებისთვის, ახალი ამბებისთვის, თამაშებისთვის, <a { $attrs }>გაფართოებები ყველაფრისთვისაა</a>. დაამატეთ რამდენიც მოგესურვებათ.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } შექმნა <a { $attrs }>{ -brand-name-mozilla }-მ</a> როგორც სწრაფი, მეტად პირადული ალტერნატივა { -brand-name-ie } ბრაუზერისთვის, ახლა უკვე { -brand-name-chrome }-ისთვის. დღესაც, მიზანზე ორიენტირებული ჩვენი კომპანია და მოხალისეთა ერთობა, განაგრძობს თქვენი პირადულობის ყველაფერზე წინ დაყენებას.
@@ -140,4 +145,21 @@ firefox-desktop-download-just-download-the-browser = უბრალოდ ჩ�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = თითქმის მზადაა!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = ახლა <strong>დააყენეთ</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>გაუშვით</strong> ახლადჩამოტვირთული დასაყენებელი ფაილი.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>გახსენით</strong> ახლადჩამოტვირთული ფაილი
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = დაბრკოლება შეგექმნათ? <a { $attrs }>მიიღეთ მხარდაჭერა დაყენებისას</a>.
+firefox-desktop-download-in-another-language = ჩამოტვირთეთ სხვა ენაზე ან სხვა საოპერაციო სისტემისთვის.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="{ $url }">აღარ უჭერს მხარს { -brand-name-firefox }</a>.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="{ $id }" href="{ $fallback_url }">სცადეთ ხელახლა.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი.
