@@ -41,17 +41,17 @@ firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebi
 firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn blino pawb ac yn gwneud i dudalennau gwe lwytho'n arafach, tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen i chi fynd i'ch gosodiadau diogelwch.
 firefox-desktop-download-see-your-report = Gweld eich adroddiad diogelu
 firefox-desktop-download-for-everyone = Mae { -brand-name-firefox } ar gyfer pawb
-firefox-desktop-download-available-in-over = Ar gael mewn dros 90 o ieithoedd, ac yn gydnaws â pheiriannau  { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, mae { -brand-name-firefox } yn gweithio ni waeth beth rydych chi'n ei ddefnyddio neu ble rydych chi. Sicrhewch fod eich system weithredu yn gyfredol ar gyfer y profiad gorau.
+firefox-desktop-download-available-in-over = Ar gael mewn dros 90 o ieithoedd, ac yn gweithio ar gyfrifiaduron  { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, mae { -brand-name-firefox } yn gweithio ar beth bynnag rydych chi'n ei ddefnyddio neu ble rydych chi. Gwnewch yn siŵr fod eich system weithredu yn gyfredol am y profiad gorau.
 firefox-desktop-download-review-system-req = Gwiriwch ofynion y system
 firefox-desktop-download-all-your-devices = Rhowch { -brand-name-firefox } ar eich holl ddyfeisiau
-firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-browsers } { -brand-name-ios } a { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, ni waeth ble rydych chi.
+firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-browsers }, { -brand-name-ios } ac { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, lle bynnag rydych chi.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gwneud <strong>popeth</strong> gyda { -brand-name-firefox }
-firefox-desktop-download-search-smarter = Chwilio'n glyfrach, yn gynt
+firefox-desktop-download-search-smarter = Chwilio'n glyfrach ac yn gynt
 firefox-desktop-download-search-from-address = Chwilio o'r bar cyfeiriad
 firefox-desktop-download-search-engine-options = Dewis o beiriannau chwilio
 firefox-desktop-download-smart-search-suggestions = Awgrymiadau chwilio clyfar
-firefox-desktop-download-bookmark-history = Nodau tudalen, hanes a thab agored mewn canlyniadau
+firefox-desktop-download-bookmark-history = Nodau tudalen, hanes a thab agored o fewn canlyniadau
 firefox-desktop-download-boost-your = Cynyddwch eich gweithgaredd
 firefox-desktop-download-works-with-google = Yn gweithio gyda chynnyrch { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Teclyn llun sgrin mewnol
@@ -67,7 +67,7 @@ firefox-desktop-download-block-autoplay-of = Rhwystro Awtochwarae fideo a sain
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Llun-mewn-Llun
 firefox-desktop-download-curated-content-on = Cynnwys wedi'i guradu ar dab newydd
-firefox-desktop-download-share-links = Rhannu dolen
+firefox-desktop-download-share-links = Rhannu dolenni
 firefox-desktop-download-protect-your-privacy = Diogelu eich preifatrwydd
 firefox-desktop-download-third-party-cookie = Rhwystro Cwcis Trydydd Parti
 firefox-desktop-download-fingerprinter-blocking = Rhwystro Bysbrintwyr
@@ -88,7 +88,7 @@ firefox-desktop-download-adjust-search-bar = Addasu gosodiadau'r bar chwilio
 firefox-desktop-download-change-new-tab = Newid cynllun tab newydd
 firefox-desktop-download-make-firefox-your = Gwnewch eich hun yn gartrefol yn y <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Estyniadau ar gyfer pob diddordeb
-firefox-desktop-download-change-up-your = Newid eich golwg
+firefox-desktop-download-change-up-your = Newid eich edrychiad
 firefox-desktop-download-go-from-light = Mynd o'r modd golau i'r modd tywyll yn dibynnu ar eich hwyliau neu'ch dewis, neu fywiogi pethau gyda thema arfer (uncorn enfys, efallai).
 firefox-desktop-download-tweak-your-settings = Addasu eich gosodiadau
 firefox-desktop-download-theres-no-need = Does dim angen bodloni. Gallwch newid y dudalen tab newydd, bar chwilio, nodau tudalen a mwy i grwydro'r rhyngrwyd yn y ffordd rydych chi ei eisiau.
@@ -103,7 +103,7 @@ firefox-desktop-download-all-your-favourite = Mae'ch holl hoff offer { -brand-na
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (a { -brand-name-instagram }) rhag eich tracio o amgylch y we.
+firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (ac { -brand-name-instagram }) rhag eich tracio o amgylch y we.
 firefox-desktop-download-sync-your-devices = Cydweddwch eich dyfeisiau
 firefox-desktop-download-screenshots = Lluniau Sgrin
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -129,7 +129,7 @@ firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae 
 firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Cipiwch delwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
+firefox-desktop-download-grab-a-high = Cipiwch ddelwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn rhwystro'n awtomatig llawer o <a { $attrs }>dracwyr trydydd parti</a> rhag casglu a gwerthu eich gweithgaredd gwe.
