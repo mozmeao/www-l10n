@@ -37,6 +37,29 @@ firefox-desktop-download-all-your-devices = Err { -brand-name-firefox } deg me�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Eg-it <strong>akk</strong> akked { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Anadi uḥric, arurad
+firefox-desktop-download-search-from-address = Anadi seg ufeggag n tansiwin
+firefox-desktop-download-search-engine-options = Tixtiṛiyin n umsedday n unadi
+firefox-desktop-download-smart-search-suggestions = Isumar n unadi uḥric
+firefox-desktop-download-bookmark-history = Tacreḍt n usebter, amazray d yiccer yeldin deg yigmaḍ
+firefox-desktop-download-boost-your = Sseǧhed tiffursa-inek·inem
+firefox-desktop-download-works-with-google = Teddun s yifarisen n { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Afecku n tuṭṭfa n ugdil usliɣ
+firefox-desktop-download-bookmarks-manager = Asefrek n tecraḍ n yisebtar
+firefox-desktop-download-autosuggest-urls = URLs n usumar awurman
+firefox-desktop-download-sync-across-devices = Mtawi gar yibenkan
+firefox-desktop-download-reader-mode = Askar n tɣuri
+firefox-desktop-download-spell-check = Asenqed n tira
+firefox-desktop-download-pinned-tabs = Accaren i yettwarzin
+firefox-desktop-download-stream-share-play = Zuzer, bḍu rnu urar
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Sewḥel taɣri tawurmant n tvidyut d umeslaw
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Tugna-deg-tugna
+firefox-desktop-download-share-links = Bḍu iseɣwan
+firefox-desktop-download-protect-your-privacy = Mmesten tabaḍnit-ik·im
+firefox-desktop-download-third-party-cookie = Asewḥel n yinagan n tuqqna n wis kraḍ
+firefox-desktop-download-fingerprinter-blocking = Asewḥel n udsil umḍin
+firefox-desktop-download-private-browsing-mode = Askar n tunigin tusligt
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
