@@ -18,6 +18,7 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } pro { -brand-name-fire-
 navigation-watch-videos-and-browse = Observa videos e naviga in internet sur tu { -brand-name-fire-tv } { -brand-name-amazon }.
 navigation-firefox-browsers-put = Le navigatores { -brand-name-firefox } antepone tu discretion desde sempre.
 navigation-take-the-passwords-youve = Porta tu contrasignos con te in { -brand-name-firefox } ubique.
+# Outdated string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } es tote un familia de productos concipite pro mantener te plus secur e plus intelligente in linea.
 navigation-join-firefox = Junge te a { -brand-name-firefox }
 navigation-access-all-of-firefox = Obtene le avantages de cata producto { -brand-name-firefox } per un singule accesso.
@@ -36,10 +37,19 @@ navigation-get-firefox-focus = Discarga { -brand-name-firefox-focus }
 navigation-android-extensions = Le extensiones de { -brand-name-android }
 navigation-your-firefox-account = Tu { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Tira le maxime avantage de { -brand-name-firefox }, inter tote le apparatos.
+# Outdated string
 navigation-learn-how-to-customize = Apprende a personalisar le functionamento de { -brand-name-firefox }.
+navigation-explore-the-immersive = Explora le Web immersive sur tu visor pro le realitate virtual.
+# Outdated string
 navigation-experience-augmented = Experientia augmentate e realitate virtual con { -brand-name-firefox }.
+navigation-get-together = Incontra altere personas in le realitate virtual con iste spatio social online.
+# Outdated string
 navigation-meet-people-in-experimental = Incontra personas in le salas experimental de conversation in realitate mixte con { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Realitate mixte de { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } porta le realitate virtual e augmentate sur le Web aperte.
+# Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } apporta { -brand-name-firefox } al realitate augmentate e virtual.
 navigation-firefox-built-just-for = { -brand-name-firefox }, construite solo pro le disveloppatores.
 navigation-preview-the-latest-build = Vide le ante-prima del ultime version de { -brand-name-firefox } e adjuta nos a lo optimisar.
@@ -64,6 +74,9 @@ navigation-security-tips = Consilios pro le securitate
 navigation-share-large-files-safely = Comparti grande files con securitate, con ligamines que se auto-destrue.
 navigation-save-quality-content = Salva contento de qualitate ex ubique. Alimenta tu mente ubique.
 navigation-sign-up = Inscriber se
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Veloce. Simple. Private.
+navigation-protect-your-entire-device = Protege completemente tu apparato e tote le applicationes. Masca tu position real e connecte usque a 5 apparatos. Inscribe te ora.
+# Outdated string
 navigation-connected-and-protected = Connexe e protegite
 navigation-join = Junge te a nos
 navigation-close-join-menu = Clauder le menu de junger se
@@ -76,11 +89,16 @@ navigation-meet-the-technology-company = Incontra le a compania technologic que 
 navigation-new-features = Nove functionalitates
 navigation-save-content-absorb-knowledge = Salva contento. Absorbe cognoscentia.
 navigation-same-speed-and-safety = Mesme velocitate e securitate que tu jam fide, designate justo pro negotios.
+# Outdated string
 navigation-add-ons = Additivos
 navigation-projects = Projectos
 navigation-close-projects-menu = Clauder le menu del projectos
 navigation-donate-your-voice-to = Dona tu voce pro adjutar a render le recognition del voce aperte a totes.
+navigation-machine-learning = Apprendimento automatic
+# Outdated string
 navigation-web-of-things-iot = Internet del objectos (IoT)
+navigation-help-make-deep-learning = Adjuta render disponibile algorithmos de deep learning al mundo open source
+# Outdated string
 navigation-make-devices-connected = Rende le apparatos connectite a internet salve, secur e interoperabile.
 navigation-developers = Disveloppatores
 navigation-close-developers-menu = Clauder le menu de disveloppamento
