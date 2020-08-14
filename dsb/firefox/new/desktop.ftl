@@ -5,12 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Ześěgniśo { -brand-name-firefox-browser } – malsny, priwatny a dermotny – wót { -brand-name-mozilla }
 firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
 firefox-desktop-download-how-firefox-compares = Pśirownanje mjazy { -brand-name-firefox } a drugimi wobglědowakami
+firefox-desktop-download-how-we-compare = Kak w pśirownanju k drugim wobglědowakam wótrěznjomy
 firefox-desktop-download-compare-firefox-to = Pśirownajśo { -brand-name-firefox } z:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -56,6 +63,9 @@ firefox-desktop-download-third-party-cookie = Blokěrowanje cookiejow tśeśich 
 firefox-desktop-download-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
 firefox-desktop-download-cryptominer-blocking = Blokěrowanje kryptokopakow
 firefox-desktop-download-private-browsing-mode = Priwatny modus
+firefox-desktop-download-individual-protections-report = Indiwiduelna rozpšawa wo šćiśe
+firefox-desktop-download-secure-your-personal = Zawěsććo swóje wósobinske informacije
+firefox-desktop-download-breached-website-alerts = Warnowanja wó websedłach z datowymi źěrami
 firefox-desktop-download-built-in-password = Zatwarjony zastojnik gronidłow
 firefox-desktop-download-clear-history = Historiju wulašowaś
 firefox-desktop-download-form-autofill = Awtomatiske wupołnjenje formularow
@@ -69,14 +79,24 @@ firefox-desktop-download-change-new-tab = Wugótowanje nowego rejtarika změniś
 firefox-desktop-download-extensions-for-every = Rozšyrjenja za kuždy zajm
 firefox-desktop-download-change-up-your = Změńśo naglěd
 firefox-desktop-download-tweak-your-settings = Pśiměŕśo swóje nastajenja
+firefox-desktop-download-challenging-the-status = Cwiblujomy na status quo wót lěta 1998
 firefox-desktop-download-your-privacy-comes = Priwatnosć ma nejwušu prioritu
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Ześěgniśo toś to rozšyrjenje wobglědowaka</a>, aby { -brand-name-facebook } a ({ -brand-name-instagram }) zajźował, wam pó webje slědowaś.
 firefox-desktop-download-sync-your-devices = Synchronizěrujśo swóje rědy
 firefox-desktop-download-screenshots = Fota wobrazowki
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Pólěpšony slědowański šćit (ETP)
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maśo južo wobglědowak. Wobstarajśo se něnto samo wěcej wót { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo gronidła z { -brand-name-firefox-lockwise } a wěcej.
@@ -86,6 +106,16 @@ firefox-desktop-download-just-download-the-browser = Ześěgniśo jadnorje wobgl
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Pśisamem zwónoźone!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Dokóńcćo něnto <strong>instalaciju</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = <strong>Wuwjaźćo</strong> něnto instalěrowański program, kótaryž sćo rowno ześěgnuł.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, kótaruž sćo rowno ześěgnuł.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
+firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Sćehńće { -brand-name-firefox-browser } – spěšn, priwatny a darmotny – wot { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Sćehńće { -brand-name-firefox-browser } – spěšny, priwatny a darmotny – wot { -brand-name-mozilla }
 firefox-desktop-download-og-title = Sćehńće dotal najspěšniši { -brand-name-firefox }
 firefox-desktop-download-og-desc = Strony so spěšnišo začitaja, mjenje składa so wužiwa a z wjele funkcijemi: Nowy { -brand-name-firefox } je wušoł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -96,7 +96,7 @@ firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { 
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
+firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće hesła z { -brand-name-firefox-lockwise } a wjace.
