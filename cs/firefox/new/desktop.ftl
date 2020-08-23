@@ -108,11 +108,31 @@ firefox-desktop-download-sync-your-devices = Synchronizace vašich zařízení
 firefox-desktop-download-screenshots = Snímky stránek
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Rozšířená ochrana proti sledování
+firefox-desktop-download-from-watching-a = Ať už na webu sledujete návod nebo svůj oblíbený tým, vaše video je stále s vámi, i když se naráz věnujete více věcem.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-android(case: "acc") }</strong>
 firefox-desktop-download-get-firefox-ios = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-ios(case: "acc") }</strong>
 firefox-desktop-download-download-the-mobile = Stáhněte si mobilní prohlížeč { -brand-name-firefox } k zajištění automatické ochrany na všech svých zařízeních.
 firefox-desktop-download-learn-about-the = Bližší informace o prohlížeči { -brand-name-firefox } pro počítač naleznete níže
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od zabezpečení přes zpravodajství až po hraní her, <a { $attrs }>pro každého existuje rozšíření</a>. Přidejte si jich dle libosti, dokud váš prohlížeč nebude umět všechno, co potřebujete.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } byl <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> vytvořen jako rychlejší a soukromější alternativa k prohlížečům jako je { -brand-name-ie }, a v současnosti { -brand-name-chrome }. I dnes naše společnost a komunita dobrovolníků stále klade vaše soukromí nade vše ostatní.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Zatímco se internet rozvíjí a mění, má { -brand-name-firefox } stále ve středu svého zájmu vaše právo na soukromí – nazýváme to <a { $attrs }>Slib ohledně ochrany osobních údajů</a>: Brát méně. Uchovávat v bezpečí. Žádná tajemství. Vaše údaje, vaše webová aktivita, váš online život jsou s { -brand-name-firefox(case: "ins") } chráněny.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozici na všech vašich zařízeních. Vezměte si své panely, historii a záložky s sebou. Vše, co k tomu potřebujete, je účet <a { $attrs }>{ -brand-name-firefox(case: "gen") }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Udělejte si snímek čehokoli na webu ve vysokém rozlišení pomocí našeho nástroje na vytváření <a { $attrs }>snímků stránek</a>, který je zabudován přímo v prohlížeči.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automaticky <a { $attrs }>blokuje mnoho sledovacích prvků třetích stran</a>, aby vaší webovou aktivitu nebylo možno shromažďovat a prodávat.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
@@ -127,6 +147,10 @@ firefox-desktop-download-just-download-the-browser = Stáhněte si prohlížeč
 firefox-desktop-download-almost-there = Téměř hotovo!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Teď už jen stačí { -brand-name-firefox(case: "acc") } <strong>nainstalovat</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Nyní tento stažený instalátor <strong>spusťte</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Nyní tento stažený soubor <strong>otevřete</strong>.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
