@@ -30,6 +30,21 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Да
 firefox-desktop-download-no = Не
+firefox-desktop-download-blocks-third-party = Блокира колачиће трећих страна
+firefox-desktop-download-autoplay-blocking = Блоирање аутоматксе репродукције
+firefox-desktop-download-blocks-social-trackers = Блокира праћење друштвених мрежа
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Доступност на оперативним системима
+firefox-desktop-download-in-browser-screenshot = Уграђени алат за снимање странице
+firefox-desktop-download-master-password = Главна лозинка
+firefox-desktop-download-we-block-the-ad = Ми блокирамо огласе који вас прате. Ви брже прегледате интернет.
+firefox-desktop-download-ads-are-distracting = Огласи ометају и успоравају учитавање веб страница, док њихови пратиоци бележе сваки покрет који направите на интернету. { -brand-name-firefox-browser } блокира већину пратилаца аутоматски, тако да не морате да проучавате безбедносна подешавања.
+firefox-desktop-download-see-your-report = Погледајте ваш извештај о заштити
+firefox-desktop-download-for-everyone = { -brand-name-firefox } је за све
+firefox-desktop-download-available-in-over = Доступан на преко 90 језика и прилагођен за { -brand-name-windows }, { -brand-name-mac-short } и { -brand-name-linux } машине, { -brand-name-firefox } ради без обзира на чему га користите или где да се налазите. Ипак, за најбоље искуство ажурирајте ваш оперативни систем.
+firefox-desktop-download-review-system-req = Проверите системске захтеве
+firefox-desktop-download-all-your-devices = Инсталирајте { -brand-name-firefox } на све ваше уређаје
+firefox-desktop-download-take-your-privacy = Понесите вашу приватност свуда са собом. { -brand-name-firefox-browsers } за { -brand-name-ios } и { -brand-name-android } имају исто јака подешавања приватности за спречавање пратилаца, где год да се налазите.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
