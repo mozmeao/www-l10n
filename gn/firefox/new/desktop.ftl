@@ -96,6 +96,9 @@ firefox-desktop-download-keep-all-your = Erekopa kundahára rembiapoite erohoryv
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Opaite ne rembipuru { -brand-name-google } ohayhuvéva (Gmail ha Docs umíva) omba’apo porã { -brand-name-firefox-browser } ndive.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Emboguejy ko kundahára jepysokue</a> ani hag̃ua { -brand-name-facebook } (ha { -brand-name-instagram }) nde rapykueho ñandutípe.
 firefox-desktop-download-sync-your-devices = Embojuehe ne mba’e’okakuéra
 firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -105,6 +108,12 @@ firefox-desktop-download-get-firefox-android = Ereko { -brand-name-firefox-brows
 firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-ios } peg̃uarã</strong>
 firefox-desktop-download-download-the-mobile = Emboguejy kundahára oku’éva { -brand-name-firefox } ñemo’ã ijeheguíva opaite mba’e’okápe g̃uarã.
 firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kundahára mesa arigua rehegua
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Egueru ta’ãnga iporãva oimeraẽva ñandutígui ore rembipuru <a { $attrs }>mba’erechaha jejapyhy</a> oĩva kundahára ndive.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegui <a { $attrs }>ojoko heta tapykuehoha mbohapyháva</a> ani hag̃ua ombyaty ha ohepyme’ẽ ne rembiapo ñandutípe.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
