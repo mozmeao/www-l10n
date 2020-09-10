@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = 遇到問題嗎？<a { $attrs }>獲得安裝
 firefox-desktop-download-in-another-language = 下載其他語言或其他平台版本。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
+firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分將保留。
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 { -brand-name-firefox }。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
