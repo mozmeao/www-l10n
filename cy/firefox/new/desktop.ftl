@@ -157,9 +157,20 @@ firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth g
 firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithredu hen ac anniogel <a href="{ $url }">sydd ddim yn cael ei gynnal bellach gan { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Dylai'r llwytho ddigwydd yn awtomatig. Heb weithio? <a id="{ $id }" href="{ $fallback_url }">Ceisiwch eto</a>.
 firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr.
+firefox-desktop-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond nid yw popeth wedi'i golli.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:
