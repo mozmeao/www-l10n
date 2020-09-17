@@ -24,9 +24,18 @@ contribute-tag-support = Ayuda
 contribute-task-translate-heading = Traducir contenido
 contribute-task-translate-desc = Internet solo es global si se comprende en todas partes. Ayudanos a traducir los productos y sitios web de { -brand-name-mozilla } a tu idioma local.
 contribute-task-mozilla-codebase-heading = Colaborá con la base del código { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Mejorá activamente los productos de { -brand-name-mozilla } contribuyendo a una variedad de oportunidades de desarrollo.
+contribute-task-support-desc = Ayudá a que los productos de { -brand-name-mozilla } sean fáciles de usar. Respondé las preguntas de “ayuda” de las personas como parte de los foros de la comunidad de soporte de { -brand-name-mozilla }.
+contribute-task-join-heading = Unite a la communidad
+contribute-task-join-desc = ¿Querés involucrarte más en la comunidad { -brand-name-mozilla }? Consultá todas las oportunidades de voluntariado en nuestro portal comunitario.
 
 ## Mission
 
+contribute-mission-heading = Nuestra misión
+contribute-learn = Conocé sobre { -brand-name-mozilla }
+contribute-read-manifesto = Leé nuestro manifiesto
+contribute-find-event = Encontrá un evento
+contribute-donate = Doná
 
 ## Made by
 
@@ -39,3 +48,4 @@ contribute-task-mozilla-codebase-heading = Colaborá con la base del código { -
 
 ## Web compat
 
+contribute-web-compat-heading = ¿Problemas con una página web?
