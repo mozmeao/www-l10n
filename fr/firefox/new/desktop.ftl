@@ -76,10 +76,13 @@ firefox-desktop-download-dark-mode = Mode sombre
 firefox-desktop-download-library-of-extensions = Bibliothèque d’extensions
 firefox-desktop-download-adjust-search-bar = Ajuster les paramètres de la barre de recherche
 firefox-desktop-download-extensions-for-every = Des extensions pour tous les goûts
+firefox-desktop-download-go-from-light = Passez du mode clair au mode sombre en fonction de votre humeur ou de vos préférences, ou bien animez les choses avec un thème personnalisé (pourquoi pas avec une licorne arc-en-ciel).
+firefox-desktop-download-tweak-your-settings = Ajustez vos paramètres
 firefox-desktop-download-your-privacy-comes = Le respect de votre vie privée est notre priorité
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Conservez toutes vos fonctionnalités de navigateur préférées et <strong> découvrez-en</strong> de nouvelles.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Synchronisez vos appareils
 firefox-desktop-download-screenshots = Captures d’écran
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protection renforcée contre le pistage
@@ -87,6 +90,18 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capital
 firefox-desktop-download-get-firefox-android = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Téléchargez le navigateur mobile { -brand-name-firefox } pour une protection automatique sur tous vos appareils.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De la sécurité aux actualités en passant par les jeux, il existe une <a { $attrs }>extension pour tout le monde</a>. Ajoutez-en autant que vous le souhaitez jusqu’à ce que votre navigateur soit parfait.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } est plus qu’un navigateur.
+firefox-desktop-download-interrupted = Votre téléchargement a été interrompu. Mais tout n’est pas perdu.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Veuillez suivre <a href="{ $url }">ces instructions</a> pour installer { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Votre système ne dispose peut-être pas de la configuration requise pour { -brand-name-firefox }, mais vous pouvez essayer l’une de <a href="{ $url }">ces versions</a>.
