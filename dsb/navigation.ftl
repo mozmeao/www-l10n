@@ -39,8 +39,10 @@ navigation-your-firefox-account = Wašo { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Wuwónoźćo nejlěpše z dožywjenja { -brand-name-firefox }, na kuždem rěźe.
 # Outdated string
 navigation-learn-how-to-customize = Zgóńśo, kak móžośo swój { -brand-name-firefox } pśiměriś.
+navigation-explore-the-immersive = Wuslěźćo imersiwny web ze swójim headsetom wirtuelneje reality.
 # Outdated string
 navigation-experience-augmented = Dožywśo z { -brand-name-firefox } rozšyrjonu a wirtuelnu realitu.
+navigation-get-together = Zmakajśo se we wirtuelnej realiśe z toś tym socialnym rumom online.
 # Outdated string
 navigation-meet-people-in-experimental = Zmakajśo z { -brand-name-firefox } ludźi w eksperimentelnych chattowych rumach měšaneje reality.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Měšana realita
@@ -73,6 +75,7 @@ navigation-share-large-files-safely = Źělśo wjelike dataje wěsće, z wótkaz
 navigation-save-quality-content = Składujśo kwalitne wopśimjeśe wóte wšuźi. Seśćo swój rozym wšuźi.
 navigation-sign-up = Registrěrowaś
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Malsny. Jadnory. Priwatny.
+navigation-protect-your-entire-device = Šćitajśo swój ceły rěd a wšykne nałoženja. Schowajśo swójo napšawdne stojnišćo a zwězajśo až do 5 rědow. Aboněrujśo něnto.
 # Outdated string
 navigation-connected-and-protected = Zwězany a šćitany
 navigation-join = Wobźěliś se
@@ -94,6 +97,7 @@ navigation-donate-your-voice-to = Pósććo swój głos, aby głosowe spóznaśe
 navigation-machine-learning = Mašinelne wuknjenje
 # Outdated string
 navigation-web-of-things-iot = Web wěcow (IoT)
+navigation-help-make-deep-learning = Pomagajśo swětoju wótwórjonego žrědła algoritmuse dłymokego wuknjenja k dispoziciji stajiś.
 # Outdated string
 navigation-make-devices-connected = Gótujśo graty, kótarež su zwězane z internetom, wěste, šćitane a kompatibelne.
 navigation-developers = Wuwijarje
