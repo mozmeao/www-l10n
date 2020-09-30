@@ -64,12 +64,13 @@ navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
 navigation-privacy = Απόρρητο
 navigation-get-unmatched-data-protection = Λάβετε ασύγκριτη προστασία δεδομένων με το ρυθμό εκδόσεων που ταιριάζει στην εταιρεία σας.
-navigation-made-with-respect = Φτιαγμένο με σεβασμό
+navigation-made-with-respect = Φτιαγμένα με σεβασμό
 navigation-close-products-menu = Κλείσιμο μενού προϊόντων
 navigation-see-if-your-personal = Δείτε αν τα προσωπικά σας στοιχεία έχουν διαρρεύσει στο διαδίκτυο και εγγραφείτε για ειδοποιήσεις παραβίασης.
 navigation-check-for-breaches = Έλεγχος για παραβιάσεις
 navigation-see-breaches = Προβολή παραβιάσεων
 navigation-security-tips = Συμβουλές ασφαλείας
+navigation-save-quality-content = Αποθηκεύστε ποιοτικό περιεχόμενο από οπουδήποτε. Βρείτε τροφή για σκέψη παντού.
 navigation-sign-up = Εγγραφή
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Γρήγορο. Απλό. Ιδιωτικό.
 # Outdated string
