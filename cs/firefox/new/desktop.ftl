@@ -31,11 +31,14 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Ano
 firefox-desktop-download-no = Ne
 firefox-desktop-download-blocks-third-party = Blokování sledovacích cookies třetích stran
+firefox-desktop-download-blocks-third-party-default = Blokování sledovacích cookies třetích stran ve výchozím stavu
 firefox-desktop-download-autoplay-blocking = Blokování automatického přehrávání
 firefox-desktop-download-blocks-social-trackers = Blokování sledovacích prvků sociálních sítí
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dostupnost pro více OS
 firefox-desktop-download-in-browser-screenshot = Nástroj pro vytváření snímků stránek
+firefox-desktop-download-primary-password = Hlavní heslo
+# Obsolete string
 firefox-desktop-download-master-password = Hlavní heslo
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
 firefox-desktop-download-ads-are-distracting = Reklamy odvádějí vaši pozornost a zpomalují načítání webových stránek. Zároveň jejich sledovací prvky zaznamenávají každý pohyb, který na internetu uděláte. { -brand-name-firefox-browser } blokuje většinu sledovacích prvků zcela automaticky, takže není třeba sahat do nastavení zabezpečení.
@@ -156,6 +159,9 @@ firefox-desktop-download-now-mac = Nyní tento stažený soubor <strong>otevřet
 firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
 firefox-desktop-download-in-another-language = Stáhnout v jiném jazyce nebo pro jiný operační systém.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Pokud vidíte hlášení, že instalovaná aplikace nebyla { -brand-name-microsoft(case: "ins") } ověřena, klepněte na „Přesto nainstalovat“ nebo <a { $attrs }>změňte nastavení doporučování aplikací</a>.
 firefox-desktop-download-visit-support-for-more = Další podrobnosti najdete na serveru podpory
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
