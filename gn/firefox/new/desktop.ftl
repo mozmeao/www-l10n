@@ -119,6 +119,9 @@ firefox-desktop-download-learn-about-the = Eikuave { -brand-name-firefox } kunda
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
 firefox-desktop-download-from-security-to = Ne rekorosã guive marandu ha ñembosarái peve, oĩ <a { $attrs }>moĩmbaha opavavépe g̃uarã</a>. Embojuaju eikotevẽva ne kundahára eipotaháicha peve.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } eipurukuaa opaite mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Opamba’e eikotevẽva ha’e <a { $attrs }>{ -brand-name-firefox } mba’ete</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Egueru ta’ãnga iporãva oimeraẽva ñandutígui ore rembipuru <a { $attrs }>mba’erechaha jejapyhy</a> oĩva kundahára ndive.
 # Variables:
@@ -148,6 +151,9 @@ firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-windows } térã { -brand-name-vista }, hákatu eipurukuaa gueteri { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
