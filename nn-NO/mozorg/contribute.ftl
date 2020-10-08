@@ -30,12 +30,15 @@ contribute-mission-heading = Oppdraget vårt
 contribute-learn = Les om { -brand-name-mozilla }
 contribute-read-manifesto = Les manifestet vårt
 contribute-find-event = Finn eit arrangement
+contribute-meet-volunteers = Møt våre eldfulle frivillige
 contribute-donate = Doner
 contribute-help-fund = Bidra til å finansiere oppdraget vårt
 contribute-follow-mozilla = Følg { -brand-name-mozilla }
+contribute-opportunities = Nyheiter og frivillige moglegheiter
 
 ## Made by
 
+contribute-made-by-heading = Laga av eldfulle folk som deg
 
 ## Newsletter
 
