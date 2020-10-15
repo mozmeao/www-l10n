@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = Firefox Səyyahı: Sürətli və Asan Parol İdarəçisi
+password-manager-firefox-browser = { -brand-name-firefox-browser }: Sürətli və asan parol idarəçisi
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } Parol İdarəçisi bütün parollarınızı tək yerdə saxlayır, beləliklə həm saytlara avtomatik daxil ola, həm də lazım olduqda saxlanılmış parolları yada sala bilərsiz.
 # Hero title
@@ -16,10 +16,12 @@ password-manager-password-hero = Parol qəhrəmanı
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Sıfırlamağı yaddan çıxarın. { -brand-name-firefox } Parol İdarəçisi bütün parollarınızı saxlayır, beləliklə həm avtomatik daxil ola, həm də parollarınızı rahatlıqla yadınıza sala bilərsiz. Daha çox təhlükəsizlik üçün <a href="{ $url }">ana parol</a> qurun.
+password-manager-password-magician = Parol sehirbazı
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Parol nindzası
 password-manager-no-more-try-again = Bir yerlərə daxil olmaqla əlləşərkən “təkrar yoxla”maqdan xilas olun. Telefonunuzda da Firefox Hesabınıza daxil olun və parollarınızı özünüzlə daşıyın.
+password-manager-password-champion = Parol çempionu
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Parol ustası
