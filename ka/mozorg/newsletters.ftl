@@ -113,16 +113,25 @@ newsletters-get-the-mozilla-newsletter = იკითხეთ { -brand-name-moz
 newsletters-your-email-preferences = თქვენი ელფოსტის პარამეტრები წარმატებით განახლდა.
 newsletters-consider-it-done = ჩათვალეთ, მზადაა
 newsletters-back-to-email-preferences = ელფოსტის პარამეტრებზე დაბრუნება
+newsletters-here-are-a-few-things = რამდენიმე საკითხი, რომლებზე დაფიქრებაც ღირს, სანამ ახალ წერილს ელოდებით.
 newsletters-take-your-privacy = თან წაიყოლეთ პირდულობა
 newsletters-travel-the-internet = იმოგზაურეთ ინტერნეტში უსაფრთხოდ, ნებისმიერი მოწყობილობით.
 newsletters-download-the-app = ჩამოტვირთეთ აპლიკაცია
 newsletters-check-for-data-breaches = თვალი ადევნეთ მონაცემთა მიტაცებებს
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } უფასო მომსახურებაა, რომლითაც გაარკვევთ, თქვენც ხომ არ შეგეხოთ მონაცემების მიტაცება.
 newsletters-sign-in-to-monitor = შედით { -brand-name-monitor }-ანგარიშზე
 newsletters-meet-our-parent-brand = გაიცანით ჩვენი მშობელი დაწესებულება
+newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, არამომგებიანი დაწესებულება { -brand-name-firefox }-ის უზრუნველმყოფი, რომელიც მოგებაზე წინ ხალხს აყენებს თითოეული სიტყვით, საქმით და მოქმედებით.
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-standards = სტანდარტების შესახებ
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = დამატების შემუშავება
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = შემმუშავებლის სიახლეები
+# Description for the newsletter in Newsletter subscription page (Developer Newsletter)
+newsletters-a-developers-guide = შემმუშავებლის სახელმძღვანელო, ვებსივრცეში დანერგილი სიახლეების, გამოცდილი ხერხების, ახალი მასალების უკეთ წარმოსაჩენად.
+# Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Drumbeat-არხი სიახლეებზე
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
