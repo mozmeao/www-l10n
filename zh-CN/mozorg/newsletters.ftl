@@ -139,12 +139,18 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } 桌面版
 newsletters-dont-miss-the-latest = 不要错过有关桌面版浏览器的最新公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = 参与进来
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights 洞察
 # Obsolete string
 newsletters-internet-health-report = 互联网健康报告
+# Description for the newsletter in Newsletter subscription page (Insights))
+newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } 会发布有关互联网健康与可信赖 AI 的相关文章，包括我们的年度互联网健康报告。
 # Obsolete string
 newsletters-keep-up-with-our-annual = 了解我们关于隐私与安全、开放性、数字融合、去中心化、网络素养等议题的年度研究与议题汇编。
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = 知识就是力量
+# Description for the newsletter in Newsletter subscription page (Knowledge is Power)
+newsletters-get-all-the-knowledge = 获取让您上网更安全、更智慧的知识。
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = 关于 Labs
 # Name for the newsletter in Newsletter subscription page
@@ -209,6 +215,8 @@ newsletters-firefox-os-smartphone-owner = 您有 { -brand-name-firefox-os } 智�
 newsletters-dont-miss-important-news = 不要错过有关您的 { -brand-name-firefox-os } 设备的重要新闻和更新。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = 每月的新闻邮件和特别公告会告诉您，如何最充分的使用您的 { -brand-name-firefox-os } 设备，包括最新的功能，以及 { -brand-name-firefox-marketplace }上最新的特色和酷炫应用。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = { -brand-name-firefox } 每周小窍门
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
@@ -227,8 +235,12 @@ newsletters-discover-the-latest = 发掘 { -brand-name-firefox-os } 上最新、
 newsletters-firefox-os-news = { -brand-name-firefox-os } 新闻、提示、发布信息及购买指南。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = 了解 { -brand-name-android } 版 { -brand-name-firefox } 的最新版本与消息。
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = { -brand-name-firefox } 新闻
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = 订阅能提升您 { -brand-name-firefox } 使用体验的操作指南、使用小窍门，以及相关新闻。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
@@ -252,6 +264,6 @@ newsletters-were-building-the-technology = 我们正在建构未来科技，快�
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
-newsletters-special-announcements-helping-you = 助您熟悉 { -brand-name-webmaker } 的特别公告。
+newsletters-special-announcements-helping-you = 帮助您熟悉 { -brand-name-webmaker } 的特别公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
