@@ -74,6 +74,7 @@ newsletters-while-here-why-not-check = 既然来了，何不看看更多 { -bran
 newsletters-get-up-and-go = 现在就开始
 newsletters-its-your-web-anywhere-you = 无论身在何处，Web 触手可及。
 newsletters-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版！
+newsletters-added-extras = 额外功能
 newsletters-make-firefox-do-more-with = 通过附加组件让 { -brand-name-firefox } 做更多事。
 newsletters-find-out-how = 看看怎样做到！
 newsletters-about-us = 关于我们
@@ -87,6 +88,8 @@ newsletters-unlock-the-world-of-web = 通过 { -brand-name-mozilla } 开发者�
 newsletters-join-thousands-of-developers = 与成千上万像您一样，想要学习 Web 开发最精华部分的开发者。
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = 在收件箱中放入更多的狐狸。
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = 看看 Web 的强大能力，以及 { -brand-name-firefox } 窍门、网络最新消息的每月通讯。
 newsletters-we-are-sorry-but-there = 很抱歉，我们的系统出现了问题，请稍后再试！
 newsletters-thanks-for-updating-your = 感谢您更新邮箱首选项。
 newsletters-the-supplied-link-has-expired-long = 提供的链接已过期。您会在下一封新闻通讯中收到新的链接，也可在下方直接要求提供带有链接的电子邮件。
@@ -106,13 +109,17 @@ newsletters-sign-up-read-up-stay-informed = 订阅、研读。<br>获取最新�
 newsletters-sign-up-read-up-make-a-difference = 订阅、研读。<br>有所感悟。
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = 了解有哪些议题会影响您的网络生活。
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = 订阅 { -brand-name-mozilla } 新闻通讯，了解有哪些议题会挑战互联网生态，并探索如何参与其中。
 newsletters-your-email-preferences = 已成功更新您的邮件首选项。
 newsletters-consider-it-done = 交给我们，马上就好
 newsletters-back-to-email-preferences = 返回邮件首选项
+newsletters-here-are-a-few-things = 在等待下一封电子邮件到来前，可以先看看下面几件事。
 newsletters-take-your-privacy = 让隐私常伴身边
 newsletters-travel-the-internet = 守护你的网上冲浪，随身相伴。
 newsletters-download-the-app = 下载应用程式
 newsletters-check-for-data-breaches = 检查是否有数据外泄事件
+newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } 是一项能让您检查是否受到数据外泄事件影响的免费服务。
 newsletters-sign-in-to-monitor = 登录 { -brand-name-monitor }
 newsletters-meet-our-parent-brand = 认识我们的母品牌
 # Name for the newsletter in Newsletter subscription page
@@ -132,11 +139,15 @@ newsletters-internet-health-report = 互联网健康报告
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = 知识就是力量
 # Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = 关于 Labs
+# Name for the newsletter in Newsletter subscription page
 newsletters-desktop = 桌面版
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = 谋智人
 # Description for the newsletter in Newsletter subscription page (Mozillians)
 newsletters-email-updates-from-vouched = 为 mozillians.org 上有担保的谋智人提供的新闻通讯。
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Shape of the Web
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 newsletters-news-and-information = 与 Web 生态相关的新闻和信息。
 # Description for the newsletter in Newsletter subscription page (Student Reps)
@@ -207,12 +218,18 @@ newsletters-firefox-for-android = { -brand-name-android } 版 { -brand-name-fire
 newsletters-firefox-news = { -brand-name-firefox } 新闻
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = 关于致力于建构开放 Web 的未来的 { -brand-name-mozilla } 年度嘉年华的特别公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } 新闻
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = 定期更新，让您了解并参与我们，一起让互联网变得更好。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 newsletters-special-accouncements-and-messages = 致力保持 Web 自由与开放的团队发布的特别公告和消息。
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = { -brand-name-mozilla } Learning Network
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
 newsletters-updates-from-our-global = 来自我们全球社区的最新动态，帮助人们了解这个时代最重要的能力：阅读、写作以及参与数字世界的能力。
 # Name for the newsletter in Newsletter subscription page
