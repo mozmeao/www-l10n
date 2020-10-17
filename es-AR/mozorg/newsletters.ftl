@@ -88,3 +88,34 @@ newsletters-unlock-the-world-of-web = Descubra el mundo del desarrollo web con n
 newsletters-join-thousands-of-developers = Unite a miles de desarrolladores como usted que están aprendiendo lo mejor del desarrollo web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Dejá que Firefox se meta en tu buzón.
+# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-see-where-the-web-can-take = Descubre dónde puede llevarte la web con consejos, trucos e información de Internet mensual sobre { -brand-name-firefox }.
+newsletters-we-are-sorry-but-there = Disculpá, pero hubo un error en nuestro sistema. ¡Intentá de nuevo más tarde!
+newsletters-thanks-for-updating-your = Gracias por actualizar tus preferencias de correo electrónico.
+newsletters-the-supplied-link-has-expired-long = El enlace proporcionado caducó o no es válido. Recibirás uno nuevo en el próximo boletín, o a continuación podés solicitar un correo electrónico con el enlace.
+newsletters-success-an-email-has-been-sent = ¡Correcto! Te te enviamos un correo electrónico con el enlace a tu centro de preferencias. ¡Gracias!
+newsletters-this-is-not-a-valid-email = Esta no es una dirección de correo electrónico válida. Por favor revisá la ortografía.
+newsletters-you-send-too-many-emails = Enviás demasiados correos electrónicos.
+newsletters-your-content-wasnt-relevant = El contenido no era interesante para mi.
+newsletters-your-email-design = El diseño del boletín era demasiado difícil de leer.
+newsletters-i-didnt-sign-up = No me registré para esto.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/newsletter/
+newsletters-this-email-address-is-not = Esta dirección de correo electrónico no está en nuestro sistema. Volvé a verificar tu dirección o <a href="{ $url }"> suscribite a nuestros boletines. </a>
+newsletters-im-keeping-in-touch = En cambio, me mantengo en contacto con { -brand-name-mozilla } en { -brand-name-facebook } y { -brand-name-twitter }.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Registrate, lee y mantenete informado.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Registrate. Lee. <br> Marcá la diferencia.
+# Subtitle for https://www.mozilla.org/newsletter/mozilla/
+newsletters-get-smart-on-the-issues = Enterate de los problemas que afectan tu vida en línea.
+# Obsolete string
+newsletters-get-the-mozilla-newsletter = Obtené el boletín de { -brand-name-mozilla } para mantenerte informado sobre los problemas que desafían la salud de Internet y descubrir cómo podés participar.
+newsletters-your-email-preferences = Tus preferencias de correo electrónico se actualizaron correctamente.
+newsletters-consider-it-done = Consideralo hecho
+newsletters-back-to-email-preferences = Volver a las preferencias de correo electrónico
+newsletters-here-are-a-few-things = Acá tenés algunas cosas en las que profundizar mientras estás esperando tu próximo correo electrónico.
+newsletters-take-your-privacy = Llevá la privacidad con vos
+newsletters-travel-the-internet = Navegá por Internet con protección en todos los dispositivos.
+newsletters-download-the-app = Descargá la aplicación
+newsletters-check-for-data-breaches = Verificá si hay violaciones de datos
