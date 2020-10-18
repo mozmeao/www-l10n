@@ -86,6 +86,8 @@ newsletters-love-the-web-so-do-we = E doni web-in? Edhe ne e duam!
 newsletters-unlock-the-world-of-web = Hapni botën e zhvillimit web me Buletinin tonë javor të Zhvilluesve { -brand-name-mozilla }. Çdo edicion ju sjell teknika kodimi dhe shembujt më të mirë, përditësime nga { -brand-name-mdn },të dhëna rreth teknologjish të ardhshme, ndihmëza mjetesh zhvilluesish, etj.
 # Obsolete string
 newsletters-join-thousands-of-developers = Bashkojuni mijëra zhvilluesve si ju, që po mësojnë ajkën e zhvillimit web.
+# Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-put-more-fox-in-your-inbox = Merrni më tepër Firefox në email-et tuaj.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Shihni se ku mund t’ju shpjerë Web-i, me ndihmëza të përmuajshme për { -brand-name-firefox }-in, marifete dhe zbulim Internet.
 newsletters-we-are-sorry-but-there = Na ndjeni, por pati një problem me sistemin tonë. Ju lutemi, riprovoni më vonë!
@@ -137,6 +139,8 @@ newsletters-firefox-for-desktop = { -brand-name-firefox } për desktop
 newsletters-dont-miss-the-latest = Mos humbni njoftimet më të reja rreth shfletuesin tonë për desktop.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Përfshihuni
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Raport i Shëndetit të Internetit
 # Description for the newsletter in Newsletter subscription page (Insights))
@@ -173,12 +177,22 @@ newsletters-new-product-testing = Testim Produktesh të Reja
 newsletters-help-us-make-a-better = Ndihmonani në ndërtimin e një { -brand-name-firefox } më të mirë për ju, duke përdorur për testim produktet dhe veçoritë tona më të reja.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Bashkësia { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla Community)
+newsletters-join-mozillians-all-around = Bëhuni pjesë e Moxillianëve anembanë botës, dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahje të misionit të { -brand-name-mozilla }-s.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-affiliates = Partnerë të { -brand-name-firefox }-it
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 newsletters-a-monthly-newsletter-affiliates = Një buletin i përmuajshëm që t’ju mbajë të përditësuar lidhur me programin { -brand-name-firefox } Affiliates.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Ambasadorë { -brand-name-firefox } Nxënësish
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Një buletin mujor se si të përfshiheni me { -brand-name-mozilla }-n në shkollën tuaj.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = Lajme { -brand-name-beta }
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Lexoni rreth veçorive më të reja për { -brand-name-firefox }-in për desktop dhe celular, përpara hedhjes përfundimtare në qarkullim.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Shkarkoni { -brand-name-firefox }-in për { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
@@ -189,23 +203,71 @@ newsletters-download-firefox-for-ios = Shkarkoni { -brand-name-firefox }-in për
 newsletters-download-firefox-for-mobile = Shkarkoni { -brand-name-firefox }-in për Celular
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Ndihmëza mbi { -brand-name-firefox-accounts }
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+newsletters-get-the-most-firefox-account = Përfitoni maksimumin nga { -brand-name-firefox-account } juaj.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Përditësime periodike me email rreth konkursit tonë vjetor ndërkombëtar të filmi.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Description for the newsletter in Newsletter subscription page (Firefox iOS)
+newsletters-be-the-first-to-know = Jini i pari që mësoni se kur do të jetë gati { -brand-name-firefox }-i për pajisje { -brand-name-ios }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Pronar i një telefoni { -brand-name-firefox-os }?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Mos humbni lajme dhe përditësime të rëndësishme rreth pajisjesh suaj { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + You
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Një buletin mujor dhe lajme speciale se si të përfitoni maksimumin nga pajisja juaj { -brand-name-firefox-os }, përfshi veçoritë më të reja dhe aplikacionet më të lezetshme nga { -brand-name-firefox-marketplace }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-weekly-tips = Ndihmëza të Përjavshme për { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
+newsletters-get-a-weekly-tip = Merrni një ndihmëz të përjavshme se si ta superfuqizoni punën tuaj me { -brand-name-firefox }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-join-mozilla = Bëhuni pjesë e { -brand-name-mozilla }-s
+# Name for the newsletter in Newsletter subscription page
+newsletters-maker-party = Maker Party
+# Description for the newsletter in Newsletter subscription page (Maker Party)
+newsletters-mozillas-largest-celebration = Kremtimi më i madh nga { -brand-name-mozilla } i krijimit dhe nxënies në web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-discover-the-latest = Zbuloni aplikacionet HTML5 më të reja, më të lezetshme për { -brand-name-firefox-os }.
+# Description for the newsletter in Newsletter subscription page (Firefox OS)
+newsletters-firefox-os-news = Lajme, ndihmëza, informacion për hedhje në qarkullim dhe se ku të blihet { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } për { -brand-name-android }
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+newsletters-keep-up-with-releases = Ndiqni hedhjet në qarkullim dhe lajmet rreth { -brand-name-firefox } për { -brand-name-android }.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-news = Lajme { -brand-name-firefox }
+# Description for the newsletter in Newsletter subscription page (Firefox News)
+newsletters-get-how-tos = Merrni përkujdesore “how-to”, këshilla dhe lajme për ta bërë punimin tuaj në { -brand-name-firefox } më të mirin për ju.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
+# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
+newsletters-special-announcements-about-mozilla = Njoftime speciale rreth festivalit-praktikë të përvitshëm { -brand-name-mozilla }, kushtuar farkëtimit të së ardhmes së Web-it të hapur.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Lajme { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla News)
+newsletters-regular-updates-to-keep = Përditësime të rregullta për t’ju mbajtur në dijeni dhe aktiv në betejën tonë për një internet më të mirë.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+newsletters-special-accouncements-and-messages = Njoftime dhe mesazhe speciale prej ekipit të përkushtuar mbajtjes së Web-ir të lirë dhe të hapur.
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozilla-learning-network = Rrjeti { -brand-name-mozilla } i të Nxënit
+# Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
+newsletters-updates-from-our-global = Përditësime nga bashkësia jonë mbarëbotërore, për të ndihmuar njerëzit të mësojnë aftësitë më të rëndësishme të epokës sonë:aftësinë për të lexuar, shkruar dhe marrë pjesë në botën dixhitale.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
+# Description for the newsletter in Newsletter subscription page (Mozilla Labs)
+newsletters-were-building-the-technology = Po krijojmë teknologjinë e të ardhmes. Ejani ta eksplorni me ne.
 # Name for the newsletter in Newsletter subscription page
 newsletters-webmaker = { -brand-name-webmaker }
+# Description for the newsletter in Newsletter subscription page (Webmaker)
+newsletters-special-announcements-helping-you = Njoftime speciale për t’ju ndihuar të përfitoni maksimumin nga { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-android = { -brand-name-android }
