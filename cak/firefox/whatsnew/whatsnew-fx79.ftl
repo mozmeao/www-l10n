@@ -9,11 +9,13 @@
 whatsnew79-page-title = Achike k'ak'a' k'o pa { -brand-name-firefox }
 # Main title
 whatsnew79-main-title = Tanab'eyisaj ri kichinaxik atzij chi kiwa konojel – chuqa' chi qawa
+whatsnew79-main-intro = K'o ta chi ri k'amaya'l jun k'ojlib'äl jikïl chi qe qonojel. Ruma ri' ri { -brand-name-firefox } man yatrojqaj ta pa k'amb'ey chuqa' man nuya' ta q'ij chi ch'aqa' chik yatkojqaj.
 # Main CTA button
 whatsnew79-primary-cta = Tib'an { -brand-name-firefox } chi K'o wi
 # Fallback CTA button, shown if Firefox is already a user's default browser
 whatsnew79-fallback-cta = Tak'ulu' ri { -brand-name-firefox } Chokoy
 whatsnew79-secure-your-connection = Tajikib'a' ri awokem
+whatsnew79-with-one-tap-mozilla-vpn = Rik'in jun tzeq', { -brand-name-mozilla-vpn } nrewaj rusik'ixik ri awokem richin nichinäx ri asamaj pa k'amab'ey pa xab'achike jikïl — k'amab'ey chi kiwa ajjak chuqa' juley itzel taq tz'etoj.
 # CTA link
 whatsnew79-get-started = Titikirisäx
 # CTA link
