@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy
+learn-more-about = Scopri di più sui browser e i prodotti { -brand-name-firefox }, che trattano i tuoi dati con rispetto e sono sviluppati con un occhio di riguardo alla privacy per la tua navigazione online.
 learn-more = Ulteriori informazioni
 the-history-of = La storia dei browser web
 firefox-rebel-with = { -brand-name-firefox }: l’idealista ribelle
@@ -15,6 +16,7 @@ get-the-browsers = Usa i browser che mettono la tua privacy al primo posto, da s
 take-your-passwords = Porta le tue password sempre con te
 securely-access-the = Accedi in tutta sicurezza alle password salvate in { -brand-name-firefox } dovunque, anche all’esterno del browser.
 choose-which-firefox = Scegli quale { -brand-name-firefox-browser } scaricare nella tua lingua
+firefox-fights-for = { -brand-name-firefox } si batte per te su { -brand-name-windows }
 firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
 firefox-for-windows = { -brand-name-firefox } per { -brand-name-windows } a 64 bit
 seven-of-the = Sette dei migliori browser messi a confronto
