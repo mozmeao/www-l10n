@@ -10,6 +10,7 @@
 
 contribute-page-title = { -brand-name-mozilla }’daki Gönüllülük Olanakları
 contribute-page-heading = Daha iyi bir internet için yeteneklerinize ihtiyacımız var
+contribute-page-intro = { -brand-name-mozilla }, internetin herkese açık ve kucaklayıcı olmasını sağlamak için çalışan, kâr amacı gütmeyen bir kuruluştur. Ve yardımınıza ihtiyacımız var. Aramıza katılarak inovasyonu artırmaya, hesap verebilirlik ve güven sağlamaya ve interneti herkes için daha iyi bir yere dönüştürmeye yardımcı olabilirsiniz.
 contribute-how-heading = Nasıl katkıda bulunabilirsiniz?
 
 ## Contribution tasks
@@ -19,14 +20,19 @@ contribute-tag-technical = Teknik
 contribute-tag-technical-non-technical = Hem teknik hem teknik olmayan
 contribute-tag-individual-event = Bireysel ve etkinlik organizasyonu
 contribute-tag-individual = Bireysel
+contribute-tag-support = Destek
 contribute-task-translate-heading = İçerik çevirisi yapın
 contribute-task-translate-desc = İnternet ancak her yerde anlaşılırsa küreseldir. { -brand-name-mozilla } ürünlerini ve web sitelerini kendi dilinize çevirmemize yardımcı olun.
 contribute-task-mozilla-codebase-heading = { -brand-name-mozilla } kod tabanına katkıda bulunun
+contribute-task-mozilla-codebase-desc = Çeşitli geliştirme olanaklarına katkıda bulunarak { -brand-name-mozilla } ürünlerini aktif bir şekilde geliştirin.
+contribute-task-support-desc = { -brand-name-mozilla } ürünlerinin kullanımını kolaylaştırın. { -brand-name-mozilla } Destek forumlarına katılarak kullanıcıların destek taleplerini yanıtlayın.
 contribute-task-join-heading = Topluluğa katılın
+contribute-task-join-desc = { -brand-name-mozilla } topluluğuna daha fazla katkıda bulunmak ister misiniz? Topluluk Portali'mizdeki tüm olanakları göz atın.
 
 ## Mission
 
 contribute-mission-heading = Misyonumuz
+contribute-mission-desc = Misyonumuz, internetin açık ve herkesçe erişilebilir, küresel bir ortak kaynak olarak kalmasını sağlamak. İnsanları gerçekten ilk sıraya koyan; bireylerin kendi deneyimlerini şekillendirebildiği, gücü ellerinde tuttuğu, güvende ve bağımsız olduğu bir internet inşa ediyoruz.
 contribute-learn = { -brand-name-mozilla } hakkında bilgi alın
 contribute-read-manifesto = Manifestomuzu okuyun
 contribute-find-event = Etkinlik bulun
@@ -38,10 +44,14 @@ contribute-opportunities = Haberler ve gönüllülük olanakları
 
 ## Made by
 
+contribute-made-by-heading = İnternete tutkuyla bağlıyız. Tıpkı sizin gibi.
+contribute-made-by-desc = { -brand-name-mozilla }’ya katkıda bulunduğunuzda, internetin iyilik için kullanılması gereken bir güç olduğuna inanan, dünyanın her yanına yayılan bir camiaya katılmış oluyorsunuz.
 
 ## Newsletter
 
+contribute-newsletter-heading = Karar veremediniz mi?
 contribute-newsletter-sub-heading = Topluluk ve gönüllük haberleri e-posta adresinize gelsin
+contribute-newsletter-desc = Bültenimize abone olun, dünyanın her yanındaki Mozillan’lara katılın ve { -brand-name-mozilla } misyonunu desteklemenizi sağlayacak olanaklar hakkında bilgi edinin.
 
 ## Support
 
