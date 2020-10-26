@@ -7,8 +7,8 @@
 
 # HTML page title
 firefox-faq = Perguntas frequentes sobre o { -brand-name-firefox }
-whether-you-searched-privacy = Independentemente de você ter ou não procurado um navegador rápido que proteja sua privacidade, esta lista de perguntas frequentes está aqui para responder às questões mais urgentes relacionadas ao { -brand-name-firefox }.
-whether-you-searched-independant = Quer você tenha pesquisado um navegador rápido, ou esteja procurando uma empresa de tecnologia independente que protege sua privacidade, esta lista de perguntas frequentes está aqui para responder às questões mais urgentes relacionadas ao { -brand-name-firefox }.
+whether-you-searched-privacy = Independentemente de você ter ou não procurado um navegador rápido que proteja sua privacidade, esta lista de perguntas frequentes está aqui para responder às questões mais prementes relacionadas ao { -brand-name-firefox }.
+whether-you-searched-independant = Quer você tenha pesquisado um navegador rápido, ou esteja procurando uma empresa de tecnologia independente que protege sua privacidade, esta lista de perguntas frequentes está aqui para responder às questões mais prementes relacionadas ao { -brand-name-firefox }.
 what-is-firefox = O que é { -brand-name-firefox }?
 
 # Variables:
@@ -57,6 +57,7 @@ does-firefox-sell = O { -brand-name-firefox } vende seus dados pessoais?
 
 nope-never-have = Não. Nunca vendemos, nunca faremos isso. Além disso, protegemos você de muitos anunciantes que o fazem. Os produtos { -brand-name-firefox } são projetados para proteger sua privacidade. <a href="{ $url }">Isso é um compromisso.</a>
 why-is-firefox = Por que o { -brand-name-firefox } é tão lento?
+firefox-isnt-slow = O { -brand-name-firefox } não é lento… agora. Em 2017, reconstruímos completamente nosso mecanismo de navegação (chamado Quantum) para garantir que o { -brand-name-firefox } pudesse competir com outros principais navegadores. Além disso, nossos bloqueadores de rastreamento ajudam a carregar as páginas ainda mais rápido. Portanto, o { -brand-name-firefox } é extremamente rápido, sem sacrificar nada de sua privacidade.
 is-firefox-chromium = O { -brand-name-firefox } é baseado no { -brand-name-chromium }?
 does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
