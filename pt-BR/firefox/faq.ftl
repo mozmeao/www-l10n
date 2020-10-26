@@ -59,19 +59,26 @@ nope-never-have = Não. Nunca vendemos, nunca faremos isso. Além disso, protege
 why-is-firefox = Por que o { -brand-name-firefox } é tão lento?
 firefox-isnt-slow = O { -brand-name-firefox } não é lento… agora. Em 2017, reconstruímos completamente nosso mecanismo de navegação (chamado Quantum) para garantir que o { -brand-name-firefox } pudesse competir com outros principais navegadores. Além disso, nossos bloqueadores de rastreamento ajudam a carregar as páginas ainda mais rápido. Portanto, o { -brand-name-firefox } é extremamente rápido, sem sacrificar nada de sua privacidade.
 is-firefox-chromium = O { -brand-name-firefox } é baseado no { -brand-name-chromium }?
+firefox-is-not = O { -brand-name-firefox } não é baseado no { -brand-name-chromium } (projeto de navegador de código aberto que é o núcleo do { -brand-name-google } { -brand-name-chrome }). Na verdade, somos um dos últimos principais navegadores que não o são. O { -brand-name-firefox } funciona em nosso mecanismo de navegação Quantum, construído especificamente para o { -brand-name-firefox }, de modo que possamos garantir que seus dados sejam tratados com respeito e mantidos privativos.
 does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } é o mecanismo de pesquisa padrão no { -brand-name-firefox }, o que significa que você pode pesquisar na web diretamente na barra de endereços. <a href="{ $url }">Saiba mais sobre as preferências de mecanismos de pesquisa e como alterar a configuração padrão.</a>
 does-firefox-have = O { -brand-name-firefox } tem uma VPN integrada?
 
 # Variables:
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://vpn.mozilla.org/
 
+firefox-does-not = O { -brand-name-firefox } não tem uma VPN (rede privada virtual) integrada, mas existem dois produtos feitos pela { -brand-name-mozilla }/{ -brand-name-firefox }, que você pode usar junto com o { -brand-name-firefox-browser } privativo, que podem proteger seu navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ou a conexão do dispositivo em WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>), bem como seu endereço IP.
+related-questions-ip = Questões relacionadas: o { -brand-name-firefox } oculta seu endereço IP
+who-owns-firefox = A quem pertence o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = O { -brand-name-firefox } é feito pela { -brand-name-mozilla-corporation }, uma subsidiária que pertence integralmente à organização sem fins lucrativos <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, guiada pelos princípios do Manifesto { -brand-name-mozilla }. Saiba mais <a href="{ $url2 }">aqui</a> sobre o produtor do { -brand-name-firefox }.
+related-questions-who = Questões relacionadas: a quem pertence o { -brand-name-firefox }, quem é o dono do { -brand-name-firefox-browser }, o { -brand-name-firefox } pertence ao { -brand-name-google }, o { -brand-name-mozilla } { -brand-name-firefox } pertence ao { -brand-name-google }
