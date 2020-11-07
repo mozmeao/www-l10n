@@ -15,6 +15,7 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -64,6 +65,7 @@
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox products (short names)
 
@@ -72,6 +74,11 @@
 -brand-name-monitor = Monitor
 -brand-name-send = Send
 -brand-name-sync = Sync
+
+## Firefox products (legacy)
+
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
 
 ## Pocket
 
@@ -93,9 +100,13 @@
 -brand-name-hubs = Hubs
 -brand-name-mdn = MDN
 
+## Mozilla projects (legacy)
+
+
 ## Open Source projects
 
 -brand-name-rust = Rust
+# Outdated string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
