@@ -34,11 +34,15 @@ navigation-v2-see-if-your-email-has = 看看您的電子郵件信箱是否出現
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = 儲存並探索網路上最佳的文章內容。
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = 幫助防止 { -brand-name-facebook } 在他們的網站外收集您的資料。
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = 在您的所有裝置而不只是瀏覽器也能獲得保護。
 navigation-v2-product-promise = 產品承諾
+navigation-v2-learn-how-each-firefox-product = 了解各 { -brand-name-firefox } 產品如何尊重您，保護您的資料。
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = 不用交出電子郵件地址就能註冊新帳號。
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
+navigation-v2-protect-your-browsers-connection = 保護您瀏覽器與網際網路之間的連線。
 navigation-v2-view-all-products = 檢視所有產品
 
 ## Who We Are menu
@@ -46,10 +50,13 @@ navigation-v2-view-all-products = 檢視所有產品
 navigation-v2-who-we-are = 我們是誰
 navigation-v2-close-who-we-are-menu = 關閉我們是誰選單
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+navigation-v2-learn-about-the-values = 了解指引我們使命的價值與原則。
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = 認識在 { -brand-name-firefox } 背後，致力於打造更佳網路環境的非營利組織。
 navigation-v2-get-involved = 參與其中
 navigation-v2-join-the-fight-for-a = 與我們一起，為了健康的網路生態而戰。
 navigation-v2-leadership = 領導團隊
+navigation-v2-meet-the-team-thats-building = 認識為更好的網際網路打造新技術的團隊。
 navigation-v2-careers = 徵才啟事
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 部落格
 
