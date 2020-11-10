@@ -118,6 +118,8 @@ newsletters-shapre-of-the-web = Emboaje ñanduti
 newsletters-news-and-information = Marandu ojogueraháva Ñanduti retepy ndive.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Temimbo’ekuéra myakãhára
+# Description for the newsletter in Newsletter subscription page (Student Reps)
+newsletters-former-university-program = Peteĩ tembiaporape tekombo’evusugua ymavegua 2008-2011, ko’ág̃a opytareíva ha oku’ejeýva Firefox Student Ambassadors rembiaporapéramo.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Emba’apo ñanduti rayhupápe
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -132,10 +134,14 @@ newsletters-firefox-affiliates = { -brand-name-firefox } Affiliates
 newsletters-a-monthly-newsletter-affiliates = Peteĩ marandu’i jasyguáva emboheko tapia hag̃ua { -brand-name-firefox } Affiliates apopyre.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-student-ambassadors = { -brand-name-firefox } Student Ambassadors
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+newsletters-a-monthly-newsletter-ambassadors = Peteĩ marandu’i jasyguáva mab’éichapa eipytyvõta { -brand-name-mozilla } ejapkuaávape.
 # Name for the newsletter in Newsletter subscription page
 newsletters-aurora = { -brand-name-aurora }
 # Name for the newsletter in Newsletter subscription page
 newsletters-beta-news = { -brand-name-beta } Marandu
+# Description for the newsletter in Newsletter subscription page (Beta News)
+newsletters-read-about-the-latest-features = Emoñe’ẽmba umi ipyahuvéva tembiaporã { -brand-name-firefox } mesa ariguápe g̃uarã ha pumbyry osẽte mboyve.
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Emboguejy { -brand-name-firefox } { -brand-name-android } peg̃uarã
 # Name for the newsletter in Newsletter subscription page
@@ -150,12 +156,18 @@ newsletters-firefox-accounts-tips = Ñe’ẽporã { -brand-name-firefox-account
 newsletters-get-the-most-firefox-account = Eguenohẽ eikotevẽva { -brand-name-firefox-account }-gui.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
+# Description for the newsletter in Newsletter subscription page (Firefox Flicks)
+newsletters-periodic-email-updates = Rombohekopyahu tapia ñanduti veve rupi ore ñeha’ãguasu ta’ãngamyipavẽ arapygua ary peguáva.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-smartphone-owner = ¿{ -brand-name-firefox-os } pumbyry ha’evéva jára?
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+newsletters-dont-miss-important-news = Ani emboyke marandu ha mba’epyahu ne mba’e’oka { -brand-name-firefox-os } rehegua.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Nde
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
+newsletters-a-monthly-newsletter-and-special = Peteĩ jehaipyre’i jasyguáva ha marandu’i hecharamóva mba’éichapa eguenohẽkuaa eikotevẽva { -brand-name-firefox-os } mba’e’okágui, oĩhápe ipyahuvéva ha tembipuru’i { -brand-name-firefox-marketplace } pegua.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Ñe’ẽporã arapokõindyguáva { -brand-name-firefox } peg̃uarã
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
