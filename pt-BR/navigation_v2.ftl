@@ -17,16 +17,21 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-learn-how-firefox-treats = Saiba como o { -brand-name-firefox } trata seus dados com respeito.
 navigation-v2-firefox-blog = Blog do { -brand-name-firefox }
 navigation-v2-release-notes = Notas da versão
+navigation-v2-view-all-firefox-browsers = Veja todos os { -brand-name-firefox-browsers }
 
 ## Products menu
 
 navigation-v2-products = Produtos
 navigation-v2-close-products-menu = Fechar menu Produtos
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Veja se o seu email apareceu no vazamento de dados de alguma empresa.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Salve e descubra as melhores histórias da web.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-learn-how-each-firefox-product = Saiba como cada produto { -brand-name-firefox } protege e respeita seus dados.
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Crie novas contas sem fornecer seu endereço de email.
 navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-protect-your-browsers-connection = Proteja a conexão do seu navegador com a internet.
 navigation-v2-view-all-products = Ver todos os produtos
@@ -36,7 +41,9 @@ navigation-v2-view-all-products = Ver todos os produtos
 navigation-v2-who-we-are = Quem somos
 navigation-v2-close-who-we-are-menu = Fechar menu Quem somos
 navigation-v2-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+navigation-v2-learn-about-the-values = Conheça os valores e princípios que guiam nossa missão.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Conheça a organização sem fins lucrativos por trás do { -brand-name-firefox } que apoia uma web melhor.
 navigation-v2-get-involved = Envolva-se
 navigation-v2-join-the-fight-for-a = Junte-se à luta por uma internet saudável.
 navigation-v2-leadership = Liderança
