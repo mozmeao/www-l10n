@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Сцягніце { -brand-name-firefox-browser } — хутка, прыватна і бясплатна — ад { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Атрымайце { -brand-name-firefox }, бясплатны вэб-браўзер, які падтрымліваецца { -brand-name-mozilla }, некамерцыйнай арганізацыяй, адданай здароўю інтэрнэту і прыватнасці. Ужо даступны на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } і { -brand-name-ios }.
 firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў гісторыі { -brand-name-firefox }
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
@@ -17,6 +22,7 @@ firefox-desktop-download-browser-support = Падтрымка { -brand-name-fire
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у параўнанні з іншымі браўзерамі
+firefox-desktop-download-get-all-the-speed = Атрымайце ўсю хуткасць і прылады, не парушаючы прыватнасці. { -brand-name-firefox-browser } збірае так мала звестак пра вас, што нам нават не патрэбен ваш адрас электроннай пошты для сцягвання. Гэта таму, што ў адрозненне ад іншых браўзераў, мы не маем фінансавага інтарэсу ў сачэнні за вамі ў Інтэрнэце.
 firefox-desktop-download-compare-firefox-to = Параўнаць { -brand-name-firefox } з:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
