@@ -15,12 +15,28 @@ firefox-new-firefox-shows-you-how-many = { -brand-name-firefox } mostra cantos r
 firefox-new-firefox-lockwise-makes-secure = <strong>{ -brand-name-firefox-lockwise }</strong> fai que os contrasinais que garde en { -brand-name-firefox } sexan seguras e estean dispoñibles en todos os seus dispositivos.
 firefox-new-firefox-monitor-alerts = <strong>{ -brand-name-firefox-monitor }</strong> avisa se sabemos que a súa información foi vítima dunha violación de datos doutra empresa.
 firefox-new-join-firefox = Únase a { -brand-name-firefox }
+# span's below are for visual formatting and line break.
+firefox-new-download-firefox-for-windows = Descargar { -brand-name-firefox } <br>para { -brand-name-windows }
+firefox-new-download-firefox-for-macos = Descargar { -brand-name-firefox } <br>para { -brand-name-mac }
+firefox-new-download-firefox-for-linux = Descargar { -brand-name-firefox } <br>para { -brand-name-linux }
+firefox-new-watch-for-hackers-with = Vixíe os piratas informáticos con { -brand-name-firefox-monitor }, protexa os contrasinais con { -brand-name-firefox-lockwise } e moito máis.
+firefox-new-get-more-from-firefox = Obteña máis de { -brand-name-firefox }
 firefox-new-free-web-browser = Navegador de balde
+firefox-new-advanced-install-options = Opcións avanzadas de instalación e outras plataformas
+firefox-new-download-in-another-language = Descargar noutro idioma
 firefox-new-fix-a-problem = Corrixir un problema
 firefox-new-need-help = Precisa axuda?
+firefox-new-see-whats-being-blocked = Ver o que está sendo bloqueado
+firefox-new-protect-your-privacy = Protexa a súa privacidade
+firefox-new-private-browsing-clears = A <strong>Navegación privada</strong> borra o historial para mantelo en segredo de calquera que use o seu ordenador.
+firefox-new-advanced-install-options-heading = Opcións avanzadas de instalación e outras plataformas
+firefox-new-just-download-the-browser = Chega con só descargar o navegador
 
 ### URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderá seguir usando { -brand-name-firefox }.
 firefox-new-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
