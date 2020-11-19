@@ -59,10 +59,15 @@ newsletters-were-glad-you-asked = Rjenje, zo sće so prašał!
 newsletters-love-the-web-so-do-we = Lubujeće web? My tež!
 newsletters-we-are-sorry-but-there = Bohužel je problem z našim systemom wustupił. Prošu spytajće pozdźišo hišće raz!
 newsletters-thanks-for-updating-your = Dźakujemy so za aktualizowanje wašich e-mejlowych nastajenjow.
+newsletters-this-is-not-a-valid-email = To płaćiwa e-mejlowa adresa njeje. Prošu kontrolujće prawopis.
 newsletters-you-send-too-many-emails = Sće přewjele e-mejlkow pósłał.
 newsletters-your-content-wasnt-relevant = Waš wobsah njeje za mnje relewantny był.
 newsletters-your-email-design = Waš e-mejlowy design bě ćežko čitajomny.
 newsletters-i-didnt-sign-up = Njejsym za to zregistrował.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Registrujće so, začitajće so,<br> wostańće na běžnym.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Registrujće so, začitajće so.<br> Docpějće něšto.
 newsletters-your-email-preferences = Waše e-mejlowe nastajenja su so wuspěšnje zaktualizowali.
 newsletters-back-to-email-preferences = Wróćo k e-mejlowym nastajenjam
 newsletters-take-your-privacy = Wzmiće swoju priwatnosć sobu
@@ -100,6 +105,8 @@ newsletters-mozillians = Mozillačenjo
 newsletters-email-updates-from-vouched = E-mejlowe aktualizacije za zaručenych Mozillančanow na mozillians.org.
 # Name for the newsletter in Newsletter subscription page
 newsletters-shapre-of-the-web = Staw weba
+# Name for the newsletter in Newsletter subscription page
+newsletters-student-reps = Zastupjerjo studentow
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Bywši uniwersitowy program z lět 2008-2011, nětko zastajeny a znowa startowany jako program studentowych wulkopósłancow Firefox.
 # Name for the newsletter in Newsletter subscription page
@@ -112,6 +119,8 @@ newsletters-mozilla-community = Zhromadźenstwo { -brand-name-mozilla }
 newsletters-firefox-affiliates = Partnerojo { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 newsletters-a-monthly-newsletter-affiliates = Měsačny powěsćowy list, zo by was wo programje partnerow { -brand-name-firefox } běžnje informował.
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-student-ambassadors = Studentscy wulkopóslancy za { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 newsletters-a-monthly-newsletter-ambassadors = Měsačny powěsćowy list wo tym, kak móžece z { -brand-name-mozilla } na swojim polu hromadźe dźěłać.
 # Name for the newsletter in Newsletter subscription page
@@ -136,6 +145,10 @@ newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 newsletters-periodic-email-updates = Periodiske e-mejlowe aktualizacije wo našim kóždolětnim mjezynarodnym filmowym wubědźowanju.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-smartphone-owner = Maće smartfon z { -brand-name-firefox-os }?
+# Name for the newsletter in Newsletter subscription page
+newsletters-firefox-os-and-you = { -brand-name-firefox-os } + Wy
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-weekly-tips = Tydźenske pokiwy wo { -brand-name-firefox }
 # Name for the newsletter in Newsletter subscription page
