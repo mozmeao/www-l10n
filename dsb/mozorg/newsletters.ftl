@@ -18,6 +18,7 @@ newsletters-your-newsletter-subscription = Waš abonement powěsćowego lista jo
 newsletters-please-be-sure-to-add-our = Pšosym njezabydniśo našu adresu wótpósłanja mozilla@e.mozilla.org swójomu adresnikoju pśidaś, aby zarucył, až dostawamy se pśecej do wašogo postowego kašćika.
 newsletters-the-supplied-link-has-expired = Pódany wótkaz jo njepłaśiwy. Dostanjośo nowy wótkaz w pśiducem powěsćowem lisće.
 newsletters-something-is-amiss-with = Něco na našom systemje njejo w pórěźe! Pšosym wopytajśo pózdźej hyšći raz.
+newsletters-youre-awesome = Sćo wjelicny!
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Pšosym njezabydniśo mozilla@e.mozilla.org swójomu adresnikoju pśidaś, aby zarucył, až dostawamy se pśecej do wašogo postowego kašćika.
 newsletters-manage-your-email-preferences = Waše e-mailowe nastajenja zastojaś
 newsletters-we-love-sharing-updates = Źělimy rady aktualizacije wó wšych fantastiskich wěcach, kótarež wótměwaju se pla { -brand-name-mozilla }.
@@ -36,6 +37,7 @@ newsletters-format = Format:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } njejo płaśiwy powěsćowy list.
 newsletters-subscribe = Aboněrowaś
+newsletters-remove-me-from-all-the = Móje abonementy na toś tom boku wótwónoźeś
 newsletters-save-preferences = Nastajenja składowaś
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Zastojśo swóje <span>abonementy powěsćowych listow</span>
@@ -58,10 +60,15 @@ newsletters-were-glad-you-asked = Rědnje, až sćo se pšašał!
 newsletters-love-the-web-so-do-we = Lubujośo web? My teke!
 newsletters-we-are-sorry-but-there = Bóžko jo problem z našym systemom nastał. Pšosym wopytajśo pózdźej hyšći raz!
 newsletters-thanks-for-updating-your = Źěkujomy se za aktualizěrowanje wašych e-mailowych nastajenjow.
+newsletters-this-is-not-a-valid-email = To njejo płaśiwa e-mailowa adresa. Pšosym kontrolěrujśo pšawopis.
 newsletters-you-send-too-many-emails = Sćo pśewjele e-mailow pósłał.
 newsletters-your-content-wasnt-relevant = Wašo wopśimjeśe njejo za mnjo relewantne było.
 newsletters-your-email-design = Waš e-mailowy design jo śěžko cytajobny był.
 newsletters-i-didnt-sign-up = Njejsom za to zregistrěrował.
+# Headline for https://www.mozilla.org/newsletter/mozilla/
+newsletters-sign-up-read-up-stay-informed = Registrěrujśo se, zacytajśo se,<br> wóstańśo na běžnem.
+# Obsolete string
+newsletters-sign-up-read-up-make-a-difference = Registrěrujśo se, zacytajśo se.<br> Dojśpiśo něco.
 newsletters-your-email-preferences = Waše e-mailowe nastajenja su se wuspěšnje zaktualizěrowali.
 newsletters-back-to-email-preferences = Slědk k e-mailowym nastajenjam
 newsletters-take-your-privacy = Wzejśo swóju priwatnosć sobu
@@ -76,6 +83,26 @@ newsletters-addon-development = Dodankowe wuwijanje
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Powěsćowy list za wuwijarje
 # Name for the newsletter in Newsletter subscription page
+newsletters-drumbeat-newsgroup = Diskusijna kupka Drumbeat
+# Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-desktop = { -brand-name-firefox } za desktop
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+newsletters-dont-miss-the-latest = Njezapasćo nejnowše pśipowěźeńki wó našom desktopowem wobglědowaku.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Cyńśo sobu
+# Name for the newsletter in Newsletter subscription page
+newsletters-insights = Insights
+# Obsolete string
+newsletters-internet-health-report = Rozpšawa wó strowosći interneta
+# Name for the newsletter in Newsletter subscription page
+newsletters-knowledge-is-power = Wěda jo móc
+# Name for the newsletter in Newsletter subscription page
+newsletters-about-labs = Wó Labs
+# Name for the newsletter in Newsletter subscription page
+newsletters-desktop = Desktop
+# Name for the newsletter in Newsletter subscription page
+newsletters-mozillians = Mozillanarje
+# Description for the newsletter in Newsletter subscription page (Mozillians)
+newsletters-email-updates-from-vouched = E-mailowe aktualizacije za zaruconych Mozillanarjow na mozillians.org.
+# Name for the newsletter in Newsletter subscription page
+newsletters-shapre-of-the-web = Staw weba
