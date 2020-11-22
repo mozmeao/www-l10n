@@ -22,7 +22,13 @@ newsletters-the-supplied-link-has-expired = Caducou a ligazón fornecida. Recibi
 newsletters-something-is-amiss-with = Sentímolo, algo non funciona adecuadamente no noso sistema. Tentao de novo máis tarde.
 newsletters-youre-awesome = É vostede o mellor!
 newsletters-and-were-not-just-saying = E non o dicimos só porque confiou en nós co seu enderezo de correo electrónico.
+newsletters-please-be-sure-to-add-mozillaemozillaorg = Asegúrese de engadir o correo: mozilla@e.mozilla.org a súa axenda de enderezos para que os nosos correos sempre cheguen á túa caixa de entrada.
+newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } toca unha serie de cuestións importantes.
+newsletters-open-your-inbox-and-your = Abre a túa caixa de entrada (e o teu corazón) aínda máis: bótalle un ollo ós outros temas que tratamos.
 newsletters-manage-your-email-preferences = Xestionar as preferencias do correo
+newsletters-this-page-is-in-maintenance = Esta páxina está baixo mantemento e non está dispoñible temporalmente.
+newsletters-to-update-your-email-preferences = Para actualizar as túas preferencias de correo electrónico, volva a intentalo dentro duns intres. Grazas!
+newsletters-we-love-sharing-updates = Encántanos compartir as últimas novas sobre todas as cousas incríbeis que pasan en { -brand-name-mozilla }.
 newsletters-set-your-preferences-below = Estabeleza as súas preferencias para asegurarse de que sempre reciba as novas que quere.
 # Form field label
 newsletters-your-email-address = O seu enderezo de correo:
@@ -32,12 +38,31 @@ newsletters-country-or-region = País ou rexión
 newsletters-country = País:
 # Form field label
 newsletters-language = Língua:
+newsletters-not-all-subscriptions-are = Non se admiten todas as subscricións en todos os idiomas listados. Case todas ofrécense en inglés, alemán e francés.
 # Form field label
 newsletters-format = Formato:
+newsletters-text-subscribers-will-receive = Os subscritores de texto recibirán un correo electrónico dúas veces ao ano para confirmar a continuación da subscrición. Ditos correos electrónicos poden incluír HTML.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+newsletters-many-of-our-communications = Moitas das nosas comunicacións están relacionadas cunha conta á que se rexistrou, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou Programador de complementos. Para xestionar unha das súas contas ou ver unha listaxe de todas as contas, visite a nosa <a href="{ $url }"> páxina de asistencia á xestión de contas </a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/accounts/
+newsletters-to-get-access-to-the-whole = Únete a nós para acceder a todo un mundo de produtos, coñecementos e servizos { -brand-name-firefox } nunha soa conta! Máis información sobre as vantaxes <a href="{ $url }"> aquí </a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/forums/
+newsletters-there-are-many-ways-to = Hai moitas formas de colaborar con { -brand-name-mozilla } e { -brand-name-firefox }. Se non atopaches o que buscabas aquí, consulta as nosas <a href="{ $url }"> páxinas comunitarias </a>.
+# Variables:
+#   $newsletter (string) - newsletter name
+newsletters-is-not-a-valid-newsletter = { $newsletter } non é un boletín válido
 newsletters-subscribe = Subscribirse
+newsletters-remove-me-from-all-the = Elimíname de todas as subscricións desta páxina
 newsletters-save-preferences = Gardar preferencias
+# Page title for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-newsletter-email-recovery = Recuperar o correo electrónico do boletín
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Xestionar as <span>subscricións aos boletíns</span>
+# Subtitle for https://www-dev.allizom.org/newsletter/recovery/
+newsletters-enter-your-email-address = Introduce o teu enderezo de correo electrónico e enviarémosche unha ligazón ao teu centro de preferencias de correo electrónico.
 newsletters-send-me-a-link = Enviarme unha ligazón
 newsletters-youve-been-unsubscribed = Cancelou a súa subscrición.
 newsletters-were-sorry-to-see-you-go = Sentimos que se vaia.
@@ -48,8 +73,10 @@ newsletters-thanks-for-telling-us-why = Grazas por dicirnos porque se vai.
 newsletters-while-here-why-not-check = Mentres está aquí, porque non descobre algunhas características incríbeis do { -brand-name-firefox }.
 newsletters-get-up-and-go = Adiante
 newsletters-its-your-web-anywhere-you = A Web é súa a calquera lugar que vaia.
+newsletters-get-firefox-for-mobile = Obter { -brand-name-firefox } para dispositivos móbiles
 newsletters-added-extras = Características adicionais
-newsletters-find-out-how = Descubra como!
+newsletters-make-firefox-do-more-with = Fai moito máis con complementos de { -brand-name-firefox }.
+newsletters-find-out-how = Descubre como!
 newsletters-about-us = Sobre nós
 newsletters-were-glad-you-asked = Encántanos que o pregunte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
