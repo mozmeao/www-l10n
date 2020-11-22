@@ -43,18 +43,41 @@ navigation-explore-the-immersive = Navegue pola web envolvente cuns auriculares 
 # Outdated string
 navigation-experience-augmented = Achéguese á realidade aumentada e virtual con { -brand-name-firefox }.
 # Outdated string
+navigation-meet-people-in-experimental = Coñeza xente nova nas salas de conversa experimentais de realidade mixta de { -brand-name-firefox }.
+navigation-mozilla-mixed-reality = Realidade mixta de { -brand-name-mozilla }
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } achega a realidade virtual e aumentada á Web libre.
+# Outdated string
+navigation-mozilla-brings-firefox = { -brand-name-mozilla } abre { -brand-name-firefox } á realidade aumentada e virtual.
+navigation-firefox-built-just-for = { -brand-name-firefox }, deseñado para desenvolvedores.
+navigation-preview-the-latest-build = Previsualice a última versión de { -brand-name-firefox } e axúdenos a convertela na mellor.
 navigation-firefox-playground = { -brand-name-firefox } Playground
+navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Support (MOSS)
+navigation-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
 navigation-menu = Menú
+navigation-check-out-the-benefits = Bote unha ollada aos beneficios
 navigation-browsers = Navegadores
+navigation-close-browsers-menu = Pechar o menú Navegadores
 navigation-download = Descargar
 navigation-extensions = Extensións
 navigation-privacy = Privacidade
+navigation-get-unmatched-data-protection = Consiga unha protección de datos inigualable coa frecuencia de actualizacións que máis lle conveña á súa organización.
+navigation-made-with-respect = Feito con respecto
+navigation-close-products-menu = Pechar o menú Produtos
 navigation-security-tips = Consellos de seguridade
+navigation-share-large-files-safely = Comparta ficheiros grandes de forma segura con ligazóns que se autodestrúen.
+navigation-save-quality-content = Garde contido de calidade dende calquera sitio. Estimule a mente estea onde estea.
 navigation-sign-up = Rexistrarse
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: rápida, sinxela e privada.
+navigation-protect-your-entire-device = Protexa o dispositivo e todas as aplicacións. Oculte a súa verdadeira localización e conecte ata 5 dispositivos. Subscríbase agora.
+# Outdated string
+navigation-connected-and-protected = Conectado e protexido
 navigation-join = Unirse
+navigation-close-join-menu = Pechar o menú Unirse
 navigation-sign-in = Iniciar sesión
 navigation-benefits = Beneficios
+navigation-meet-the-technology-company = Coñeza a compañía de tecnoloxía que antepón
 # Outdated string
 navigation-add-ons = Complementos
 navigation-projects = Proxectos
