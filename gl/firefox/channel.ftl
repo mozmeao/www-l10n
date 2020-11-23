@@ -9,26 +9,26 @@ firefox-channel-desktop = Escritorio
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Navega polo lado máis salvaxe.
-firefox-channel-be-among-the-first-to-explore = Sé un dos primeiros en probar as próximas versións de { -brand-name-firefox } para escritorio, para { -brand-name-android } e para { -brand-name-ios }.
+firefox-channel-be-among-the-first-to-explore = Sé un dos primeiros en probar as próximas versións do { -brand-name-firefox } para escritorio, para { -brand-name-android } e para { -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = Algo non funciona como debería? Infórmanos.
 firefox-channel-file-a-bug-now = Informar dun erro
-firefox-channel-tips-for-filing-a-bug = Consellos para abrir un bug
-firefox-channel-try-new-features-in-a-pre = { -brand-name-firefox } | Probe as novas funcionalidades na versión preliminar do navegador para { -brand-name-android }
-firefox-channel-download-and-test-future = Descargue e probe as futuras versións de { -brand-name-firefox } para escritorio, { -brand-name-android } e { -brand-name-ios }.
-firefox-channel-experience-cutting-edge-android-updated = { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: experimente as últimas funcionalidades nunha versión preliminar do navegador para { -brand-name-android }. Instalar agora!
-firefox-channel-experience-cutting-edge-android = { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }: experimente as últimas funcionalidades nunha versión preliminar do navegador para { -brand-name-android }. Instalar agora!
-firefox-channel-download-and-test-the-latest-android = Descargue e probe as últimas funcionalidades de { -brand-name-firefox } para { -brand-name-android } con { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
-firefox-channel-try-the-latest-android-features = Probe as últimas funcionalidades de { -brand-name-android }, antes de que estean dispoñíbeis para todo o mundo.
+firefox-channel-tips-for-filing-a-bug = Consellos para informar dun erro
+firefox-channel-try-new-features-in-a-pre = Proba as novas características nunha versión preliminar do navegador para { -brand-name-android } | { -brand-name-firefox }
+firefox-channel-download-and-test-future = Descarga e proba as próximas versións do { -brand-name-firefox } para escritorio, para { -brand-name-android } e para { -brand-name-ios }.
+firefox-channel-experience-cutting-edge-android-updated = { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: experimenta as últimas características nunha versión preliminar do navegador para { -brand-name-android }. Instálaa xa.
+firefox-channel-experience-cutting-edge-android = { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }: experimenta as últimas características nunha versión preliminar do navegador para { -brand-name-android }. Instálaa xa.
+firefox-channel-download-and-test-the-latest-android = Descarga e proba as últimas características do { -brand-name-firefox } para { -brand-name-android } coas versións { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
+firefox-channel-try-the-latest-android-features = Proba as últimas características para { -brand-name-android } antes de que estean dispoñíbeis para todo o mundo.
 firefox-channel-all-languages-and-platforms = Todos os idiomas e plataformas
 firefox-channel-all-languages-and-builds = Todos os idiomas e versións
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = A versión beta é unha plataforma inestábel de desenvolvemento e probas. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces, aos nosos socios, para axudarnos a identificar problemas e a probar novas ideas. <a href="{ $link }">Saiba que se comparte</a>.
-firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } envía automaticamente as opinións a { -brand-name-mozilla }.
+firefox-channel-beta-is-an-unstable-testing = A versión { -brand-name-beta } é unha plataforma inestábel de probas e desenvolvemento. De forma predeterminada, esta versión envía datos a { -brand-name-mozilla }, e ás veces tamén aos nosos socios, para axudarnos a xestionar os problemas e probar novas ideas. <a href="{ $link }">Isto é o que se comparte</a>.
+firefox-channel-firefox-beta-automatically = O { -brand-name-firefox-beta } envía automaticamente as opinións a { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
-firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Déanos a súa opinión</a> para axudarnos a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
-firefox-channel-check-out-new-android-features = Probe as novas funcionalidades de Firefox para { -brand-name-android } nas primeiras etapas de desenvolvemento. Baixo a súa responsabilidade.
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Dános a túa opinion</a> para axudarnos a realizar os axustes finais no rendemento e as funcionalidades nun entorno estábel.
+firefox-channel-check-out-new-android-features = Proba as novas características para { -brand-name-android } nas primeiras etapas de desenvolvemento. Aprovéitaas baixo a túa responsabilidade.
 firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
