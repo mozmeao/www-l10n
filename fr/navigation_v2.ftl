@@ -12,6 +12,7 @@ navigation-v2-menu = Menu
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: "uppercase") }
 navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox-browsers(capitalization: "uppercase") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
+navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pour { -brand-name-ios }
 navigation-v2-learn-how-firefox-treats = Découvrez comment { -brand-name-firefox } traite vos données avec respect.
@@ -34,8 +35,8 @@ navigation-v2-view-all-products = Voir tous les produits
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = Qui sommes-nous
-navigation-v2-close-who-we-are-menu = Fermer le menu Qui sommes-nous
+navigation-v2-who-we-are = Qui nous sommes
+navigation-v2-close-who-we-are-menu = Fermer le menu Qui nous sommes
 navigation-v2-mozilla-manifesto = Le Manifeste { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Découvrez les valeurs et les principes qui guident notre mission.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
