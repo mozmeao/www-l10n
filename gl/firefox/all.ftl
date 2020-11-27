@@ -24,12 +24,12 @@ firefox-all-32-bit-installers = Instaladores de 32 bits
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Descarga o { -brand-name-firefox-browser } en galego e en máis de 90 idiomas
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todo o mundo merece acceder á Internet; o seu idioma nunca debe ser unha barreira. É por iso que, coa axuda de voluntarios dedicados a isto de todo o mundo, facemos que { -brand-name-firefox-browser } estea dispoñible en máis de 90 idiomas.
-firefox-all-choose-which-firefox = Escolla que { -brand-name-firefox-browser } para descargalo no seu idioma
-firefox-all-firefox-privacy-notice = Aviso de privacidade do { -brand-name-firefox }
+firefox-all-everyone-deserves-access = Todos merecemos acceso á Internet, e o teu idioma nunca debería supor unha barreira. Por iso, grazas á axuda de voluntarios de todo o mundo, facemos que { -brand-name-firefox-browser } estea dispoñible en máis de 90 idiomas.
+firefox-all-choose-which-firefox = Escolle que navegador { -brand-name-firefox } queres descargar no teu idioma
+firefox-all-firefox-privacy-notice = Política de privacidade do { -brand-name-firefox }
 firefox-all-learn-about-firefox = Máis información sobre os navegadores { -brand-name-firefox }
-firefox-all-the-standard-firefox = O navegador { -brand-name-firefox } estándar: rápido e privado. Se non está seguro de que { -brand-name-firefox } elixir, elixa este.
-firefox-all-get-a-sneak-peek-at = Déalle unha ollada ás últimas funcións do navegador { -brand-name-firefox } antes de que sexan lanzadas.
+firefox-all-the-standard-firefox = O navegador { -brand-name-firefox } estándar: rápido e privado. Se non estás seguro de que navegador { -brand-name-firefox } escoller, escolle este.
+firefox-all-get-a-sneak-peek-at = Bótalle unha ollada ás últimas caracterísiticas do navegador { -brand-name-firefox } antes do seu lanzamento.
 firefox-all-test-your-sites-against = Poña a proba os seus sitios contra as características do navegador { -brand-name-firefox } que pronto van ser lanzadas con DevTools, que están activadas de xeito predeterminado.
 firefox-all-count-on-stability-and = Conte coa estabilidade e a facilidade de uso deste navegador { -brand-name-firefox } creado para empresas.
 firefox-all-windows-installers-for = Instaladores para Windows para departamentos informáticos empresarias que simplifican a configuración, a implantación e xestión do { -brand-name-firefox-browser }.
