@@ -20,11 +20,11 @@ new-platform-advanced-install-options = Opcións avanzadas de instalación e out
 new-platform-download-in-another = Descargar noutro idioma
 new-platform-fix-a-problem = Corrixir un problema
 new-platform-need-help = Precisas axuda?
-new-platform-download-mozilla-firefox-title = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen ánimo de lucro dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
+new-platform-download-mozilla-firefox-title = Descarga o { -brand-name-mozilla } { -brand-name-firefox }, un navegador web gratuíto creado por unha fundación sen fins lucrativos dedicada a darlles ás persoas o control da súa actividade na rede. Obtén o { -brand-name-firefox } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }!
 # /firefox/linux/ HTML page title
 new-platform-download-mozilla-linux = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-linux }.
+new-platform-download-mozilla-desc-linux = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, o navegador de balde creado por unha fundación mundial sen fins lucrativos que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-linux }.
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-linux }
 # /firefox/linux/ social sharing description
@@ -40,7 +40,7 @@ new-platform-look-under-the-hood = Fíxate no desenvolvemento. Igual ca { -brand
 # /firefox/mac/ HTML page title
 new-platform-download-mozilla-firefox-mac = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-mac-short }.
+new-platform-download-mozilla-firefox-desc-mac = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-mac-short }, o navegador de balde creado por unha fundación mundial sen fins lucrativos que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-mac-short }.
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
@@ -49,20 +49,20 @@ new-platform-faster-page-loading-mac = O novo { -brand-name-firefox } para { -br
 new-platform-firefox-respects-your = O { -brand-name-firefox } respecta <span>a privacidade en { -brand-name-mac-short }.</span>
 new-platform-privacy-comes-first = A privacidade é o primeiro
 new-platform-firefox-doesnt-spy = O { -brand-name-firefox } non atusma nas buscas. Detemos os rastros de seguimento de terceiros e dámosche a ti todo o control.
-new-platform-get-speed-and-security = Velocidade e seguridade. O { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os movementos.
+new-platform-get-speed-and-security = Velocidade e seguridade. O { -brand-name-firefox } é rápido en { -brand-name-mac-short } porque nós non rastrexamos os teus movementos.
 new-platform-block-trackers = Bloquear rastrexadores
-new-platform-be-the-master-of-your = Convértete no dono do teu dominio cun rigoroso bloqueo de contido. Bloquea todos os rastros e rastrexadores.
+new-platform-be-the-master-of-your = Convértete no dono do teu dominio cun rigoroso bloqueo de contido. Bloquea todos os testemuños e rastrexadores.
 # /firefox/windows/ HTML page title
 new-platform-download-mozilla-windows = Descargar o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }, o navegador de balde creado por unha fundación mundial sen ánimo de lucro que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-windows }.
+new-platform-download-mozilla-desc-windows = Descarga o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-windows }, o navegador de balde creado por unha fundación mundial sen fins lucrativos que ten por obxectivo que os usuarios teñan o control da súa vida en liña. Obtén xa o { -brand-name-firefox } para { -brand-name-windows }.
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Descarga o { -brand-name-firefox } máis rápido que existe para { -brand-name-windows }
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = O novo { -brand-name-firefox } para { -brand-name-windows } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 # /firefox/windows/ main page title. Span is for visually formatting.
 new-platform-firefox-fights = O { -brand-name-firefox } loita por ti <span>en { -brand-name-windows }.</span>
-new-platform-firefox-moves-fast = O { -brand-name-firefox } é rápido e coida dos datos, sen anuncios que te rastrexen nin demoras.
+new-platform-firefox-moves-fast = O { -brand-name-firefox } é rápido e coida dos datos; sen anuncios que te rastrexen nin demoras.
 new-platform-common-sense-privacy = Privacidade sensata
 new-platform-live-your-life = Vive a túa vida, o { -brand-name-firefox } non estará axexando. Escolle o que queres compartir e cando o queres facer.
 new-platform-seamless-setup = Configuración simple
