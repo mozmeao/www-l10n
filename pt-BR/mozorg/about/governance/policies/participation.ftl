@@ -8,7 +8,7 @@
 participation-community-participation = Diretrizes de participação na comunidade
 participation-mozilla-community = Diretrizes de participação na comunidade { -brand-name-mozilla }
 participation-version-31-updated = Versão 3.1 – Atualizada em 16 de janeiro de 2020
-participation-the-heart-of-mozilla = As pessoas são a essência da { -brand-name-mozilla }. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade dos nossos colaboradores globais. O Projeto { -brand-name-mozilla } recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas Diretrizes de Participação na Comunidade a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
+participation-the-heart-of-mozilla = O coração da { -brand-name-mozilla } são as pessoas. Nós as colocamos em primeiro lugar e fazemos o melhor possível para reconhecer, valorizar e respeitar a diversidade de nossos colaboradores do mundo todo. O Projeto { -brand-name-mozilla } aceita de bom grado contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes de participação para nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
 participation-these-guidelines-aim = Estas diretrizes visam apoiar uma comunidade onde todos se sintam seguros de participar, apresentar novas ideias e inspirar outras pessoas, independentemente de:
 participation-background = experiências anteriores
 participation-family-status = situação familiar
@@ -21,7 +21,7 @@ participation-native-language = língua materna
 participation-age = idade
 participation-ability = capacidade
 participation-race-andor-ethnicity = raça e/ou etnia
-participation-caste = Classe social
+participation-caste = classe social
 participation-national-origin = nacionalidade
 participation-socioeconomic-status = status socioeconômico
 participation-religion = religião
@@ -96,7 +96,7 @@ participation-if-you-feel-you-have = Se você achar que foi injustamente acusado
 participation-mozilla-spaces = Espaços { -brand-name-mozilla } ({ -brand-name-mozilla } Spaces)
 participation-each-physical-or-virtual = Cada espaço físico ou virtual da { -brand-name-mozilla } deve ter um contato designado.
 participation-mozilla-events = Eventos { -brand-name-mozilla }
-participation-all-mozilla-events = Todos os eventos { -brand-name-mozilla } terão uma diretriz de segurança específica com contatos de emergência e antiabuso no evento, bem como on-line. Esses contatos serão destacados durante todo o evento e em materiais impressos e on-line. Os líderes de eventos são solicitados a falar no evento sobre as diretrizes e a pedir aos participantes para que revisem e concordem com eles quando se inscreverem no evento.
+participation-all-mozilla-events = Todos os eventos { -brand-name-mozilla } têm designada uma diretriz de segurança específica com contatos de emergência e anti-abuso no evento, bem como online. Esses contatos são destacados durante todo o evento e em materiais impressos e online. É solicitado aos líderes do evento falar no evento sobre as diretrizes e pedir aos participantes que revisem e concordem com eles quando se inscreverem no evento.
 participation-reports-will-receive = Denúncias recebem uma confirmação de recebimento por email. Uma vez que um incidente tenha sido investigado e uma decisão tenha sido comunicada às partes relevantes, todos têm oportunidade de recorrer da decisão enviando um email para <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a>.
 participation-ask-questions = Faça perguntas
 participation-everyone-is-encouraged = Todos são encorajados a fazer perguntas sobre estas diretrizes. Se você estiver organizando um evento ou atividade, procure dicas sobre como estabelecer inclusão em seu evento, atividade ou espaço. Sua opinião é bem-vinda e você sempre receberá uma resposta em até 24 horas (ou no próximo dia útil, se for fim de semana) ao entrar em contato pelo e-mail <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a>. <a href="{ $changelog }">Consulte esses registros de alterações</a> para ver mudanças neste documento.

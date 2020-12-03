@@ -43,11 +43,11 @@ reporting-what-happens-after-the = O que acontece após a denúncia ser registra
 reporting-investigation = Investigação
 reporting-reports-are-handled-discretely = As denúncias são tratadas de forma discreta e privada, e são compartilhadas apenas com as pessoas qualificadas para investigar, responder e aconselhar. Como parte da investigação, a divulgação de algumas informações para outras pessoas pode ser necessária, por exemplo, para as partes interessadas que administram as comunidades ou eventos, as testemunhas e o malfeitor.
 reporting-correspondence = Correspondência
-reporting-all-reports-are-reviewed = Todas as denúncias são analisadas e respondidas com base na natureza da denúncia. Tentamos fornecer atualizações em intervalos razoáveis como parte de investigações abertas.
+reporting-all-reports-are-reviewed = Todas as denúncias são analisadas e respondidas com base na natureza da denúncia. Tentamos fornecer notícias atualizadas em intervalos razoáveis como parte de investigações abertas.
 reporting-redress = Reparação
 reporting-when-an-investigation = Quando uma investigação é concluída, até onde o infrator esteja sujeito ao controle da { -brand-name-mozilla }, medidas apropriadas serão tomadas para abordar a situação.
 reporting-no-retaliation = Sem retaliação
 reporting-mozilla-does-not-tolerate = A { -brand-name-mozilla } não tolera retaliação contra colaboradores que fizerem denúncias de boa fé nos termos das diretrizes de participação na comunidade. Atos de retaliação devem ser denunciados seguindo o mesmo processo, conforme descrito acima.
 reporting-license = Licença
-reporting-this-document-includes = Este documento inclui conteúdo obtido do <a href="{ $pycon }">Código de conduta da PyCon, Revisão 2f4d980</a>, licenciado sob a Licença { -brand-name-creative-commons } Atribuição 3.0 Unported.
-reporting-this-document-is-licensed = Este documento é licenciado sob uma <a href="{ $license }">Licença de Atribuição 3.0 Não Adaptada do { -brand-name-creative-commons }</a>.
+reporting-this-document-includes = Este documento inclui conteúdo oriundo do <a href="{ $pycon }">Código de conduta da PyCon, Revisão 2f4d980</a>, que é licenciado sob uma Licença de Atribuição 3.0 Não Adaptada da { -brand-name-creative-commons }.
+reporting-this-document-is-licensed = Este documento é licenciado sob uma <a href="{ $license }">Licença de Atribuição 3.0 Não Adaptada da { -brand-name-creative-commons }</a>.
