@@ -15,6 +15,7 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -54,6 +55,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -90,6 +92,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla ڈویلپر نیٹ ورک
+-brand-name-mozilla-festival = Mozilla فیسٹیول
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Hubs
 -brand-name-mozilla-vpn = Mozilla VPN
