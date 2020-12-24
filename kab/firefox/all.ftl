@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Aql-ak akken kan ad tassadreḍ:
 firefox-all-browser = Iminig:
 firefox-all-platform = Anagraw:
 firefox-all-language = Tutlayt:
+firefox-all-lang-multi = Aṭas n tutlayin
 firefox-all-sorry-we-couldnt-find = Suref-aɣ, ur nufi ara asader i tettnadiḍ. Ma ulac aɣilif ales aɛraḍ neɣ fren asader deg tebdert ddaw-a.
 firefox-all-the-pre-alpha-version = Lqem uzwir alpha i yiseqdacen n tseqdacin n i ḥemmlen ad d-ṣeggden ibugen akked uɛraḍ n tmahilin deg tnesflit-nsent.
 firefox-all-64-bit-installers = Imsebdaden 64 n yibiten
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Ttkel ɣef urkad d sshala n useqdec s yimin
 firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Imsebdaden ARM 64/AArch64
 firefox-all-arm64-installers-optimized = Imsebdaden ARM64/AArch64 ttusesfaren i yiselkimen { -brand-name-windows } i iteddun s Snapdragon.
+firefox-all-product-send-link = Azen aseɣwen n usader ɣer tiliɣri-inek·inem
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Fren amsebdad 32 n yibiten i yiselkimen iteddun s usasfar 32 n yibiten — neɣ i yisilkimen iqbuṛen neɣ wid ur neǧhid ara. <a href="{ $url }">Ma yella ur teẓriḍ ara anwa lqem </a> gar umsebdad 64 n yibiten neɣ 32 n yibiten, ad k-nwelleh ad tesbeddeḍ Firefox 32 n yibiten.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
