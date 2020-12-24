@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
 
 # HTML page title
-what-is-a-browser-what-is-a-web = Što je webwobhladowak?
-what-is-a-browser-how-does-a-web = Kak webwobhladowak funguje?
-what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
-what-is-a-browser-understanding = Priwatnosć rozumić
+what-is-a-browser-what-is-a-web = Co jo webwobglědowak?
+what-is-a-browser-how-does-a-web = Kak funkcioněrujo webwobglědowak?
+what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
+what-is-a-browser-understanding = Priwatnosć rozměś
