@@ -15,5 +15,8 @@ firefox-sync-feel-safe = Ḥalfu s laman
 firefox-sync-we-store-your = Nettarra isefka-inek·inem yettwawgelhen ɣef yiqeddacen-nneɣ, ihi ur tezmireḍ ara ad ten-teɣreḍ.
 firefox-sync-start-syncing-in = Bdu amtawi s wukkuẓ n yiḥricen isehlen:
 firefox-sync-click-get-started = Sit ɣef <strong>“Bdu”</strong> deg yiccer i yeldin.
+firefox-sync-enter-an-email = Sekcem tansa n yimayl akked wawal uffir i <strong>“Tmerna n { -brand-name-firefox-account }. ”</strong>”
+firefox-sync-click-next-to = Sit ɣef <strong>“Ɣer sdat”</strong> i wakken ad tawiḍ izen n usentem ɣer yimayl-inek·inem.
+firefox-sync-after-you-check = Ticki tkecmeḍ ɣef yimayl-inek·inem, tsiteḍ ɣef useɣwen n usenqed, { -brand-name-firefox } ad yebdu amtawi s wudem awurman deg ugilal.
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = Ugar n tallalt i usefrek n { -brand-name-firefox-account }-inek·inem
