@@ -12,7 +12,15 @@
 -brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
--brand-name-facebook = Фейсбук
+-brand-name-facebook =
+    { $case ->
+       *[nominative] Фейсбук
+        [genitive] Фейсбука
+        [dative] Фейсбуку
+        [accusative] Фейсбук
+        [instrumental] Фейсбуком
+        [prepositional] Фейсбуке
+    }
 -brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-hulu = Hulu
@@ -21,7 +29,15 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
--brand-name-twitter = Twitter
+-brand-name-twitter =
+    { $case ->
+       *[nominative] Твиттер
+        [genitive] Твиттера
+        [dative] Твиттеру
+        [accusative] Твиттер
+        [instrumental] Твиттером
+        [prepositional] Твиттере
+    }
 
 ## Firefox browsers
 
@@ -35,7 +51,14 @@
         [prepositional] браузере Firefox
         [instrumental] браузером Firefox
     }
--brand-name-firefox-browsers = Браузеры Firefox
+-brand-name-firefox-browsers =
+    { $case ->
+       *[nominative] браузеры Firefox
+        [nominative_uppercase] Браузеры Firefox
+        [genitive] браузеров Firefox
+        [prepositional] браузерах Firefox
+        [instrumental] браузерами Firefox
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -69,25 +92,43 @@
 -brand-name-facebook-container = Фейсбук-контейнер
 -brand-name-firefox-account =
     { $case ->
-       *[nominative] аккаунт Firefox
-        [nominative_uppercase] Аккаунт Firefox
-        [genitive] аккаунта Firefox
-        [genitive_uppercase] Аккаунта Firefox
-        [dative_uppercase] Аккаунту Firefox
-        [instrumental] аккаунтом Firefox
+       *[nominative] Аккаунт Firefox
+        [genitive] Аккаунта Firefox
+        [dative] Аккаунту Firefox
+        [accusative] Аккаунт Firefox
+        [instrumental] Аккаунтом Firefox
+        [prepositional] Аккаунте Firefox
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nominative] аккаунты Firefox
-        [nominative_uppercase] Аккаунты Firefox
-        [genitive] аккаунтов Firefox
-        [instrumental] аккаунтами Firefox
+       *[nominative] Аккаунты Firefox
+        [genitive] Аккаунтов Firefox
+        [dative] Аккаунтам Firefox
+        [accusative] Аккаунты Firefox
+        [instrumental] Аккаунтами Firefox
+        [prepositional] Аккаунтах Firefox
     }
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-devtools =
+    { $case ->
+       *[nominative] Инструменты разработчика Firefox
+        [genitive] Инструментов разработчика Firefox
+        [dative] Инструментам разработчика Firefox
+        [accusative] Инструменты разработчика Firefox
+        [instrumental] Инструментами разработчика Firefox
+        [prepositional] Инструментах разработчика Firefox
+    }
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-send = Firefox Send
--brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-sync =
+    { $case ->
+       *[nominative] Синхронизация Firefox
+        [genitive] Синхронизации Firefox
+        [dative] Синхронизации Firefox
+        [accusative] Синхронизацию Firefox
+        [instrumental] Синхронизацией Firefox
+        [prepositional] Синхронизации Firefox
+    }
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
 
@@ -96,8 +137,11 @@
 -brand-name-devtools =
     { $case ->
        *[nominative] Инструменты разработчика
-        [prepositional] Инструментах разработчика
+        [genitive] Инструментов разработчика
+        [dative] Инструментам разработчика
+        [accusative] Инструменты разработчика
         [instrumental] Инструментами разработчика
+        [prepositional] Инструментах разработчика
     }
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
@@ -119,12 +163,20 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
 -brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-hubs = Клубы Mozilla
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-web-docs =
+    { $case ->
+       *[nominative] Веб-документация MDN
+        [genitive] Веб-документации MDN
+        [dative] Веб-документации MDN
+        [accusative] Веб-документацию MDN
+        [instrumental] Веб-документацией MDN
+        [prepositional] Веб-документации MDN
+    }
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -180,7 +232,15 @@
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
--brand-name-instagram = Instagram
+-brand-name-instagram =
+    { $case ->
+       *[nominative] Инстаграм
+        [genitive] Инстаграма
+        [dative] Инстаграму
+        [accusative] Инстаграм
+        [instrumental] Инстаграмом
+        [prepositional] Инстаграме
+    }
 -brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
