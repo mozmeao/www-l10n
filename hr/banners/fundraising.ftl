@@ -2,5 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-banner-firefox-daylight-promo-title = Dostupan je NOVI { -brand-name-firefox } za { -brand-name-android } i { -brand-name-ios }
-banner-firefox-daylight-promo-button = Preuzmi sada
+
+### URL: https://www-dev.allizom.org/
+
+banner-fundraising-title = O budućnosti se odlučuje na mreži. { -brand-name-mozilla } treba tvoju pomoć u borbi za web za sve nas.
