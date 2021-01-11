@@ -19,7 +19,7 @@
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
--brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mozilla-foundation = Mozilla Vakfı
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 
@@ -117,6 +117,8 @@
 
 ## Mozilla projects (legacy)
 
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
