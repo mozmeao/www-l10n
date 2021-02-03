@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } in zasebnost
-privacy-index-contact-mozilla = Stopite v stik z Mozillo
+privacy-index-contact-mozilla = Stopite v stik z { -brand-name-mozilla(sklon: "orodnik") }
 privacy-index-if-you-want-to-make-a-correction = Če želite sporočiti popravek svojih podatkov ali če imate kakršnokoli vprašanje glede naših pravilnikov zasebnosti, se obrnite na:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
@@ -21,9 +21,10 @@ privacy-index-data-privacy-principles = Načela zasebnosti podatkov
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = Mozillina <a href="{ $principles }">načela zasebnosti podatkov</a> navdihujejo naše ravnanje, ki spoštuje in ščiti uporabnike interneta. Preberite, kako ta načela oblikujejo { -brand-name-firefox } in vse naše izdelke, v <a href="{ $faq }">pogostih vprašanjih</a>.
 privacy-index-transparency-report = Poročilo o transparentnosti
+privacy-index-get-involved = Pridružite se
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
-privacy-index-as-an-open-source-project = Za Mozillo, ki je odprtokodni projekt, sta transparentnost in odprtost neločljiva dela temeljnih načel. Naša izvorna koda je odprta in preverljiva. Naš razvoj je odprt. Naše polletno <a href="{ $report }">poročilo o transparentnosti</a> prav tako odraža našo predanost tem načelom.
+privacy-index-as-an-open-source-project = Za { -brand-name-mozilla(sklon: "tožilnik") }, ki je odprtokodni projekt, sta transparentnost in odprtost neločljiva dela temeljnih načel. Naša izvorna koda je odprta in preverljiva. Naš razvoj je odprt. Naše polletno <a href="{ $report }">poročilo o transparentnosti</a> prav tako odraža našo predanost tem načelom.
 # Variables:
 #   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
 privacy-index-to-review-and-comment-on-proposed = Če želite ostati na tekočem s spremembami naših pravilnikov o zasebnosti, jih pregledovati in komentirati, <a href="{ $group }"> se naročite na skupino mozilla.governance</a>.
