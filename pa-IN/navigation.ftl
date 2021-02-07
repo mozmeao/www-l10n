@@ -12,15 +12,27 @@ navigation-ios-support = { -brand-name-ios } ਸਹਿਯੋਗ
 navigation-android-support = { -brand-name-android } ਸਹਿਯੋਗ
 navigation-firefox-browser-for-enterprise = ਇੰਟਰਪਰਾਈਜ਼ ਲਈ { -brand-name-firefox-browser }
 navigation-firefox-for-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-firefox }
+navigation-watch-videos-and-browse = ਆਪਣੇ { -brand-name-amazon } { -brand-name-fire-tv } ਉੱਤੇ ਵੀਡਿਓ ਵੇਖੋ ਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ਰ ਕਰੋ।
+navigation-firefox-browsers-put = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ ਹੈ।
+navigation-take-the-passwords-youve = { -brand-name-firefox } ਵਿੱਚ ਸੰਭਾਲੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਹਰ ਥਾਂ ਲੈ ਜਾਓ।
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } ਦਾ ਸਮੂਹ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੁਸ਼ਿਆਰ ਬਣਾਈ ਰੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਹੈ।
 navigation-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
+navigation-access-all-of-firefox = ਇੱਕ ਲਾਗਇਨ ਨਾਲ ਸਾਰੇ { -brand-name-firefox } ਲਈ ਪਹੁੰਚ — ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਉਤਪਾਦ ਲਈ ਭਰਪੂਰ ਫਾਇਦਾ ਉਠਾਓ।
 navigation-meet-the-firefox-family = { -brand-name-firefox } ਸਮੂਹ ਨੂੰ ਮਿਲੋ
 navigation-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
+navigation-read-about-new-firefox = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰਾਂ ਬਾਰੇ ਪੜ੍ਹੋ ਅਤੇ ਆਨਲਾਈਨ ਜ਼ਿਆਦਾ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਲਈ ਗੁਰ ਲਵੋ।
+navigation-the-non-profit-behind = { -brand-name-firefox } ਨੂੰ ਬਣਾਉਣ ਵਾਲਾ ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰਗਠਨ ਸਾਰਿਆਂ ਵਾਸਤੇ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਲਈ ਡਟਿਆ ਹੈ।
+navigation-learn-how-firefox-treats = ਸਿੱਖੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟਾ ਦਾ ਮਾਣ ਕਿਵੇਂ ਰੱਖਦਾ ਹੈ।
 navigation-mozilla-careers = { -brand-name-mozilla } ਕੈਰੀਅਰ
+navigation-approach-your-career = ਆਪਣੇ ਕੈਰੀਅਰ ਨੂੰ ਕਿਸੇ ਮਕਸਦ ਨਾਲ ਪਹੁੰਚ ਕਰੋ। { -brand-name-mozilla } ਵਿੱਚ ਵਧੀਆ ਕੰਮ ਬਾਰੇ ਜਾਣੋ।
 navigation-close-firefox-menu = { -brand-name-firefox } ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
 navigation-get-firefox-focus = { -brand-name-firefox-focus } ਫੋਕਸ ਲਵੋ
 navigation-android-extensions = { -brand-name-android } ਇਕਸਟੈਨਸ਼ਨਾਂ
 navigation-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-account }
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
+# Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }, ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ।
 navigation-firefox-playground = { -brand-name-firefox } ਮੈਦਾਨ
@@ -41,8 +53,11 @@ navigation-check-for-breaches = ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ
 navigation-see-breaches = ਸੰਨ੍ਹਾਂ ਨੂੰ ਵੇਖੋ
 navigation-security-tips = ਸੁਰੱਖਿਆ ਸੁਝਾਅ
 navigation-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: ਤੇਜ਼। ਸਰਲ। ਪ੍ਰਾਈਵੇਟ।
+# Outdated string
 navigation-connected-and-protected = ਕਨੈਕਟ ਅਤੇ ਸੁਰੱਖਿਅਤ
 navigation-join = ਹਿੱਸਾ ਬਣੋ
+navigation-close-join-menu = ਜੁਆਇੰਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-sign-in = ਸਾਇਨ ਇਨ
 navigation-benefits = ਫਾਇਦੇ
 navigation-about = ਇਸ ਬਾਰੇ
@@ -50,9 +65,16 @@ navigation-close-about-menu = ਇਸ ਬਾਰੇ ਮੇਨੂ ਬੰਦ ਕਰ�
 navigation-meet-the-technology-company = ਅਜਿਹੀ ਤਕਨੀਕੀ ਕੰਪਨੀ ਨੂੰ ਮਿਲੋ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਤੋਂ ਪਹਿਲ ਦਿੰਦੀ ਹੈ।
 navigation-new-features = ਨਵੇਂ ਫੀਚਰ
 navigation-save-content-absorb-knowledge = ਸਮੱਗਰੀ ਸੰਭਾਲੋ। ਗਿਆਨ ਲਵੋ।
+# Outdated string
 navigation-add-ons = ਐਡ-ਆਨ
 navigation-projects = ਪਰੋਜੈਕਟ
+navigation-close-projects-menu = ਪ੍ਰੋਜੈਕਟ ਮੇਨੂ ਬੰਦ ਕਰੋ
+navigation-machine-learning = ਮਸ਼ੀਨ ਸਿਖਲਾਈ
+# Outdated string
 navigation-web-of-things-iot = ਚੀਜ਼ਾਂ ਦਾ ਵੈੱਬ (IoT)
+navigation-help-make-deep-learning = ਡੀਪ ਲਰਨਿੰਗ ਐਲਗੋਰਿਥਮਾਂ ਨੂੰ ਆਜ਼ਾਦ ਸਰੋਤ ਸੰਸਾਰ ਵਿੱਚ ਪਹੁੰਚਣ ਲਈ ਮਦਦ ਕਰੋ।
+# Outdated string
+navigation-make-devices-connected = ਡਿਵਾਈਸਾਂ ਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਸੁਰੱਖਿਅਤ, ਬੇਫ਼ਿਕਰ ਤੇ ਆਪਸ ਵਿੱਚ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਦਾ ਹੈ।
 navigation-developers = ਡਿਵੈਲਪਰ
 navigation-close-developers-menu = ਡਿਵੈਲਪਰ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-developer-innovations = ਡਿਵੈਲਪਰ ਕਾਢਾਂ
