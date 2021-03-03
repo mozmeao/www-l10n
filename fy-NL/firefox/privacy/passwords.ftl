@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/safe-passwords
 
+# HTML page title
+privacy-passwords-security-guide-to = Befeiligingsgids foar feiligere oanmeldingen en wachtwurden
+# HTML page description
+privacy-passwords-more-and-more-desc = Hieltyd mear fan de gefoelige, weardefolle dingen yn ús libben wurde beskerme mei troch wachtwurden befeilige online accounts. Hoe moatte wy ús oanmeldingen beskermje?
 # tl;dr is an abbreviation for "Too long; didn't read". This is a playful way to say "summary" or "overview"
 privacy-passwords-tldr = yn it koart:
 privacy-passwords-use-random-passwords = Brûk ferhaspele wachtwurden, en brûk foar elke side in oar wachtwurd
