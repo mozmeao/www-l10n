@@ -24,7 +24,7 @@ vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } läuft über ein glob
 vpn-landing-brand-trust-heading = Ein Name, der Vertrauen schafft
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = { -brand-name-mozilla } Mozilla setzt sich seit über 20 Jahren für Online-Datenschutz ein und kämpft für ein besseres und gesünderes Internet für alle Menschen. Wir werden von einer gemeinnützigen Organisation unterstützt. Alles, was wir machen, ist Teil unserer Mission und folgt unseren <a href="{ $url }">Grundsätzen</a>.
+vpn-landing-brand-trust-desc = { -brand-name-mozilla } setzt sich seit über 20 Jahren für Online-Datenschutz ein und kämpft für ein besseres und gesünderes Internet für alle Menschen. Wir werden von einer gemeinnützigen Organisation unterstützt. Alles, was wir machen, ist Teil unserer Mission und folgt unseren <a href="{ $url }">Grundsätzen</a>.
 
 ## FAQ section
 
@@ -50,7 +50,7 @@ vpn-landing-faq-protected-question-desc = Das <a href="{ $url }" { $attrs }>{ -b
 vpn-landing-faq-competition-question-heading = Wie schneidet { -brand-name-mozilla-vpn } im Vergleich zur Konkurrenz ab?
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/en-US/about/history/
-vpn-landing-faq-competition-question-desc = Auch wenn kostenlose VPNs attraktiv erscheinen, gehen sie nicht die gleichen Verpflichtungen zum Datenschutz ein wie { -brand-name-mozilla-vpn }. uKostenlose Anbieter können deine Daten verkaufen oder speichern. Im Vergleich zu anderen kostenpflichtigen VPNs hat { -brand-name-mozilla } eine <a href="{ $url }">langjährige Erfolgsbilanz</a> bei der Entwicklung von Produkten, die Menschen und ihre Privatsphäre an erste Stelle setzen.
+vpn-landing-faq-competition-question-desc = Auch wenn kostenlose VPNs attraktiv erscheinen, gehen sie nicht die gleichen Verpflichtungen zum Datenschutz ein wie { -brand-name-mozilla-vpn }. Kostenlose Anbieter können deine Daten verkaufen oder speichern. Im Vergleich zu anderen kostenpflichtigen VPNs hat { -brand-name-mozilla } eine <a href="{ $url }">langjährige Erfolgsbilanz</a> bei der Entwicklung von Produkten, die Menschen und ihre Privatsphäre an erste Stelle setzen.
 vpn-landing-faq-compatibility-question-heading = Mit welchen Geräten ist { -brand-name-mozilla-vpn } kompatibel?
 vpn-landing-faq-compatibility-question-desc = Die { -brand-name-mozilla-vpn }-Clients sind kompatibel mit:
 vpn-landing-faq-compatibility-question-desc-windows = { -brand-name-windows } 10 (nur 64-Bit)
