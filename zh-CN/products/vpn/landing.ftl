@@ -24,6 +24,7 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla } 拥有 20 多年的历史
 
 vpn-landing-faq-heading = 常见问题
 vpn-langing-faq-uses-question-heading = 什么是 VPN？用途是什么？
+vpn-landing-faq-uses-conceal = 掩藏您的真实 IP 地址，以保护您的个人身份并隐匿所在位置。
 vpn-landing-faq-uses-encrypt = 加密您与 VPN 提供商之间的流量，杜绝本地网络上的任何人进行解密或修改。
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } 会保存哪些信息？
 vpn-landing-faq-protected-question-heading = 将如何保护我的隐私？
@@ -47,7 +48,7 @@ vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进�
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，可随时更改计划或<a href="{ $url }">管理您的订阅</a>。
+vpn-landing-faq-manage-subscription-question-desc = 订阅 { -brand-name-mozilla-vpn } 后，您可以随时更改计划或<a href="{ $url }">管理订阅</a>。
 vpn-landing-faq-link = 参阅更多常见问题
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
