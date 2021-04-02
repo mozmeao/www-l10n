@@ -16,6 +16,7 @@ vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο σ�
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers }+ διακομιστές σε { $countries }+ χώρες
 vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
+vpn-shared-features-activity = Χωρίς καταγραφή δραστηριότητας δικτύου
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
@@ -25,6 +26,13 @@ vpn-shared-features-devices = Επιλογή σύνδεσης έως και { $d
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Προστασία για έως και { $devices } συσκευές
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Συνδεθείτε σε περισσότερους από { $servers } διακομιστές σε πάνω από { $countries } χώρες
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Διαθέσιμο σε { $countries } χώρες. Σύντομα σε περισσότερες περιοχές
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Ισχυροί διακομιστές σε { $countries }+ χώρες
@@ -53,6 +61,8 @@ vpn-shared-pricing-total = { $amount } συνολικά
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
+vpn-shared-platform-privacy-promise = Το απόρρητό σας είναι η υπόσχεσή μας
+vpn-shared-platform-trust-partner-headline = Σχετικά με τον έμπιστο συνεργάτη μας
 vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
