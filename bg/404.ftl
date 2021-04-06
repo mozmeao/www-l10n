@@ -6,3 +6,8 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Страницата не е намерена
+not-found-page-sorry-we-cant-find-that-page = Съжаляваме, не успяхме да намерим тази страница.
+not-found-page-go-back = Назад
+# Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Научете</a> за { -brand-name-mozilla }, нестопанската цел на { -brand-name-firefox }.
