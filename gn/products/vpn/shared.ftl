@@ -21,9 +21,16 @@ vpn-shared-features-encrypt = Ipapapýva mba’e’okápe
 vpn-shared-features-servers = { $servers }+ apopyvusu { $countries }-pe+ tetãnguéra
 vpn-shared-features-bandwidth = Ancho de banda jejoko’ỹ
 vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
+vpn-shared-features-activity-logs = Ndaipóri tembiapo rapykuere ñandutípe ko’ága ni araka’eve
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Eikekuaa mohendahavusu  heta { $countries } tetãnguérape
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Eikekuaa { $devices } peve mba’e’okápe
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Ñemo’ã { $devices } mba’e’oka pevépe g̃uarã
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -35,6 +42,12 @@ vpn-shared-countries-coming-soon = Eipurukuaa { $countries } tetãnguérape ko�
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Eporandu ore rysýi tuichakue <a href="{ $url }" { $attrs }>mba’e’okakuéra</a>.
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Mohendahavusu mbarete { $countries }+ tetãnguérape
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Eike { $devices } mba’e’okuérape peve
 vpn-shared-refund-policy = Myengovia Purureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
