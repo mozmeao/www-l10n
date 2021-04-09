@@ -22,11 +22,15 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } es muy fácil de usar. Tocás
 #   $servers (number) - number of available servers
 vpn-ios-servers-headline = Conectar a más de { $servers } servidores en todo el mundo
 # Variables:
+#   $countries (number) - number of available countries
+vpn-ios-servers-copy = Comprá desde Suiza. Transmití desde Canadá. Navegá desde Australia. Con la { -brand-name-mozilla-vpn }, podés establecer la ubicación de tu { -brand-name-iphone } o { -brand-name-ipad } en uno de { $countries } + países, lo que te abre a un mundo de contenido emocionante.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Tenés acceso para { $devices } dispositivos
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-copy = Con una suscripción, tenés { -brand-name-mozilla-vpn } en hasta { $devices } dispositivos diferentes, incluyendo { -brand-name-ios } para { -brand-name-iphone } y { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } y { -brand-name-linux }.
 vpn-ios-speed-headline = Máxima velocidad. Datos ilimitados.
+vpn-ios-speed-copy = Jugá en línea, transmití tus programas favoritos y desplazate por la web a velocidad ultra rápida. No te preocupes por tu ancho de banda en la { -brand-name-mozilla-vpn }, es ilimitado.
 vpn-ios-log-headline = Tus datos se mantienen privados. Punto.
 vpn-ios-log-copy = Algunos proveedores de VPN guardan tu actividad en sus servidores. { -brand-name-mozilla-vpn } no solo no te rastrea en línea — nos oponemos vehementemente a eso. Es una gran parte de lo que defendemos como empresa.
