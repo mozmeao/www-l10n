@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-the-browser-is-just = El restolador ye namás el comienzu
+firefox-home-meet-our-family-of = Conoz la nuesa familia de productos
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = Consigui'l <strong>respetu</strong> que mereces
+firefox-home-download-the-browser = Baxar el restolador
+firefox-home-download-the-app = Baxar l'aplicación
 firefox-home-browsers = Restoladores
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
