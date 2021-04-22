@@ -81,13 +81,28 @@ firefox-desktop-download-secure-your-personal = Абараніце сваю ас
 firefox-desktop-download-breached-website-alerts = Абвесткі аб уцечках дадзеных з сайтаў
 firefox-desktop-download-built-in-password = Убудаваны менеджар пароляў
 firefox-desktop-download-clear-history = Выдаленне гісторыі
+firefox-desktop-download-form-autofill = Аўтазапаўненне форм
 firefox-desktop-download-automatic-updates = Аўтаматычныя абнаўленні
 firefox-desktop-download-customize-your-browser = Уладкуйце свой браўзер
 firefox-desktop-download-themes = Тэмы
 firefox-desktop-download-dark-mode = Цёмны рэжым
 firefox-desktop-download-library-of-extensions = Бібліятэка пашырэнняў
+firefox-desktop-download-adjust-search-bar = Наладзьце параметры радка пошуку
+firefox-desktop-download-change-new-tab = Змяніце выклад новай карткі
+firefox-desktop-download-make-firefox-your = Зрабіце <strong>{ -brand-name-firefox }</strong> сваім
 firefox-desktop-download-extensions-for-every = Пашырэнні на любы густ
+firefox-desktop-download-change-up-your = Мяняйце вонкавы выгляд
+firefox-desktop-download-go-from-light = Пераходзьце са светлага рэжыму на цёмны, у залежнасці ад вашага настрою і пераваг, або ажыўляйце рэчы з дапамогай уласнай тэмы (хоць вясёлкавага аднарога).
+firefox-desktop-download-tweak-your-settings = Змяніце свае налады
+firefox-desktop-download-theres-no-need = Неабавязкова прызвычайвацца. Змяніце старонку новай карткі, радок пошуку, закладкі і шмат іншага, каб даследаваць Інтэрнэт так, як вам зручна.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Пры падтрымцы <strong>некамерцыйнай арганізацыі</strong>, якая ставіць людзей на першае месца
+firefox-desktop-download-challenging-the-status = Аспрэчванне статусу-кво з 1998 года
 firefox-desktop-download-your-privacy-comes = Ваша прыватнасць на першым месцы
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Захавайце ўсе свае любімыя функцыі браўзера — і <strong>адкрывайце</strong> новыя.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Усе вашы любімыя інструменты { -brand-name-google } (напрыклад, Gmail і Docs) працуюць у { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Сінхранізуйце вашы прылады
 firefox-desktop-download-screenshots = Здымкі экрана
