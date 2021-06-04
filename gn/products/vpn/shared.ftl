@@ -55,7 +55,9 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } ha’e marca registra
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading = Eiporavo pe oikótava ndéve guarã
+vpn-shared-pricing-variable-heading-v2 = Eiporavo pe ñemboheraguapy oikótava ndéve g̃uarã
+# Outdated string
+vpn-shared-pricing-variable-heading = Eiporavo pe oikótava ndéve g̃uarã
 vpn-shared-pricing-variable-sub-heading = Rojaposéva guivépe oike:
 vpn-shared-pricing-recommended-offer = Jeroviaha
 vpn-shared-pricing-plan-6-month = 6 Jasy
