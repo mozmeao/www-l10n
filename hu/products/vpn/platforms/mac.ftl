@@ -11,11 +11,19 @@
 vpn-mac-page-title = { -brand-name-mozilla-vpn } { -brand-name-mac-short }re
 vpn-mac-page-description = Használjon asztali { -brand-name-mac-short }et, laptopot, { -brand-name-ipad }et vagy { -brand-name-iphone }-t, védje meg a teljes eszközét a hackerektől és a kíváncsi tekintetektől azzal a VPN-nel, amelyet az a { -brand-name-mozilla } szállít, amely az internetes biztonság úttörője 1998 óta.
 # Mac strings
-vpn-mac-hero-headline = Védje meg az online kapcsolatát a { -brand-name-mac-short(cap: "lower") }es { -brand-name-mozilla-vpn }-nel
-vpn-mac-wifi-headline = Érezze magát biztonságban a zűrős Wi-fiken
+vpn-mac-hero-headline = Védje meg az internetkapcsolatát a { -brand-name-mac-short }re készült { -brand-name-mozilla-vpn }-nel
+vpn-mac-ability = Üzlettől a szórakozásig, mindig érezze magát biztonságban online. A { -brand-name-mozilla-vpn } segít okosabban használni a nyilvános Wi-Fiket azáltal, hogy megvédi az internetkapcsolatát az adatai gyűjteni szándékozó hackerektől és internetszolgáltatóktól. Az egykattintásos adatvédelem elérhető { -brand-name-mac-short }re és { -brand-name-ios }-re, (valamint { -brand-name-windows } 10-re, { -brand-name-linux }ra és { -brand-name-android }ra), és nem befolyásolja a sebességét. És mivel a VPN-t a { -brand-name-mozilla } a { -brand-name-wireguard }® protokollal szállítja, így bízhat abban, hogy az adatai nem lesznek naplózva, így Önnél maradnak – mindig.
+vpn-mac-wifi-headline = Érezze magát biztonságban a zűrős Wi-Fiken
+vpn-mac-wifi-copy = Nyugodtan internetezhet a { -brand-name-mozilla-vpn } segítségével, amikor nyilvános Wi-Fit használ. Megvédi az internetkapcsolatát, így a személyes adatai rejtve maradnak a hackerek és a kíváncsi tekintetek elől.
 vpn-mac-about-headline = A megbízható technológiai vállalattól
+vpn-mac-about-copy = 1998 óta a nonprofit { -brand-name-mozilla(ending: "accented") }t a jobb internet építését célzó küldetése vezérelte. Az olyan termékektől kezdve, mint a { -brand-name-firefox-browser }, az egész világra szóló érdekképviseleti munkáig, a { -brand-name-mozilla } azon munkája, hogy az internet nyílt és szabad legyen, tovább folytatódik.
 vpn-mac-privacy-headline = Adatvédelem karnyújtásnyira
+vpn-mac-privacy-copy = A { -brand-name-mozilla-vpn } a fejlett { -brand-name-wireguard }® protokkolnak köszönhetőn titkosítja az internetkapcsolatát, és elrejti az IP-címét a hackerektől és a kíváncsi internetszolgáltatóktól.
 vpn-mac-servers-headline = Érjen el kiszolgálókat szerte a világon
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Állítsa be a { -brand-name-mac-short }je tartózkodási helyét { $servers }+ kiszolgáló egyikére, { $countries }+ országból. Így bárhonnan megnézheti a híreket, vásárolhat, közvetítéseket nézhet és böngészheti a világhálót.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Védjen meg { $devices } eszközt egyetlen előfizetéssel
