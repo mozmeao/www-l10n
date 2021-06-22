@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-passwords-security-guide-to = Tembiapo ñepyrũ rapépe g̃uarã ha ñe’ẽñemi hekosãvéva
+# HTML page description
+privacy-passwords-more-and-more-desc = Ko’ẽreíre hetave mba’e ñande rekovépe omo’ã ñe’ẽñemi mba’etekuéra ñandutípe. ¿Mba’éichapa oñemo’ãkuaa ñande rérachaukaha?
 # page content
 privacy-passwords-a-security-guide = Tekorosã rape puruhárape g̃uarã ha ñe’ẽñemi hekosãva
 privacy-passwords-protecting-your-accounts = Ne mba’ete ñemo’ã natekotevẽi hasývo ijejapo — ha { -brand-name-firefox } ne pytyvõkuaa upevarã.
@@ -23,6 +25,7 @@ privacy-passwords-guessing-it = Ijurupyasy
 privacy-passwords-stealing-a-file = Amonda ne marandurenda orekóva ne ñe’ẽñemi
 privacy-passwords-using-password-recovery = Aipuru ñe’ẽñemi guerujeyrã oĩporãjey hag̃ua
 privacy-passwords-tricking-you-into = Rombotavy eme’ẽ hag̃ua
+privacy-passwords-to-keep-your = Ereko hag̃ua ne mba’ete tekorosãme, emboyke heta ombyaikuaáva ikatuháicha. Peteĩteĩva mba’evai oreko mba’éichapa emboykekuaa.
 privacy-passwords-look-for-the = Eheka pe mbotyha ne kundahárape
 privacy-passwords-a-closed-lock = Kundahára tuichavévape ojehecha mbotyha ijurja’ỹva ñanduti kundaharape renda kundaharape rupápe.
 privacy-passwords-a-padlock-with = Peteĩ mbotyha juasapyre tairenda ndive ohechauka nahekorosãiha jeike.
@@ -31,4 +34,6 @@ privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
 privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial
