@@ -16,6 +16,7 @@ firefox-all-you-are-about-to-download = Esteu a punt de baixar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:
 firefox-all-language = Llengua:
+firefox-all-lang-multi = Diverses llengües
 firefox-all-sorry-we-couldnt-find = No s'ha trobat la baixada que cercàveu. Proveu-ho de nou o seleccioneu una baixada de la llista següent.
 firefox-all-the-pre-alpha-version = La versió prealfa per a usuaris avançats que volen trobar errors i provar noves característiques tan aviat com es programen.
 firefox-all-64-bit-installers = Instal·ladors de 64 bits
@@ -35,6 +36,7 @@ firefox-all-count-on-stability-and = Compteu amb l'estabilitat i la facilitat d'
 firefox-all-windows-installers-for = Instal·ladors del Windows per a empreses informàtiques que simplifiquen la configuració, el desplegament i la gestió del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instal·ladors ARM64/AArch64
 firefox-all-arm64-installers-optimized = Instal·ladors ARM64/AArch64 optimitzats per als ordinadors { -brand-name-windows } amb processadors Snapdragon.
+firefox-all-product-send-link = Rebeu un enllaç de baixada en el vostre telèfon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Trieu un instal·lador de 32 bits per a ordinadors amb processadors de 32 bits, o per a ordinadors més antics o menys potents. <a href="{ $url }">Si no esteu segur</a> de quin instal·lador triar, us recomanem el de 32 bits.
@@ -56,3 +58,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
