@@ -31,6 +31,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Sim
 firefox-desktop-download-no = Não
 firefox-desktop-download-blocks-third-party = Bloqueia cookies de monitorização de terceiros
+firefox-desktop-download-blocks-third-party-default = Bloqueia cookies de monitorização de terceiros por predefinição
 firefox-desktop-download-autoplay-blocking = Bloqueio de reprodução automática
 firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de redes sociais
 # OS is short for "Operating System"
@@ -157,6 +158,14 @@ firefox-desktop-download-now-mac = Agora <strong>abra</strong> o ficheiro que ac
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Está a ter problemas? <a { $attrs }>Obtenha ajuda com a sua instalação</a>.
 firefox-desktop-download-in-another-language = Transferir noutro idioma ou para outro sistema operativo.
+firefox-desktop-download-windows-10 = { -brand-name-windows }10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Se for apresentado um aviso a indicar que está a tentar instalar uma aplicação não validada pela { -brand-name-microsoft }, clique em “Instalar mesmo assim” ou <a { $attrs }>altere as configurações de recomendação de aplicações</ a >.
+firefox-desktop-download-visit-support-for-more = Consulte o apoio para obter mais detalhes
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não disponibiliza mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas pode continuar a utilizar o { -brand-name-firefox }.
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
@@ -166,3 +175,10 @@ firefox-desktop-download-youre-using-an-insecure-outdated = Está a utilizar um 
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A sua transferência deveria ter sido iniciada automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente repetir a transferência.</a>.
 firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é mais do que um navegador.
+firefox-desktop-download-interrupted = A sua transferência foi interrompida, mas nem tudo está perdido.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Por favor, siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = O seu sistema pode não cumprir os requisitos para o { -brand-name-firefox }, mas pode experimentar uma <a href="{ $url }">destas versões</a>.
