@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Descarcă { -brand-name-firefox }
-navigation-get-a-firefox-account = Obține { -brand-name-firefox-account }
+navigation-get-a-firefox-account = Obține un { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } pentru calculator
 navigation-get-the-browser-that-respects = Obține browserul care respectă confidențialitatea ta în mod automat. Pe { -brand-name-windows }, { -brand-name-mac } sau { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } pentru dispozitive mobile
@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Ia { -brand-name-firefox } și { -brand-na
 navigation-get-firefox = Instalează { -brand-name-firefox }
 navigation-get-firefox-focus = Instalează { -brand-name-firefox-focus }
 navigation-android-extensions = Extensii pentru { -brand-name-android }
-navigation-your-firefox-account = { -brand-name-firefox-account } al tău
+navigation-your-firefox-account = { -brand-name-firefox-account(capitalization: "lower-definite-article-you") }
 navigation-make-the-most-of-your = Du la maxim experiența { -brand-name-firefox } pe toate dispozitivele.
 # Outdated string
 navigation-learn-how-to-customize = Află cum să personalizezi modul în care funcționează { -brand-name-firefox }.
