@@ -56,6 +56,7 @@ does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã te
 nope-never-have = Ndajapói araka’eve, araka’eve ndajapomo’ãi. Ha romo’ãta heta maranduñemurã ojapóvagui. Umi { -brand-name-firefox } apopyre oñemboguata omo’ã hag̃ua ne ñemigua. <a href="{ $url }">Péva rojapóta.</a>
 why-is-firefox = ¿Mba’ére { -brand-name-firefox } imbeguete?
 is-firefox-chromium = ¿{ -brand-name-firefox } ojeko { -brand-name-chromium } rehe?
+firefox-is-not = { -brand-name-firefox } noñemopyendái { -brand-name-chromium } rehe (pe kundahára apopyrã ijayvu jurujáva { -brand-name-google } mbytépe { -brand-name-chrome }). Upévare, ore hína peteĩva umi kundahára tuicháva oreko’ỹva. { -brand-name-firefox } oku’e ore kundahára mongu’eha Quantum oñemoheñóiva { -brand-name-firefox } peg̃uarã, roguerekotaha ne mba’ekuaarã poyhu ha tekoñemíme.
 does-firefox-use = ¿{ -brand-name-firefox } oipuru { -brand-name-google }?
 
 # Variables:
@@ -75,4 +76,5 @@ who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } omoheñói { -brand-name-mozilla-corporation }, peteĩ hesegua ha’éva atyguasu viru’ỹ rehegua mba’éva <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ha oguatáva pe { -brand-name-mozilla } Jehaipyre he’iháicha. Eikuaave { -brand-name-firefox } apopyre rehegua <a href="{ $url2 }">ko’ápe.</a>
 related-questions-who = Porandu ojojoguáva: mávapa { -brand-name-firefox } jára, mávapa { -brand-name-firefox-browser } jára, ha’e { -brand-name-firefox } { -brand-name-google } mba’e, { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google } mba’e
