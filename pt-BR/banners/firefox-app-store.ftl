@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
-banner-firefox-app-store-title = { -brand-name-firefox }: navigator private, secur
+banner-firefox-app-store-title = { -brand-name-firefox }: Navegador seguro e privativo
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
-banner-firefox-app-store-free-google-play = Obtene lo gratis per { -brand-name-google-play }
-banner-firefox-app-store-free-app-store = Obtene lo gratis per { -brand-name-app-store }
+banner-firefox-app-store-free-google-play = Gratuito – no { -brand-name-google-play }
+banner-firefox-app-store-free-app-store = Gratuito – na { -brand-name-app-store }
