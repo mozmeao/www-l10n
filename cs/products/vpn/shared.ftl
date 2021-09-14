@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
-vpn-shared-subscribe-link = Získat službu { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Pořiďte si službu { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
 # Outdated string
@@ -84,6 +84,7 @@ vpn-shared-pricing-total = Celková částka: { $amount }
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-button = Ceník a dostupnost
 vpn-shared-platform-privacy-promise = Vaše soukromí je naším slibem
 vpn-shared-platform-trust-partner-headline = O našem partnerovi
 # Variables:
