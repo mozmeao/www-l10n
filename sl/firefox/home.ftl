@@ -12,15 +12,20 @@ firefox-home-meet-our-family-of = Spoznajte našo družino izdelkov
 firefox-home-get-trackers-off = Znebite se več kot 2000 sledilcev – vključno s { -brand-name-facebook }om
 firefox-home-know-when-hackers-strike = Bodite obveščeni, ko napadalci udarijo – in ostanite korak pred njimi
 firefox-home-start-getting-breach = Začnite prejemati poročila o krajah podatkov
+# Obsolete string
 firefox-home-keep-your-passwords = Ohranite gesla varna na vseh napravah
+# Obsolete string
 firefox-home-learn-more-about-lockwise = Več o { -brand-name-lockwise }u
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Prejmite <strong>spoštovanje</strong>, ki si ga zaslužite
 firefox-home-every-single-firefox = Vsak izdelek { -brand-name-firefox } je v skladu našo zavezo o osebnih podatkih: <strong>Vzemi manj. Ohrani varnost. Brez skrivnosti.</strong>
+# Obsolete string
 firefox-home-share-large-files-without = Delite velike datoteke brez radovednih oči
+# Obsolete string
 firefox-home-start-sending-files = Začnite varno pošiljati datoteke
 firefox-home-trade-clickbait-for = Zamenjajte vabe za klike s kakovostno vsebino
 firefox-home-learn-more-about-pocket = Več o { -brand-name-pocket }u
+firefox-home-protection-for-your-whole = Zaščita za celotno vašo napravo – katerokoli napravo.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Ena prijava. Vse vaše naprave. Družina izdelkov, ki spoštujejo vašo <strong>zasebnost</strong>.
 firefox-home-join-firefox = Pridružite se { -brand-name-firefox }u
@@ -29,6 +34,7 @@ firefox-home-get-the-browser-extension = Prenesite razširitev za brskalnik
 firefox-home-get-the-facebook-container = Prenesite razširitev { -brand-name-facebook-container }
 firefox-home-download-the-browser = Prenesite brskalnik
 firefox-home-download-the-app = Prenesite aplikacijo
+firefox-home-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
 firefox-home-desktop = Namizje
 firefox-home-browsers = Brskalniki
 firefox-home-android = { -brand-name-android }
@@ -38,6 +44,7 @@ firefox-home-lockwise = { -brand-name-lockwise }
 firefox-home-send = { -brand-name-send }
 firefox-home-mozilla = { -brand-name-mozilla }
 firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

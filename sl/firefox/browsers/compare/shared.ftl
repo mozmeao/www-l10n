@@ -10,15 +10,17 @@ compare-shared-yes = Da
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Način zasebnega brskanja
-compare-shared-blocks-third-party-tracking-default = Privzeto zavrača sledilne piškotke tretjih strani
+compare-shared-blocks-third-party-tracking-default = Privzeto zavračanje sledilnih piškotkov tretjih strani
 # Obsolete string
 compare-shared-blocks-third-party-tracking = Zavračanje sledilnih piškotkov tretjih strani
 compare-shared-blocks-cryptomining-scripts = Zavračanje kriptorudarskih skriptov
 compare-shared-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
-compare-shared-autoplay-blocking = Zavračanje samodejnega predvajanja
+compare-shared-dashboard-to-review = Pregledna plošča zavrnjenih sledilcev
+compare-shared-autoplay-blocking = Preprečevanje samodejnega predvajanja
 compare-shared-tab-browsing = Brskanje z zavihki
 compare-shared-bookmark-manager = Upravitelj zaznamkov
 compare-shared-automatically-fills-out-forms = Samodejno izpolnjevanje obrazcev
+compare-shared-automatically-fills-out-payments = Samodejno izpolnjevanje plačil
 compare-shared-search-engine-options = Možnosti iskalnika
 compare-shared-text-to-speech = Besedilo v govor
 compare-shared-reader-mode = Bralni način
