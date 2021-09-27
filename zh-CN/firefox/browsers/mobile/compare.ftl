@@ -9,6 +9,7 @@
 mobile-compare-5-of-the-best = 五款最佳移动浏览器同台对比
 # HTML description
 mobile-compare-who-makes-the = 谁是最好的移动浏览器？我们将比较移动版本的 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari } 和 { -brand-name-opera } 找出答案。
+mobile-compare-another-mobile-feature = 移动浏览器应该提供的另一个功能是，即使普通浏览模式下，也能够能够阻止网站和企业跟踪您的浏览和购物数据。
 mobile-compare-blocking-thirdparty-trackers = 拦截第三方跟踪器不仅有助于保护隐私，还能防止这些附加代码拉低浏览器的速度，助您更快看到所需内容。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-features-strong = <strong>功能</strong>
@@ -18,6 +19,7 @@ mobile-compare-syncing-strong = <strong>同步</strong>
 mobile-compare-syncing = 同步
 mobile-compare-does-your-browser = 您的浏览器是否与其他设备兼容？
 mobile-compare-conclusion = 结论：
+mobile-compare-our-recommendations-aside = 撇开我们的建议不谈，找到适合您的浏览器，最终还是取决于您的个人需求和网络浏览最看重的体验取向。
 mobile-compare-search-engine-options = 搜索引擎选项
 mobile-compare-text-to-speech = 文字转语音
 mobile-compare-reader-mode = 阅读模式
@@ -38,7 +40,7 @@ mobile-compare-mobile-os-availability = 移动操作系统可用性
 mobile-compare-syncs-with-desktopmobile = 与桌面/移动应用同步
 mobile-compare-password-management = 密码管理
 mobile-compare-primary-password = 主密码
-mobile-compare-get-firefox-for-mobile = 获取 { -brand-name-firefox } 移动版
+mobile-compare-get-firefox-for-mobile = 下载移动版 { -brand-name-firefox }
 mobile-compare-send-a-download-link-to-your = 发送下载链接至您的手机。
-mobile-compare-scan-the-qr-code-to-get-started = 扫码下载
+mobile-compare-scan-the-qr-code-to-get-started = 立即扫码
 mobile-compare-scan-alt-text = 扫码下载适用于移动设备的 { -brand-name-firefox }
