@@ -24,13 +24,13 @@ firefox-all-32-bit-installers = ባለ 32-ቢት ማቀናጃዎች
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = { -brand-name-firefox-browser }ን በእንግሊዝኛ (ዩኤስ) እና ከ 90 በላይ ሌሎች ቋንቋዎች አውርድ
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ - ፋየርፎክስ የድረ-ገፅ ማሰሻን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
-firefox-all-choose-which-firefox = በራስዋ ቋንቋ ለመጫን የፈለጉትን አይነት የፋየርፎክስ ድረ-ገፅ ማሰሻ ይምረጡ
-firefox-all-firefox-privacy-notice = ሰለ ግላዊነት የፋየርፎክስ ማስታወቂያ
-firefox-all-learn-about-firefox = ስለ ፋየርፎክስ ድረ-ገፅ ማሰሻ የበለጠ ይወቁ
-firefox-all-the-standard-firefox = ደረጃውን የጠበቀ የፋየርፎክስ ድረ-ገፅ ማሰሻ - ፈጣን እና አስተማማኝ። የትኛውን ፋየርፎክስ እንደሚመርጡ እርግጠኛ ካልሆኑ፤ ይኼን ይምረጡ።
-firefox-all-get-a-sneak-peek-at = የቅርቡን ፋየርፎክስ ድረ-ገፅ ማሰሻ ዘመናዊ ገፅታዎች፤ በይፋ ከመለቁ በፊት በመጠኑ ይቃኙት።
-firefox-all-test-your-sites-against = በቅርቡ የሚለቀቀውን ፋየርፎክስ ድረ-ገፅ ማሰሻ ገፅታዎች፤ ከፍተኛ አቅም እና ተስማሚ የዴቭቱል ግብአቶቹ ጋር በቀላሉ ድረ-ገፅዎ ላይ ይሞክሩት።
+firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ  { -brand-name-firefox-browser }ን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
+firefox-all-choose-which-firefox = በራስዋ ቋንቋ የፈለጉትን አይነት { -brand-name-firefox-browser } ለመጫን ይምረጡ
+firefox-all-firefox-privacy-notice = ሰለ ግላዊነት የ { -brand-name-firefox-browser } ማስታወቂያ
+firefox-all-learn-about-firefox = ስለ  { -brand-name-firefox } የድር አሳሾች ይወቁ
+firefox-all-the-standard-firefox = መደበኛ { -brand-name-firefox } አሳሽ -- ፈጣን እና ግላዊ። የትኛውን { -brand-name-firefox } እንደሚመርጡ እርግጠኛ ካልሆኑ ይህንን ይምረጡ።
+firefox-all-get-a-sneak-peek-at = ከመለቀቃቸው በፊት የቅርብ ጊዜውን የ{ -brand-name-firefox } አሳሽ ባህሪያትን በመጠኑ ይቃኙት።
+firefox-all-test-your-sites-against = ድህረ-ገጾችዎን በቅርቡ በሚለቀቁ የ{ -brand-name-firefox } አሳሽ ባህሪያት በነባሪነት በሚሠሩ ኃይለኛ እና ተጣጣፊ DevTools ይፈትኗቸው።
 firefox-all-count-on-stability-and = ለድርጅቶች ታስቦ የተቀረፀው ፋየርፎክስ ድረ-ገፅ ማሰሻ፤ ወጥነት ያለው እና በቀላሉ መጠቀም የሚያስችል ነው።
 firefox-all-windows-installers-for = ዊንዶውስ ማቀናጃ ለIT ድርጅቶች፤ የፋየርፎክስ ድረ-ገፅ ማሰሻን ሲጠቀሙ ቅንጅትን፣ ስርጭትን እና አስተዳደርን ያቀልላቸዋል።
 # Variables:
