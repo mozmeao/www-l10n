@@ -8,7 +8,7 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 # HTML description
-mobile-android-firefox-browser-for = Το πρόγραμμα περιήγησης { -brand-name-firefox } για { -brand-name-android } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.
+mobile-android-firefox-browser-for = Το { -brand-name-firefox } για { -brand-name-android } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Ανεξαρτητοποιηθείτε με το { -brand-name-firefox } για { -brand-name-android }
@@ -24,5 +24,6 @@ mobile-android-easily-organize-your = Εύκολη οργάνωση καρτελ
 mobile-android-supercharge-firefox-with = Ενδυνάμωση του { -brand-name-firefox } με πρόσθετα
 mobile-android-pick-up-where = Συνεχίστε από εκεί που σταματήσατε
 mobile-android-search-from-your = Αναζήτηση από την αρχική οθόνη του τηλεφώνου σας
+mobile-android-no-need-to = Δεν χρειάζεται να ανοίξετε την εφαρμογή. Προσθέστε το widget αναζήτησης του { -brand-name-firefox } και κάντε αναζήτηση απευθείας από την αρχική οθόνη της συσκευής σας.
 mobile-android-pin-videos-to = Καρφίτσωμα βίντεο στην οθόνη σας
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
