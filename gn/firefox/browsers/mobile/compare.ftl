@@ -21,12 +21,14 @@ mobile-compare-from-the-chart = Pe kora mboyvegua guive, { -brand-name-firefox }
 mobile-compare-features-strong = <strong>Mboja’opy</strong>
 mobile-compare-features = Mboja’opy
 mobile-compare-what-can-your = ¿Mba’e ojapokuaa kundahára nderehe?
+mobile-compare-a-main-ingredient = Mba’e tuicháva kundahára oikoporãvape ha’e pe hembiapoite. ¿Mba’e pe ojapokuaáva? Umi po kundahára ojueheguapanunga tendayke, techaukaha ha kora myanyhẽ ijeheguívape, hákatu { -brand-name-firefox } ha { -brand-name-safari } añoite ome’ẽkuaa moĩmbaha/jepysokue, ha’etéva tembipuru’i kundahárape g̃uarã hekoñemive hag̃ua, imbarete térã hekoretia’evégui.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 mobile-compare-syncing-strong = <strong>Mbojuehepyre</strong>
 mobile-compare-syncing = Mbojuehepyre
 mobile-compare-does-your-browser = ¿Ne kundahára oikoporã ambue mba’e’oka ndive?
 mobile-compare-the-mobile-version = Pumbyrýpe g̃uarãva { -brand-name-safari }, oĩmavavoi ñepyrũha guive pumbyrýpe { -brand-name-apple }, ojokupyty ambue mba’e’oka ndive { -brand-name-apple } avei { -brand-name-ipad } ha pumbyryguáva { -brand-name-mac-short }. { -brand-name-firefox }, { -brand-name-chrome } ha { -brand-name-opera } oiko opaite pyendavusúpe oĩhápe { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, { -brand-name-mac-short } ha { -brand-name-linux }, oĩ’ỹhápe kundahára { -brand-name-edge } ndojokupytýiva { -brand-name-linux } mba’e’oka ndive.
 mobile-compare-almost-all-of = Opavave nunga kundahára pumbyrygua oñemoñondivéva omoneĩ ñembojuehe mba’e’oka pumbyrygua pa’ũme ha mesa ariguápe.
+mobile-compare-the-good-news = Marandu porã puruhárape { -brand-name-iphone } guive { -brand-name-apple } ramoite omoneĩ { -brand-name-iphone } puruhárape oiporavóvo ikundahára ypyguarã, upévare puruhára ombojuehe imba’e’oka pyendavusu rupive, techapyrãrõ, omohenda rire { -brand-name-firefox } i-{ -brand-name-iphone } ha PC { -brand-name-windows } ndive.
 mobile-compare-conclusion = Mohu’ã
 mobile-compare-our-recommendations-aside = Emboykévo ore ñemoñe’ẽ, ejuhu hag̃ua kundahára oikóva añetéva ndéve g̃uarã ojokupytýva ne remikotevẽ rehe ha umi ehecharamovéva eikundahakuévo ñandutípe.
 mobile-compare-search-engine-options = Mongu’eha jeporavorã jeheka
