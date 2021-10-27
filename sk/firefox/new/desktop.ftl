@@ -90,9 +90,37 @@ firefox-desktop-download-library-of-extensions = Knižnica rozšírení
 firefox-desktop-download-adjust-search-bar = Upravenie nastavení vyhľadávacieho panela
 firefox-desktop-download-change-new-tab = Zmena rozloženia novej karty
 firefox-desktop-download-make-firefox-your = Prispôsobte si <strong>{ -brand-name-firefox }</strong> podľa seba
+firefox-desktop-download-extensions-for-every = Rozšírenia pre každý záujem
+firefox-desktop-download-change-up-your = Zmeňte si vzhľad
+firefox-desktop-download-go-from-light = Prejdite zo svetlého režimu do tmavého režimu v závislosti od vašej nálady alebo preferencií alebo oživte veci pomocou vlastnej témy (napríklad dúhového jednorožca).
+firefox-desktop-download-tweak-your-settings = Upravte nastavenia
+firefox-desktop-download-theres-no-need = Nie je potrebné si zvykať. Zmeňte si stránku novej karty, vyhľadávací panel, záložky a ďalšie, aby ste mohli objavovať internet tak, ako chcete.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = S podporou <strong>neziskovej organizácie</strong>, ktorá kladie ľudí na prvé miesto
+firefox-desktop-download-challenging-the-status = Výzva súčasného stavu od roku 1998
 firefox-desktop-download-your-privacy-comes = Vaše súkromie je na prvom mieste
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ponechajte si všetky svoje obľúbené funkcie prehliadača – a <strong>objavte</strong> nové.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Všetky vaše obľúbené nástroje { -brand-name-google } (ako Gmail a Dokumenty) fungujú v { -brand-name-firefox-browser(capitalization: "lower", case: "loc") } bez problémov.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Stiahnite si toto rozšírenie pre prehliadač</a>, aby vás { -brand-name-facebook } (a takisto { -brand-name-instagram }) nesledoval na webe.
+firefox-desktop-download-sync-your-devices = Synchronizácia medzi zariadeniami
+firefox-desktop-download-screenshots = Snímky obrazovky
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním (ETP)
+firefox-desktop-download-from-watching-a = Od sledovania webového tutoriálu až po sledovanie vášho obľúbeného tímu – vaše video vás bude sprevádzať pri multitaskingu.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Získajte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pre <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Získajte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pre <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Stiahnite si mobilný prehliadač { -brand-name-firefox } na automatickú ochranu na všetkých vašich zariadeniach.
+firefox-desktop-download-learn-about-the = Nižšie nájdete informácie o prehliadači { -brand-name-firefox }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po hry, existuje <a { $attrs }>rozšírenie pre každého</a>. Pridajte ich koľko chcete, kým váš prehliadač nebude vedieť všetko, čo potrebujete.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora pre { -brand-name-mozilla }</a> vám pomôže.
