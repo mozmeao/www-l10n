@@ -38,7 +38,9 @@ firefox-desktop-download-blocks-social-trackers = Bloquea rastreadores sociales
 firefox-desktop-download-os-availability = Disponibilidad de sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla incorporada
 firefox-desktop-download-primary-password = Contraseña maestra
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = Amá tu vida en línea
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
 # Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
 firefox-desktop-its-your-internet = Es tu internet. Coloreala como te guste con miles de herramientas, temas y extensiones. { -brand-name-firefox } es navegador alternativo original que pone a las personas antes que a las ganancias.
 # Obsolete string
@@ -69,12 +71,12 @@ firefox-desktop-download-spell-check = Corrección ortográfica
 firefox-desktop-download-pinned-tabs = Pestañas pegadas
 firefox-desktop-download-stream-share-play = Transmití, compartí y jugá
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Bloquear la reproducción automática de video y audio
+firefox-desktop-download-block-autoplay-of = Bloqueá la reproducción automática de video y audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Picture-in-Picture
 firefox-desktop-download-curated-content-on = Contenido seleccionado en las pestañas nuevas
-firefox-desktop-download-share-links = Compartir enlaces
-firefox-desktop-download-protect-your-privacy = Proteger la privacidad
+firefox-desktop-download-share-links = Compartí enlaces
+firefox-desktop-download-protect-your-privacy = Protegé tu privacidad
 firefox-desktop-download-third-party-cookie = Bloqueo de cookies de terceros
 firefox-desktop-download-fingerprinter-blocking = Bloqueo de detector de huellas digitales
 firefox-desktop-download-cryptominer-blocking = Bloqueo de criptominería
@@ -83,23 +85,23 @@ firefox-desktop-download-individual-protections-report = Informe de protecciones
 firefox-desktop-download-secure-your-personal = Asegurá tu información personal
 firefox-desktop-download-breached-website-alerts = Alertas de sitios web violados
 firefox-desktop-download-built-in-password = Administrador de contraseñas incorporado
-firefox-desktop-download-clear-history = Eliminar historial
+firefox-desktop-download-clear-history = Eliminá el historial
 firefox-desktop-download-form-autofill = Llenado automático de formularios
 firefox-desktop-download-automatic-updates = Actualizaciones automáticas
-firefox-desktop-download-customize-your-browser = Personalizar el navegador
+firefox-desktop-download-customize-your-browser = Personalizá tu navegador
 firefox-desktop-download-themes = Temas
 firefox-desktop-download-dark-mode = Modo oscuro
 firefox-desktop-download-library-of-extensions = Biblioteca de extensiones
-firefox-desktop-download-adjust-search-bar = Ajustar la configuración de la barra de búsqueda
-firefox-desktop-download-change-new-tab = Cambiar el diseño de la nueva pestaña
-firefox-desktop-download-make-firefox-your = Hacé tu propio <strong> { -brand-name-firefox } </strong>
+firefox-desktop-download-adjust-search-bar = Ajustá la configuración de la barra de búsqueda
+firefox-desktop-download-change-new-tab = Cambiá el diseño de la nueva pestaña
+firefox-desktop-download-make-firefox-your = Hacé tu propio <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Extensiones para todos los intereses.
 firefox-desktop-download-change-up-your = Cambiá tu apariencia
 firefox-desktop-download-go-from-light = Pasá del modo claro al modo oscuro según tu estado de ánimo o preferencia, o amenizá con un tema personalizado (unicornio arcoíris tal vez).
 firefox-desktop-download-tweak-your-settings = Cambiá tu configuración
 firefox-desktop-download-theres-no-need = No necesitás conformarte. Cambiá la página de la nueva pestaña, la barra de búsqueda, los marcadores y más para explorar Internet de la manera que quieras.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = Respaldado por la <strong> organización sin fines de lucro </strong> que prioriza a las personas
+firefox-desktop-download-backed-by-the = Respaldado por la <strong>organización sin fines de lucro</strong> que prioriza a las personas
 firefox-desktop-download-challenging-the-status = Desafiando al status quo desde 1998
 firefox-desktop-download-your-privacy-comes = La privacidad es lo primero
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -129,7 +131,7 @@ firefox-desktop-download-from-security-to = Desde la seguridad hasta las noticia
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fue creado por <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa más rápida y privada a navegadores como { -brand-name-ie }, y ahora { -brand-name-chrome }. Hoy en día, nuestra comunidad de voluntarios y empresas impulsadas por la misión continúan poniendo tu privacidad por encima de todo.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }> Promesa de datos personales </a>: toma menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
+firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }>Promesa de datos personales</a>: toma menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está disponible en todos tus dispositivos; llevá tus pestañas, historial y marcadores con vos. Todo lo que necesitás es una cuenta<a { $attrs }> { -brand-name-firefox } </a>.
@@ -143,10 +145,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automá
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Preguntas? El <a { $attrs }>soporte de { -brand-name-mozilla }</a> te tiene cubierto.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Ya tenés el navegador { -brand-name-firefox }. Ahora conseguí más aún de { -brand-name-firefox }.
+firefox-desktop-download-youve-already-got-the-browser = Ya tenés el navegador { -brand-name-firefox }. Ahora conseguí aún más de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with = Prestá atención a los piratas informáticos con { -brand-name-firefox-monitor }, protegé las contraseñas con { -brand-name-firefox-lockwise } y más.
 firefox-desktop-download-get-more-from-firefox = Obtené más de { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Simplemente descargar el navegador
+firefox-desktop-download-just-download-the-browser = Simplemente descargá el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -154,7 +156,7 @@ firefox-desktop-download-almost-there = ¡Casi listo!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Ahora terminá <strong> de instalar</strong> { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = Ahora <strong> usá</strong> el instalador que descargaste.
+firefox-desktop-download-now-windows = Ahora <strong>usá</strong> el instalador que descargaste.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Ahora <strong>abrí</strong> el archivo que acaba de descargarse.
 # Variables:
