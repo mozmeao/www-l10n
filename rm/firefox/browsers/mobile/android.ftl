@@ -17,3 +17,7 @@ mobile-android-when-you-download = Sche ti telechargias { -brand-name-firefox } 
 mobile-android-get-firefox-for = Telechargia { -brand-name-firefox } per { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Trametta ina colliaziun per telechargiar a tes telefonin.
 mobile-android-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
+mobile-android-scan-alt-text = Scannescha il code QR per telechargiar { -brand-name-firefox } sin { -brand-name-android }
+mobile-android-fast-and-private = Svelt e privat
+mobile-android-firefox-for-android = { -brand-name-firefox } per { -brand-name-android } porscha ina protecziun da datas senza cumplicaziuns e pussibilitescha ina chargiada sveltischma da las paginas-web. La protecziun avanzada cunter fastizaders blochescha automaticamain fastizaders che ta suondan tras il web e ralenteschan la navigaziun.
+mobile-android-one-tap-to = Mo tutgar per activar il modus privat
