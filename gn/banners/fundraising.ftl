@@ -9,8 +9,10 @@ banner-fundraising-title-v2 = Eipytyvõkena { -brand-name-mozilla } ko ary pahá
 banner-fundraising-title-giving-day = Eipytyvõkena { -brand-name-mozilla } ko ary pahápe ñanduti porãve rekávo.
 # Outdated string
 banner-fundraising-title = Pe tenondegua omboajéma ñandutípe. Eipytyvõ { -brand-name-mozilla }-pe oñorairõvo ñanduti opavavépe g̃uarãva.
+banner-fundraising-body-v2 = Rovy’a roimére atyguasu viru’ỹguápe ha romba’apo ñanduti resãirãre. Nde jopói oreykekóta rojapóvo ñanduti hekorosã ha ijurujáva.
 # Outdated string
 banner-fundraising-body = Ñane mba’ekuaarã oñembyaty jaikévo ñandutípe, ha ndahasýi eikuaávo mba’épa oiko chugui. Pe marandu’ỹ ombohasyeterei añetegua jejuhu. Umi mba’e’oka juajupyre ñanduti pegua osẽ ñemuhaguasúpe hekorosã’ỹre. Ko atyguasu viru’ỹ rehegua { -brand-name-mozilla-foundation } oñorairõ tapiaite ñanduti hekorosã, ijuruja ha opavave oikekuaa hag̃ua pype. <strong>¿Eme’ẽsépa jopói?</strong>
+banner-fundraising-body-extra = ¿Orembojopoikuaa ko árape?
 banner-fundraising-monthly = Jasyguáva
 banner-fundraising-one-time = Peteĩ jeýnte
 banner-fundraising-donate = Me’ẽ
