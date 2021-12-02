@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
-home-mr2-promo-title = Pśiźmy na dobre ideje slědk – malsnjej
+home-mr2-promo-title = Přińdźmy na dobre ideje wróćo – spěšnišo
 
 ## CTA button, links to https://www.mozilla.org/firefox/browsers/mobile/
 
-home-mr2-promo-cta = Wobstarajśo se nowy { -brand-name-firefox }
+home-mr2-promo-cta = Wobstarajće sej nowy { -brand-name-firefox }
