@@ -32,3 +32,11 @@ mobile-android-supercharge-firefox-with = Complemente o { -brand-name-firefox } 
 mobile-android-addons-are-like = Os extras são como pequenas ferramentas poderosas que pode adicionar ao seu navegador para fazer coisas como aumentar as configurações de privacidade predefinidas e personalizar a sua experiência.
 mobile-android-pick-up-where = Retome onde ficou
 mobile-android-go-from-your = Alterne do seu telefone para o seu computador, tablet e vice-versa sem perder o ritmo. Com o { -brand-name-firefox } em todos os seus dispositivos, pode levar os seus marcadores, palavras-passe, credenciais e histórico de navegação guardados onde quer que vá.
+mobile-android-search-from-your = Pesquise a partir do ecrã inicial do seu telemóvel
+mobile-android-no-need-to = Não há necessidade de abrir a aplicação. Adicione o widget de pesquisa do { -brand-name-firefox } e pesquise diretamente a Internet a partir do ecrã inicial do seu dispositivo.
+mobile-android-pin-videos-to = Fixar vídeos no seu ecrã
+mobile-android-pop-videos-out = Destaque os vídeos dos seus sites ou reprodutores e fixe-os em primeiro plano no ecrã do seu telemóvel para poder continuar a ver os mesmos enquanto navega na Internet e faz outras coisas. Divirta-se enquanto realiza outras tarefas em simultâneo.
+mobile-android-about-mozilla = Sobre a { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = A { -brand-name-mozilla } existe para construir a Internet como um recurso público acessível a todos porque acreditamos que aberto e gratuito é melhor do que fechado e controlado. Construímos produtos como o { -brand-name-firefox } e o { -brand-name-pocket } para promover a escolha, transparência e controlo pessoal.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Aceda à Internet mais rapidamente com o { -brand-name-firefox } para { -brand-name-android }
