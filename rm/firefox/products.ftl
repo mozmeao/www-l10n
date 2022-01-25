@@ -29,5 +29,15 @@ firefox-products-learn-more-about-relay = Ve a savair dapli davart { -brand-name
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
 # Obsolete string
+firefox-products-keep-your-passwords-safe-and = Tegna en salv e protegia tes pleds-clav ed acceda a quels sin tuts tes apparats sincronisads.
+# Obsolete string
+firefox-products-download-lockwise = Telechargiar { -brand-name-lockwise }
+# Obsolete string
+firefox-products-open-in-firefox = Avrir en { -brand-name-firefox }
+# Obsolete string
+firefox-products-learn-more-about-lockwise = Ve a savair dapli davart { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
+firefox-products-send-your-large-files-and = Trametta tias datotecas grondas e tes documents confidenzials a moda segira – enfin 2,5 GB.
+firefox-products-send-a-file = Trametter ina datoteca
 firefox-products-pocket = { -brand-name-pocket }
