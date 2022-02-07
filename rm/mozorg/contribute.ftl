@@ -51,9 +51,17 @@ contribute-made-by-desc-cont = Nus crajain che la collavuraziun en la cuminanza 
 ## Newsletter
 
 contribute-newsletter-heading = Es ti anc indecis?
+contribute-newsletter-sub-heading = Obtegna novitads davart cuminanza e collavuraziun en tia posta entrada
+contribute-newsletter-desc = Abunescha noss newsletter, inscuntra Mozillians da tut il mund e ve a savair dapli davart las pussaivladads effectivas da sustegnair l'idea da { -brand-name-mozilla }.
 
 ## Support
 
+contribute-support-heading = Dumonda agid
+contribute-support-desc = { -brand-name-mozilla } ha in team engaschà da voluntaris ch'èn pronts da ta gidar cun n'emporta betg tge problem.
+contribute-mozilla-support = Support da { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Datti problems cun ina pagina-web?
+contribute-web-compat-desc = Sche tia experientscha cun ina tscherta website dependa dal navigatur che ti utiliseschas, has ti probablamain chattà in problem da cumpatibilitad web. Nus vegnissan gugent a savair dapli da quel!
+contribute-report-issue = Annunziar in problem
