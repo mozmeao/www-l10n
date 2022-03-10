@@ -22,6 +22,7 @@ mobile-android-fast-and-private = Γρήγορο και ιδιωτικό
 mobile-android-one-tap-to = Ιδιωτική λειτουργία με ένα πάτημα
 mobile-android-search-your-own = Αναζήτηση με τον δικό σας τρόπο
 mobile-android-save-power-with = Εξοικονόμηση με το σκουρόχρωμο θέμα
+mobile-android-switch-to-dark = Μεταβείτε στη σκουρόχρωμη λειτουργία ανά πάσα στιγμή για να μειώσετε την καταπόνηση των ματιών σας και να εξοικονομήσετε μπαταρία.
 mobile-android-easily-organize-your = Εύκολη οργάνωση καρτελών
 mobile-android-supercharge-firefox-with = Ενδυνάμωση του { -brand-name-firefox } με πρόσθετα
 mobile-android-addons-are-like = Τα πρόσθετα είναι μικρά αλλά ισχυρά εργαλεία που μπορείτε να προσθέσετε στο πρόγραμμα περιήγησής σας για να κάνετε διάφορα πράγματα, όπως η ενίσχυση των προεπιλεγμένων ρυθμίσεων απορρήτου και η προσαρμογή της εμπειρίας σας.
@@ -29,6 +30,7 @@ mobile-android-pick-up-where = Συνεχίστε από εκεί που στα�
 mobile-android-search-from-your = Αναζήτηση από την αρχική οθόνη του τηλεφώνου σας
 mobile-android-no-need-to = Δεν χρειάζεται να ανοίξετε την εφαρμογή. Προσθέστε το widget αναζήτησης του { -brand-name-firefox } και κάντε αναζήτηση απευθείας από την αρχική οθόνη της συσκευής σας.
 mobile-android-pin-videos-to = Καρφίτσωμα βίντεο στην οθόνη σας
+mobile-android-pop-videos-out = Εξαγάγετε τα βίντεο από τους ιστοτόπους ή τα προγράμματα αναπαραγωγής τους και καρφιτσώστε τα στο επάνω μέρος της οθόνης του τηλεφώνου σας για να τα παρακολουθείτε ενώ σερφάρετε στο διαδίκτυο και κάνετε άλλα πράγματα. Διασκεδάστε όσο κάνετε πολλαπλές εργασίες.
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
