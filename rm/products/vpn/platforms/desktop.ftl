@@ -21,3 +21,15 @@ vpn-desktop-about-copy = { -brand-name-mozilla } è enconuschent surtut per ses 
 vpn-desktop-privacy-headline = Protecziun da datas cun in singul clic
 vpn-desktop-privacy-copy = L'applicaziun { -brand-name-mozilla-vpn } criptescha tia connexiun cun l'internet e zuppenta l'adressa IP da tes telefonin u tablet cun agid dal protocol avanzà { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Ta connectescha cun servers en tut il mund
+# Variables:
+#   $servers (number) - number of available servers
+vpn-desktop-servers-copy-updated = Navighescha da la Brasilia. Fa gieus davent dal Giapun. Streamescha dal Mexico. { -brand-name-mozilla-vpn } ta permetta da midar la posiziun da tes telefon u computer cun tscherner in da { $servers } servers.
+# Obsolete string
+vpn-desktop-servers-copy = Navighescha da la Brasilia. Fa gieus davent dal Giapun. Streamescha dal Mexico. { -brand-name-mozilla-vpn } ta permetta da midar la posiziun da tes telefon u computer cun tscherner in da { $servers }.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Protegia enfin a { $devices } apparats
+vpn-desktop-devices-copy = Cun tes abunament survegns ti access illimità a noss servetsch segir da VPN sin tes smartphone, tablet e computer desktop per { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } e { -brand-name-linux }.
+vpn-desktop-speed-headline = Sveltezza fenomenala, naginas restricziuns
+vpn-desktop-speed-copy = Streamescha videos, gioga games, fa cumpras e navighescha sco ina frizza. { -brand-name-mozilla-vpn } na vegn ni a limitar tes volumen da datas ni a ralentar tes smartphone.
+vpn-desktop-log-headline = Tia sfera privata ha prioritad
