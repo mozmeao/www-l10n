@@ -15,11 +15,11 @@ vpn-linux-hero-headline = { -brand-name-mozilla-vpn } pro { -brand-name-ubuntu }
 vpn-linux-ability = Ať se k internetu připojujete doma nebo na cestách, se sítí { -brand-name-mozilla-vpn } získáte vyšší míru zabezpečení. Za malý měsíční poplatek používá pokročilý protokol { -brand-name-wireguard }® k šifrování vašeho internetového připojení na počítači se systémem { -brand-name-linux } i na jiných typech zařízení, takže můžete streamovat pořady, hrát hry, nakupovat a věnovat se každodennímu životu online s vědomím, že jste v bezpečí.
 vpn-linux-maker-of-firefox = Jako jedna z nejdůvěryhodnějších značek v technologickém průmyslu se { -brand-name-mozilla } usilovně snaží zajistit, abyste se při každém přístupu na internet cítili bezpečně.
 vpn-linux-wifi-headline = Zůstaňte v bezpečí, i když musíte používat veřejnou síť Wi-Fi
-vpn-linux-wifi-copy = Někdy je veřejná síť Wi-Fi tou jedinou možností. Díky síti { -brand-name-mozilla-vpn } se můžete bez obav přihlašovat do svého e-mailu na letišti, upravovat svá hesla v kavárně – zkrátka se stejným klidem dělat vše, co běžně děláte doma.
+vpn-linux-wifi-copy = Někdy je veřejná Wi-Fi tou jedinou možností. Se sítí { -brand-name-mozilla-vpn } se můžete bez obav přihlašovat do svého e-mailu na letišti, upravovat svá hesla v kavárně – zkrátka se stejným klidem dělat vše, co běžně děláte doma.
 vpn-linux-about-headline = Spolehlivá značka od roku 1998
 vpn-linux-about-copy = { -brand-name-mozilla } jakožto tvůrce webového prohlížeče { -brand-name-firefox } bojuje za vaše práva na internetu již desítky let – to je naše práce. Jakožto alternativa k technologiím shromažďujícím velké objemy dat neustále vymýšlíme nové způsoby, jak udržet internet otevřený a svobodný za současného respektování práva každého na soukromí.
 vpn-linux-privacy-headline = Zabezpečení na jedno klepnutí
-vpn-linux-privacy-copy = Používání služby { -brand-name-mozilla-vpn } je velmi snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
+vpn-linux-privacy-copy = Používání sítě { -brand-name-mozilla-vpn } je navýsost snadné. Klepněte na tlačítko a vaše připojení se zašifruje za pomoci pokročilého protokolu { -brand-name-wireguard }® a IP adresa vašeho { -brand-name-iphone(case: "gen") } nebo { -brand-name-ipad(case: "gen") } se zastře.
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vám umožňuje nastavit po
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Připojte až { $devices } zařízení
-vpn-linux-devices-copy = S jedním předplatným můžete službu { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
+vpn-linux-devices-copy = S jedním předplatným můžete síť { -brand-name-mozilla-vpn } užívat až na { $devices } různých zařízeních se systémy { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } a { -brand-name-ios } pro { -brand-name-iphone(case: "acc") } a { -brand-name-ipad(case: "acc") }.
 vpn-linux-speed-headline = Superrychlá s neomezenými daty
 vpn-linux-speed-copy = Hrajte hry, streamujte filmy a pořady a surfujte po webu superrychle a bez přiškrcování šířky pásma – { -brand-name-mozilla-vpn } je totiž bez limitací.
 vpn-linux-log-headline = Vaše data patří vám
