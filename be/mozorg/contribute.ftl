@@ -25,12 +25,27 @@ contribute-task-translate-heading = Перакладайце змесціва
 contribute-task-translate-desc = Інтэрнэт глабальны толькі тады, калі яго разумеюць паўсюль. Дапамажыце нам перакласці прадукты і вэб-сайты { -brand-name-mozilla } на сваю мову.
 contribute-task-mozilla-codebase-heading = Укладайце кодавую базу { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Актыўна ўдасканальвайце прадукты { -brand-name-mozilla }, робячы свой уклад у розныя магчымасці для распрацоўкі.
+contribute-task-support-desc = Дапамажыце зрабіць прадукты { -brand-name-mozilla } простымі ў выкарыстанні. Адказвайце на пытанні на форумах супольнай падтрымкі { -brand-name-mozilla }.
+contribute-task-join-heading = Далучайцеся да супольнасці
+contribute-task-join-desc = Хочаце больш актыўна ўдзельнічаць у згуртаванні { -brand-name-mozilla }? Азнаёмцеся з усімі магчымасцямі для валанцёраў на нашым партале супольнасці.
 
 ## Mission
 
+contribute-mission-heading = Наша місія
+contribute-mission-desc = Наша місія складаецца ў забеспячэнні таго, каб Інтэрнэт з'яўляўся глабальным грамадскім рэсурсам, адкрытым і даступным для ўсіх і кожнага. Інтэрнэт, які сапраўды ставіць людзей на першае месца, дзе людзі могуць фарміраваць свой уласны вопыт і быць моцнымі, незалежнымі і абароненымі.
+contribute-learn = Даведайцеся пра { -brand-name-mozilla }
+contribute-read-manifesto = Прачытаць наш маніфест
+contribute-find-event = Знайдзіце падзею
+contribute-meet-volunteers = Пазнаёміцца з нашымі захопленымі валанцёрамі
+contribute-donate = Ахвяруйце
+contribute-help-fund = Дапамагчы фінансаваць нашу місію
+contribute-follow-mozilla = Сачыце за { -brand-name-mozilla }
+contribute-opportunities = Навіны і магчымасці для валанцёраў
 
 ## Made by
 
+contribute-made-by-heading = Зроблена такімі ж захопленымі людзьмі, як вы
+contribute-made-by-desc = Калі вы ўносіце ўклад у { -brand-name-mozilla }, вы становіцеся часткай сусветнай супольнасці, якая складаецца з людзей з усяго свету, якія вераць, што ўсе мы адыгрываем сваю ролю ў забеспячэнні таго, каб Інтэрнэт заставаўся сілай дабра.
 
 ## Newsletter
 
