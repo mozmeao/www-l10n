@@ -25,17 +25,25 @@ footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-mozilla = { -brand-name-mozilla }
+footer-company = Fyrirtæki
 # Outdated string
 footer-about = Um
 footer-press-center = Fréttir
 footer-careers = Störf í boði
 # Outdated string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
+footer-tools = Verkfæri
+footer-resources = Tilföng
+footer-support = Aðstoð
+footer-file-a-bug = Skrá villu
 footer-community-participation-guidelines = Leiðbeiningar um þátttöku í samfélaginu
 footer-websites-privacy-notice = Persónuverndarstefna vefsvæðis
 footer-websites-cookies = Vefkökur
-footer-websites-legal = Lögmæti
+footer-websites-legal = Lagalegur fyrirvari
 footer-language = Tungumál
+footer-donate = Styrkja
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
+footer-follow-firefox = Fylgstu með @{ -brand-name-firefox }
