@@ -37,7 +37,27 @@ vpn-landing-brand-trust-desc = Í meira en 20 ár hefur { -brand-name-mozilla } 
 
 vpn-landing-faq-heading = Algengar spurningar
 vpn-langing-faq-uses-question-heading = Hvað er VPN og hvert er notagildi þess?
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
+vpn-landing-faq-uses-question-desc = Eftir því sem meira af daglegu lífi fer fram í gegnum internetið verður gagnaleynd og öryggi á netinu æ mikilvægara. VPN, <a href="{ $url }">Virtual Private Network</a>, getur hjálpað þér að búa til örugga, einkatengingu við internetið. Það virkar með því að búa til „göng“ á milli tækisins þíns og VPN-þjónustuveitu, hulin frá öðrum hlutum internetsins, sem verndar þig á tvo mikilvæga vegu:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Að fela raunverulegt <a href="{ $url }">IP-vistfang þitt</a>. Þetta verndar auðkennin þín og hylur staðsetningu þína.
+# Obsolete string
+vpn-landing-faq-uses-conceal = Að fela raunverulegt IP-vistfang þitt. Þetta verndar auðkennin þín og hylur staðsetningu þína.
+vpn-landing-faq-uses-encrypt = Dulritar umferðina á milli þín og VPN-veitunnar þinnar, svo enginn á staðarnetinu þínu geti afkóðað eða breytt henni.
+# Variables:
+#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
+vpn-landing-faq-uses-examples = Skoðaðu <a href="{ $url }">fimm raunveruleg dæmi</a> þar sem þú vilt hafa VPN í tækinu þínu.
 vpn-landing-faq-info-question-heading = Hvaða upplýsingar geymir { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/mozilla-vpn/
+vpn-landing-faq-info-question-desc-v2 = Við fylgjum nákvæmlega <a href="{ $principles }">gagnaverndunarreglum</a> { -brand-name-mozilla } og við söfnum aðeins þeim gögnum sem þarf til að halda VPN starfhæfu og til að bæta þjónustuna með tímanum . Við fylgjumst einnig með herferðar- og tilvísunargögnum í farsímaforritinu okkar til að hjálpa { -brand-name-mozilla } að skilja árangur markaðsherferða okkar. Lestu meira í <a href="{ $notice }">persónuverndarstefnunni</a> okkar.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Við skráum ekki, rekjum eða deilum neinu af netvirkni þinni. Við fylgjum nákvæmlega <a href="{ $url }">reglum um gagnavernd</a> frá { -brand-name-mozilla } og við söfnum aðeins þeim gögnum sem þarf til að halda VPN starfandi og bæta þjónustuna með tímanum .
 vpn-landing-faq-protected-question-heading = Hvernig er friðhelgi einkalífs vernduð?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -102,6 +122,8 @@ vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -bra
 # Outdated string
 vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } ({ -brand-name-ubuntu }-einungis)
 vpn-landing-faq-refund-question-heading = Hver er endurgreiðslustefna { -brand-name-mozilla-vpn }?
+vpn-landing-faq-refund-question-desc-v2 = Í fyrsta skipti sem þú gerist áskrifandi að { -brand-name-mozilla-vpn } í gegnum vefsvæði { -brand-name-mozilla }; ef þú segir upp reikningnum þínum innan fyrstu 30 daganna, geturðu beðið um endurgreiðslu og { -brand-name-mozilla } mun þá endurgreiða fyrsta áskriftartímabilið þitt.
+vpn-landing-faq-refund-question-additional-desc = Ef þú kaupir áskriftina þína með kaupum inni í forriti frá { -brand-name-apple } { -brand-name-app-store } eða { -brand-name-google-play } versluninni, er greiðslan þín háð skilmálum og skilyrðum { -brand-name-app-store }. Þú verður að beina öllum fyrirspurnum um innheimtu og endurgreiðslu vegna slíkra kaupa til { -brand-name-apple } eða { -brand-name-google }, eftir því sem við á.
 vpn-landing-faq-manage-subscription-question-heading = Hvernig stýri ég áskriftinni minni?
 vpn-landing-faq-link = Sjá fleiri algengar spurningar
 
