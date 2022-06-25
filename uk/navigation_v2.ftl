@@ -12,7 +12,7 @@ navigation-v2-get-a-firefox-account = Створити { -brand-name-firefox-acc
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Закрити меню { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Закрити меню { -brand-name-firefox-browsers(case: "gen", capitalization: "lower") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } для комп'ютерів
 navigation-v2-get-the-not-for-profit-backed = Отримайте підтримуваний неприбутковою організацією браузер для { -brand-name-windows }, { -brand-name-mac-short } чи { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name-android }
@@ -26,8 +26,8 @@ navigation-v2-learn-how-firefox-treats = Дізнайтеся, з якою ві�
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Читайте про нові можливості { -brand-name-firefox } та шляхи захисту в Мережі.
 navigation-v2-release-notes = Примітки до випуску
-navigation-v2-get-the-details-on-the = Отримайте докладніші відомості про найновіші оновлення { -brand-name-firefox }.
-navigation-v2-view-all-firefox-browsers = Переглянути всі { -brand-name-firefox-browsers }
+navigation-v2-get-the-details-on-the = Отримайте докладніші відомості про оновлення { -brand-name-firefox }.
+navigation-v2-view-all-firefox-browsers = Переглянути всі { -brand-name-firefox-browsers(case: "nom", capitalization: "lower") }
 
 ## Products menu
 
