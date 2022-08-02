@@ -102,23 +102,23 @@ newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou nã
 newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
 newsletters-this-is-not-a-valid-email = Este não é um endereço de email válido. Verifique se digitou corretamente.
 newsletters-you-send-too-many-emails = Vocês mandam emails demais.
-newsletters-your-content-wasnt-relevant = Não tinha interesse nos conteúdos enviados.
-newsletters-your-email-design = Suas mensagens eram difíceis de entender.
-newsletters-i-didnt-sign-up = Eu não me inscrevi para isto.
+newsletters-your-content-wasnt-relevant = O conteúdo não era relevante para mim.
+newsletters-your-email-design = O formato dos emails era muito difícil de ler.
+newsletters-i-didnt-sign-up = Eu não me inscrevi para receber isso.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Este endereço de email não está no nosso sistema. Verifique seu endereço ou <a href="{ $url }">assine nossas newsletters</a>.
 newsletters-im-keeping-in-touch-v2 = Em vez disso, estou mantendo contato com a { -brand-name-mozilla } pelo { -brand-name-twitter }.
 # Obsolete string
-newsletters-im-keeping-in-touch = Vou acompanhar a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter } somente.
+newsletters-im-keeping-in-touch = Em vez disso, vou manter contato com a { -brand-name-mozilla } no { -brand-name-facebook } e no { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
-newsletters-sign-up-read-up-stay-informed = Inscreva-se, leia,<br> fique informado.
+newsletters-sign-up-read-up-stay-informed = Inscreva-se, investigue,<br> mantenha-se informado.
 # Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Leia.<br> Faça a diferença.
+newsletters-sign-up-read-up-make-a-difference = Inscreva-se. Investigue.<br> Faça a diferença.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Fique atento às questões que afetam sua vida online.
 # Obsolete string
-newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da Internet e descubra como você pode se envolver.
+newsletters-get-the-mozilla-newsletter = Receba o boletim informativo da { -brand-name-mozilla } e mantenha-se informado sobre problemas que afetam a saúde da internet e descubra como você pode se envolver.
 newsletters-your-email-preferences = Suas preferências de email foram atualizadas com sucesso.
 newsletters-consider-it-done = Considere feito
 newsletters-back-to-email-preferences = Voltar às preferências de email
@@ -136,15 +136,15 @@ newsletters-about-standards = Sobre padrões
 # Name for the newsletter in Newsletter subscription page
 newsletters-addon-development = Desenvolvimento de extensões
 # Name for the newsletter in Newsletter subscription page
-newsletters-developer-newsletter = Novidades para o desenvolvedor
+newsletters-developer-newsletter = Boletim informativo para desenvolvedores
 # Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Um guia para desenvolvedores que destaca as inovações na plataforma Web, boas práticas, nova documentação e mais.
+newsletters-a-developers-guide = Um guia para desenvolvedores que destaca inovações de plataforma web, boas práticas, nova documentação e mais.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Grupo de discussão do Drumbeat
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-desktop = { -brand-name-firefox } para Desktop
+newsletters-firefox-for-desktop = { -brand-name-firefox } para computador
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-newsletters-dont-miss-the-latest = Fique por dentro das últimas novidades sobre nosso navegador para desktops.
+newsletters-dont-miss-the-latest = Não perca as últimas novidades sobre nosso navegador para computador.
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-involved = Envolva-se
 # Name for the newsletter in Newsletter subscription page
@@ -156,7 +156,7 @@ newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } publ
 # Obsolete string
 newsletters-keep-up-with-our-annual = Acompanhe nossa coleção anual de pesquisas e histórias sobre problemas de privacidade e segurança, abertura, inclusão digital, descentralização e alfabetização na web.
 # Name for the newsletter in Newsletter subscription page
-newsletters-knowledge-is-power = Conhecimento é Poder
+newsletters-knowledge-is-power = Conhecimento é poder
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Obtenha todo o conhecimento que precisa para ficar mais seguro e esperto online.
 # Name for the newsletter in Newsletter subscription page
@@ -166,13 +166,13 @@ newsletters-desktop = Desktop
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
-newsletters-email-updates-from-vouched = Atualizações para Mozillians aprovados no mozillians.org.
+newsletters-email-updates-from-vouched = Novidades por email para Mozillians aprovados no mozillians.org.
 # Name for the newsletter in Newsletter subscription page
-newsletters-shapre-of-the-web = Forma da Web
+newsletters-shapre-of-the-web = Modelagem da web
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
-newsletters-news-and-information = Notícias e informações relacionadas com a saúde da web.
+newsletters-news-and-information = Notícias e informações relacionadas à saúde da web.
 # Name for the newsletter in Newsletter subscription page
-newsletters-student-reps = Reps estudantes
+newsletters-student-reps = Representantes estudantis
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Programa universitário de 2008 a 2011, agora relançado como Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
