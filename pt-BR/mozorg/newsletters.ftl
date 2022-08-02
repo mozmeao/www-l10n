@@ -6,7 +6,7 @@
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 # Page title the subscription preferences page
-newsletters-newsletter-subscriptions = Assinaturas de boletins informativos
+newsletters-newsletter-subscriptions = Inscrições em boletins informativos
 # Page titlefor https://www-dev.allizom.org/newsletter/
 newsletters-mozilla-newsletter = Boletim informativo da { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
@@ -18,7 +18,7 @@ newsletters-subscribe-to-updates-and-keep = Se inscreva para receber novidades e
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmação do boletim informativo
 newsletters-thanks-for-subscribing = Obrigado por se inscrever!
-newsletters-your-newsletter-subscription = A sua assinatura do boletim informativo foi confirmada.
+newsletters-your-newsletter-subscription = Sua inscrição no boletim informativo foi confirmada.
 newsletters-please-be-sure-to-add-our-v2 = Certifique-se de adicionar nosso endereço de envio mozilla@email.mozilla.org no seu catálogo de endereços para garantir que nossas mensagens sempre cheguem à sua caixa de entrada.
 # Obsolete string
 newsletters-please-be-sure-to-add-our = Adicione nosso endereço mozilla@e.mozilla.org em seus contatos para garantir que nossas mensagens sejam entregues corretamente.
@@ -216,15 +216,15 @@ newsletters-get-the-most-firefox-account = Aproveite ao máximo sua { -brand-nam
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)
-newsletters-periodic-email-updates = Atualizações periódicas sobre nossa competição anual de cinema.
+newsletters-periodic-email-updates = Novidades periódicas por email sobre nossa competição anual de cinema.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
-newsletters-be-the-first-to-know = Seja o primeiro a saber quando o { -brand-name-firefox } estiver disponível para aparelhos com { -brand-name-ios }.
+newsletters-be-the-first-to-know = Seja o primeiro a saber quando o { -brand-name-firefox } estiver disponível para dispositivos { -brand-name-ios }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-os-smartphone-owner = Possui um smartphone com { -brand-name-firefox-os }?
+newsletters-firefox-os-smartphone-owner = Você tem um smartphone com { -brand-name-firefox-os }?
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-newsletters-dont-miss-important-news = Saiba tudo sobre notícias e atualizações importantes para o seu aparelho com { -brand-name-firefox-os }.
+newsletters-dont-miss-important-news = Não perca notícias e novidades importantes sobre seu dispositivo { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os-and-you = { -brand-name-firefox-os } + você
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
@@ -234,7 +234,7 @@ newsletters-firefox-weekly-tips = Dicas semanais do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Weekly Tips)
 newsletters-get-a-weekly-tip = Receba dicas mensais sobre como turbinar seu { -brand-name-firefox }.
 # Name for the newsletter in Newsletter subscription page
-newsletters-join-mozilla = Junte-se a { -brand-name-mozilla }
+newsletters-join-mozilla = Junte-se à { -brand-name-mozilla }
 # Name for the newsletter in Newsletter subscription page
 newsletters-maker-party = Maker Party
 # Description for the newsletter in Newsletter subscription page (Maker Party)
@@ -242,13 +242,13 @@ newsletters-mozillas-largest-celebration = A maior celebração da { -brand-name
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-os = { -brand-name-firefox-os }
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
-newsletters-discover-the-latest = Conheça os melhores aplicativos em HTML5 no { -brand-name-firefox-os }.
+newsletters-discover-the-latest = Descubra os aplicativos HTML5 mais recentes e interessantes no { -brand-name-firefox-os }.
 # Description for the newsletter in Newsletter subscription page (Firefox OS)
 newsletters-firefox-os-news = Novidades, dicas, informações sobre lançamento e muito mais do { -brand-name-firefox-os }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
-newsletters-keep-up-with-releases = Saiba de todas as novidades do { -brand-name-firefox } para { -brand-name-android }.
+newsletters-keep-up-with-releases = Acompanhe lançamentos e notícias sobre o { -brand-name-firefox } para { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-news = Notícias do { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox News)
@@ -272,7 +272,7 @@ newsletters-special-accouncements-and-messages = Declarações especiais e mensa
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-learning-network = Rede de aprendizagem da { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Learning Network)
-newsletters-updates-from-our-global = Novidades de nossa comunidade global, ajudando as pessoas a aprenderem as mais importantes habilidades da nossa época: a habilidade de ler, escrever e participar do mundo digital.
+newsletters-updates-from-our-global = Novidades de nossa comunidade global, ajudando as pessoas a aprender as mais importantes habilidades da nossa época: capacidade de ler, escrever e participar no mundo digital.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-labs = { -brand-name-mozilla-labs }
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
