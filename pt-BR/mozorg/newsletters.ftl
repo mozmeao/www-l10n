@@ -77,26 +77,26 @@ newsletters-other = Outros…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Obrigado por nos contar o motivo de cancelar.
 newsletters-while-here-why-not-check = Enquanto está por aqui, que tal conferir outras maravilhas do { -brand-name-firefox }?
-newsletters-get-up-and-go = Esteja livre para ir
-newsletters-its-your-web-anywhere-you = Tenha a web, onde quer que vá.
+newsletters-get-up-and-go = Avante
+newsletters-its-your-web-anywhere-you = É sua web, onde quer que vá.
 newsletters-get-firefox-for-mobile = Instale o { -brand-name-firefox } para dispositivos móveis!
-newsletters-added-extras = Extensões
+newsletters-added-extras = Extensões adicionadas
 newsletters-make-firefox-do-more-with = Adicione recursos ao { -brand-name-firefox } com extensões.
-newsletters-find-out-how = Veja como!
+newsletters-find-out-how = Descubra como!
 newsletters-about-us = Sobre nós
 newsletters-whats-mozilla-all-about = Qual é o objetivo da { -brand-name-mozilla }?
 newsletters-were-glad-you-asked = Que bom que você perguntou!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
-newsletters-love-the-web-so-do-we = Ama a web? Nós também!
+newsletters-love-the-web-so-do-we = Adora a web? Nós também!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Aprofunde-se no mundo do desenvolvimento web com nosso Boletim Informativo semanal { -brand-name-mozilla } Developer. Cada edição traz técnicas de programação e melhores práticas, atualizações da { -brand-name-mdn }, informações sobre tecnologias emergentes, dicas de ferramentas para desenvolvedores e mais.
+newsletters-unlock-the-world-of-web = Aprofunde-se no mundo do desenvolvimento web com nosso boletim informativo semanal { -brand-name-mozilla } Developer. Cada edição traz técnicas de programação e melhores práticas, novidades do { -brand-name-mdn }, informações sobre tecnologias emergentes, dicas de ferramentas de desenvolvimento e mais.
 # Obsolete string
 newsletters-join-thousands-of-developers = Junte-se a milhares de desenvolvedores que, como você, estão aprendendo o melhor do desenvolvimento web.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-put-more-fox-in-your-inbox = Tenha a Fox na sua caixa de entrada.
+newsletters-put-more-fox-in-your-inbox = Tenha mais raposa na sua caixa de entrada.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Veja aonde a Web pode te levar com as dicas e truques do { -brand-name-firefox } e a Internet.
-newsletters-we-are-sorry-but-there = Desculpe-nos, mas houve um problema em nosso sistema. Por favor, tente novamente mais tarde!
+newsletters-see-where-the-web-can-take = Veja até onde a web pode te levar com dicas e truques semanais do { -brand-name-firefox } e informações da internet.
+newsletters-we-are-sorry-but-there = Desculpe, mas houve um problema em nosso sistema. Tente novamente mais tarde!
 newsletters-thanks-for-updating-your = Obrigado por atualizar suas preferências de email.
 newsletters-the-supplied-link-has-expired-long = O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um email com o link.
 newsletters-success-an-email-has-been-sent = Sucesso! Um email foi enviado a você com um link para seu centro de preferências. Obrigado!
