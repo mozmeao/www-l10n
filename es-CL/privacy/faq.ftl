@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -29,7 +29,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } no vende tu
 privacy-faq-wait-so-how-do-you-make-money = Esperen, ¿cómo es que hacen plata?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la Corporación { -brand-name-mozilla } provienen de las regalías que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a href="{ $link }">informe económico anual</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la { -brand-name-mozilla-corporation } provienen de las regalías que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a href="{ $link }">informe económico anual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, esas preguntas estaban fáciles. ¿Qué datos recolectan?
 # Variables:
@@ -47,7 +47,7 @@ privacy-faq-sort-of-in-addition-to-the-data = Algo así. Además de los datos ya
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = También podemos recopilar datos adicionales en la versión preliminar para uno de nuestros <a href="{ $link }">estudios</a>. Por ejemplo, algunos estudios necesitan lo que llamamos “datos de actividad web”, que pueden incluir direcciones URL y otra información sobre ciertos sitios web. Esto nos ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, por ejemplo, cómo integrar mejor sitios web populares en localizaciones específicas.
-privacy-faq-mozillas-pre-release-versions = Las versiones preliminares de { -brand-name-firefox } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar de lo que lo hacemos después del lanzamiento, para entender cómo operan estas funciones experimentales. Puedes evitar la recopilación de estos datos en las preferencias.
+privacy-faq-mozillas-pre-release-versions = Las versiones preliminares de { -brand-name-firefox } por { -brand-name-mozilla } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar de lo que lo hacemos después del lanzamiento, para entender cómo operan estas funciones experimentales. Puedes evitar la recopilación de estos datos en las preferencias.
 privacy-faq-but-why-do-you-collect-any-data = ¿Pero por qué recolectan datos?
 privacy-faq-if-we-dont-know-how-the-browser = Si no sabemos cómo está funcionando el navegador o qué funciones utilizan los usuarios, no podemos mejorarlo ni ofrecerte mejores productos. Hemos incorporado herramientas de recopilación de datos que nos permiten tomar decisiones inteligentes sobre nuestros productos, siempre respetando la privacidad de la gente.
 privacy-faq-data-collection-still-bugs-me = La recolección de datos igual me incomoda. ?Puedo desactivarla?
