@@ -1,10 +1,32 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-download-firefox = { -brand-name-firefox } බාගන්න
+navigation-menu = වට්ටෝරුව
+navigation-browsers = අතිරික්සු
+navigation-download = බාගන්න
+navigation-extensions = දිගු
+navigation-support = සහාය
+navigation-sign-up = ලියාපදිංචිය
+navigation-join = එක්වන්න
+navigation-sign-in = පිවිසෙන්න
+navigation-about = පිළිබඳව
+navigation-new-features = නව විශේෂාංග
+# Outdated string
+navigation-add-ons = එක්කහු
+navigation-projects = ව්‍යාපෘති
+navigation-developers = සංවර්ධකයින්
+navigation-resources = සම්පත්
+navigation-leadership = නායකත්වය
+navigation-mission = මෙහෙයුම
+navigation-contact = සබඳතා
+navigation-careers = රැකියා
+navigation-events = සිදුවීම්
+navigation-donate = පරිත්‍යාග
 navigation-release-notes = නිකුතු සටහන්
 navigation-features = විශේෂාංග
-navigation-products = නිපැයුම්
+navigation-products = නිෂ්පාදන
 navigation-mozilla = { -brand-name-mozilla }
 navigation-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-mozilla-corporation = { -brand-name-mozilla-corporation }
