@@ -20,6 +20,7 @@ firefox-desktop-download-download-options = බාගැනීමේ වික�
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = ඔබ මාර්ගගතව කරන දෑ කරන්න.<br> { -brand-name-firefox-browser } එය <strong>නරඹන්නේ නැත</strong>.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } අනෙකුත් අතිරික්සු සමඟ සංසන්දනය
 firefox-desktop-download-how-we-compare = වෙනත් අතිරික්සු සමඟ සසඳන ආකාරය
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -36,6 +37,9 @@ firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරස
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
 # This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
 firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදායීව
+# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
+# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම්, තේමා සහ දිගු සමඟින් ඔබට අවශ්‍ය ආකාරයට සකස් කර ගන්න. { -brand-name-firefox } යනු ලාභයට ඉහළින් මිනිසුන් තබන මුල් විකල්ප අතිරික්සුවයි.
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
@@ -60,6 +64,7 @@ firefox-desktop-download-protect-your-privacy = ඔබගේ පෞද්ගල�
 firefox-desktop-download-third-party-cookie = තෙවන පාර්ශ්ව දත්තකඩ අවහිරය
 firefox-desktop-download-fingerprinter-blocking = ඇඟිලි සටහන් අවහිරය
 firefox-desktop-download-private-browsing-mode = පෞද්. පිරික්සුම් ප්‍රකාරය
+firefox-desktop-download-secure-your-personal = පෞද්ගලික තොරතුරු රැකගන්න
 firefox-desktop-download-breached-website-alerts = උල්ලංඝනය වූ අඩවි ඇඟවීම්
 firefox-desktop-download-built-in-password = තිළෑලි මුරපද කළමනාකරු
 firefox-desktop-download-clear-history = ඉතිහාසය මකන්න
