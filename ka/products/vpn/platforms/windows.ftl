@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
@@ -18,8 +18,8 @@ vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } იცავს თქვე
 vpn-windows-about-headline = ინტერნეტში პირადულობის მოწინავე დამცველისგან
 vpn-windows-about-copy = არამომგებიანი დაწესებულება, რომლის ქმნილებაცაა { -brand-name-firefox-browser }, { -brand-name-mozilla } წარმოადგენს ინტერნეტმაცხოვრებელთა ერთობას, მთელი მსოფლიოდან, რომლებიც ზრუნავენ ინტერნეტის თავისუფლებისა და საყოველთაო ხელმისაწვდომობის შენარჩუნებისთვის. { -brand-name-mozilla } მოგებაზე წინ ხალხს აყენებს იმ პირობით, რომ თითოეული მისი პროდუქტისთვის უწინარესი ხართ თქვენ.
 vpn-windows-privacy-headline = დაცვა ღილაკზე ერთი დაჭერით
-vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } შიფრავს თქვენს ინტერნეტკავშირს და ფარავს თქვენს IP-მისამართს მეთვალყურეებისგან თქვენს სამაგიდო და პორტატულ კომპიუტერებზე, მაღალი დონის { -brand-name-wireguard }® ოქმის გამოყენებით.
-vpn-windows-servers-headline = სერვერებთან წვდომა, მთელ მსოფლიოში
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } შიფრავს თქვენს ინტერნეტკავშირს და ფარავს თქვენს IP-მისამართს მეთვალყურეებისგან თქვენს სამაგიდო და პორტატულ კომპიუტერებზე მაღალი დონის { -brand-name-wireguard }® ოქმის გამოყენებით.
+vpn-windows-servers-headline = სერვერებთან წვდომა მთელ მსოფლიოში
 # Variables:
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
