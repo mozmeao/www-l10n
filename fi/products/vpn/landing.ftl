@@ -44,8 +44,23 @@ vpn-landing-faq-uses-encrypt = Salaamalla sinun ja VPN-palveluntarjoajasi välis
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Tutustu <a href="{ $url }">viiteen tosielämän esimerkkiin</a>, joissa saatat haluta käyttää VPN-yhteyttä laitteellasi.
 vpn-landing-faq-info-question-heading = Mitä tietoja { -brand-name-mozilla-vpn } säilyttää?
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Emme kirjaa, seuraa tai jaa toimintaasi verkossa. Noudatamme tiukasti { -brand-name-mozilla }n <a href="{ $url }">tietosuojaperiaatteita</a> ja keräämme vain ne tiedot, jotka ovat tarpeen VPN:n toimivuuden takaamiseksi ja tuotteen parantamiseksi ajan myötä.
 vpn-landing-faq-protected-question-heading = Miten yksityisyyttäni suojataan?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokolla salaa verkkoliikenteesi ja suojaa kaikki yksityiset tietosi. Verrattuna muihin olemassa oleviin VPN-protokolliin, { -brand-name-wireguard }in kevyt koodi on tietoturva-ammattilaisille helpompi tarkistaa ja auditoida, tehden siitä turvallisen vaihtoehdon VPN-ratkaisuksi. Lisäksi toimintasi verkossa pysyy anonyyminä, koska emme koskaan kirjaa, seuraa tai jaa verkkotietojasi.
 vpn-landing-faq-competition-question-heading = Millainen { -brand-name-mozilla-vpn } on verrattuna kilpailijoihin?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Vaikka ilmaiset VPN:t vaikuttavat houkuttelevilta, ne eivät sitoudu samoin yksityisyyteen kuten { -brand-name-mozilla-vpn }. Muilla VPN-palveluilla ei ole { -brand-name-mozilla }n yli 20 vuoden <a href="{ $url }">historiaa</a> sellaisten tuotteiden rakentamisessa, joissa ihmiset ja yksityisyys ovat etusijalla.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Vaikka ilmaiset VPN-palvelut vaikuttavat houkuttelevilta, ne eivät sitoudu samoin yksityisyyteen kuten { -brand-name-mozilla-vpn }, ja ne saattavat myydä tai tallentaa tietojasi. Muilla maksullisilla VPN-palveluilla ei ole { -brand-name-mozilla }n yli 20 vuoden <a href="{ $url }">historiaa</a> sellaisten tuotteiden rakentamisessa, joissa ihmiset ja yksityisyys ovat etusijalla.
 vpn-landing-faq-compatibility-question-heading = Minkä laitteiden kanssa { -brand-name-mozilla-vpn } on yhteensopiva?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -98,6 +113,8 @@ vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vain 
 vpn-landing-faq-refund-question-heading = Mikä on { -brand-name-mozilla-vpn }:n hyvityskäytäntö?
 vpn-landing-faq-refund-question-desc-v2 = Jos perut tilisi 30 päivän kuluessa, kun tilaat { -brand-name-mozilla-vpn } -palvelun ensimmäistä kertaa { -brand-name-mozilla }n sivuston kautta, voit pyytää hyvitystä ja { -brand-name-mozilla } hyvittää ensimmäisen tilausjaksosi.
 vpn-landing-faq-refund-question-additional-desc = Jos maksat tilauksesi sovelluksen sisäisellä ostoksella { -brand-name-apple } { -brand-name-app-store }n tai { -brand-name-google-play } Storen kautta, maksuun sovelletaan { -brand-name-app-store }n käyttöehtoja. Sinun on ohjattava tällaisia ostoksia koskevat laskutus- ja hyvityskyselyt { -brand-name-apple }lle tai { -brand-name-google }lle.
+# Outdated string
+vpn-landing-faq-refund-question-desc = Voit saada rahasi takaisin 30 päivän kuluessa tilauksen ostamisesta. Ota meihin yhteyttä ja lähetä hyvityspyyntö napauttamalla "Tuki" -painiketta { -brand-name-mozilla-vpn } -sovelluksen asetuksissa.
 vpn-landing-faq-manage-subscription-question-heading = Kuinka hallitsen tilaustani?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -115,6 +132,8 @@ vpn-landing-invite-page-desc = Vastaanota ilmoitus, kun { -brand-name-mozilla-vp
 vpn-landing-invite-page-heading = Liity VPN-odotuslistalle
 vpn-landing-invite-email-label = Mikä on sähköpostiosoitteesi?
 vpn-landing-invite-required-label = Pakollinen
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = nimi@example.com
 vpn-landing-invite-country-label = Missä maassa asut?
 vpn-landing-invite-language-label = Valitse ensisijainen kieli.
 vpn-landing-invite-platform-label = Mistä alustoista olet kiinnostunut?
