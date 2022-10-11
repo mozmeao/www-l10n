@@ -7,6 +7,17 @@
 
 about-this-site-title = Аб гэтым сайце
 about-this-site-desc = Пра вэб-сайт www.mozilla.org і інструменты з адкрытым зыходным кодам, якія выкарыстоўваюцца для яго стварэння.
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = Вэб-сайт www.mozilla.org існуе ўжо больш за два дзесяцігоддзі. Дакладней, з <a href="{ $archive }">часоў дыназаўраў</a>  па мерках Інтэрнэту. Такім чынам, www.mozilla.org з'яўляецца нарожным каменем Інтэрнэту, карані якога глыбока ідуць у рух за адкрыты код, які стаў сведкам <a href="{ $coderush }">стварэння { -brand-name-mozilla }</a>.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Сёння гэта сайт, куды людзі прыходзяць, каб спампаваць <a href="{ $firefox }">{ -brand-name-firefox }</a>, паспрабаваць <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> і даведацца больш <a href="{ $mozilla }">пра { -brand-name-mozilla }</a>. Па дарозе вы таксама можаце знайсці некалькі <a href="{ $book }">Велікодных яек</a>.
 about-this-site-like-many = Як і шмат якія нашы прадукты, гэты вэб-сайт таксама мае адкрыты зыходны код:
 about-this-site-view-source = Праглядзець зыходны код на { -brand-name-github }
 about-this-site-report-a-bug = Паведаміць пра памылку
