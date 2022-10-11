@@ -64,6 +64,7 @@ vpn-shared-pricing-variable-heading-v2 = Selige un plan de abonamento que functi
 vpn-shared-pricing-variable-heading = Elige un plan que functiona pro te
 vpn-shared-pricing-variable-sub-heading = Tote nostre planos include:
 vpn-shared-pricing-recommended-offer = Recommendate
+vpn-shared-pricing-plan-12-month-v2 = Plano de 12 menses
 # Outdated string
 vpn-shared-pricing-plan-12-month = 12 menses
 vpn-shared-pricing-plan-monthly-v2 = Plan mensual
@@ -131,7 +132,20 @@ vpn-shared-affiliate-notification-ok = OK
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Augmenta tu confidentialitate con { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Adde { -brand-name-firefox-relay } a tu abonamentos pro proteger tu email e numero de telephono. <a href="{ $url }">Pro saper plus</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Adder <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Mascas email
+vpn-shared-relay-phone-masking = Mascar le numero de telephono
+vpn-shared-get-vpn-plus-relay = Discarga { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Perque impacchettate?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Sparnia le { $percent }%</span> in le plano annual de { -brand-name-relay-premium }
 
 ##
 
