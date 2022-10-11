@@ -25,3 +25,9 @@ about-this-site-mozilla-protocol = Сістэма праектавання <a hr
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Сістэма лакалізацыі { -brand-name-mozilla } <a href="{ $fluent }">Fluent</a> для моўнага перакладу.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Мноства іншых меншых бібліятэк і фрэймворкаў, якія вы можаце знайсці ў нашым <a href="{ $github }">{ -brand-name-github } рэпазіторыі</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Мы дзякуем усім  <a href="{ $credits }">памочнікам</a> { -brand-name-mozilla }, якія дапамаглі зрабіць Інтэрнэт лепш.
