@@ -9,7 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = فایرفاکس ویرایش توسعه‌دهندگان مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = به نسخه جدید مرورگر محبوب خود خوش‌‌ آمدید. آخرین ویژیگی‌ها،‌کارایی سریع و ابزارهای توسعه‌‌ای که برای ساختن وب آزاد  نیاز دارید را دریافت کنید.
 firefox-developer-speak-up = صحبت کنید
@@ -52,8 +52,8 @@ firefox-developer-style-editor = ویرایشگر سبک
 firefox-developer-edit-and-manage = همه صفحه‌های CSSتان را در مرورگر خود ویرایش و مدیریت کنید.
 firefox-developer-learn-more-about-style = در مورد ویرایشگر سبک بیشتر بدانید
 firefox-developer-new-tools = ابزارهای جدید
-firefox-developer-firefox-devtools = DevTools فایرفاکس
-firefox-developer-the-new-firefox-devtools = DevTools جدید فایرفاکس قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
+firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } جدید قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 firefox-developer-master-css-grid = استاد شبکه‌های CSS بشوید
 # outdated
 firefox-developer-next-gen-css-engine = نسل بعدی موتور CSS
