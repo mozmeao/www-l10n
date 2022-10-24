@@ -31,7 +31,7 @@ firefox-channel-check-out-new-android-features = جدیدترین امکانات
 firefox-channel-nightly-blog = وبلاگ { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = «نایتلی» یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، «نایتلی» اطلاعاتی به موزیلا ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-nightly }» اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 firefox-channel-try-new-browser-features = امکانات جدید مرورگر را در نگارش‌های قبل از انتشار امتحان کنید | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = تازه‌ترین امکانات مرورگر را در نگارش‌های قبل از انتشار تجربه کنید: { -brand-name-firefox-developer-edition }، { -brand-name-firefox-beta } و{ -brand-name-firefox-nightly }. هم‌اکنون دریافت کنید!
@@ -43,13 +43,13 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = بسازید، تست کنید، توسعه دهید و حتی بیشتر با تنها مرورگر ساخته شده برای توسعه‌دهندگان.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-developer-edition-is-an = «ویرایش توسعه‌دهندگان» یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، «ویرایش توسعه‌دهندگان» اطلاعاتی به موزیلا ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-developer-edition } اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = نیم نگاهی به نسل بعدی مرورگر ما بیاندازید، و به ما کمک کنید تا بهترین مرورگری که می‌توان را ساخت: { -brand-name-firefox-nightly }ghtly را امتحان کنید.
 firefox-channel-test-brand-new-features = امکانات جدید را به صورت روزانه (یا… شبانه) آزمایش کنید. لذت ببرید.
 firefox-channel-try-new-features-in-a-pre-release = امکانات جدید مرورگر { -brand-name-ios } را قبل از انتشار آن امتحان کنید | { -brand-name-firefox }
-firefox-channel-experience-cutting-edge-features-ios = تازه‌ترین امکانات مرورگر { -brand-name-ios } را در نگارش‌های قبل از انتشار آن از طریق برنامه { -brand-name-test-flight } اپل تجربه کنید. هم‌اکنون نصب کنید!
+firefox-channel-experience-cutting-edge-features-ios = تازه‌ترین امکانات مرورگر { -brand-name-ios } را در نگارش‌های قبل از انتشار آن از طریق برنامه { -brand-name-test-flight } { -brand-name-apple } تجربه کنید. هم‌اکنون نصب کنید!
 firefox-channel-test-beta-versions-of-firefox-ios-long = نسخه‌های بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } شرکت { -brand-name-apple } بررسی کنید و کمک کنید تا مرورگر ما برای { -brand-name-iphone }، { -brand-name-ipad } و iPod از این هم بهتر بشود.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = نسخه بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } { -brand-name-apple } آزمایش کنید.
