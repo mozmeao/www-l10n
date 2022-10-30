@@ -133,6 +133,19 @@ vpn-shared-affiliate-notification-ok = OK
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Zvyšte úroveň svého soukromí pomocí { -brand-name-vpn(case: "gen") } + { -brand-name-relay(case: "gen") }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Přidejte do svého předplatného { -brand-name-firefox-relay(case: "acc") }, abyste ochránili svou e-mailovou schránku a své telefonní číslo. <a href="{ $url }">Další informace</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Přidat <span class="{ $class_name }">{ -brand-name-firefox-relay(case: "acc") }</span>
+vpn-shared-relay-email-masking = Zamaskování e-mailové adresy
+vpn-shared-relay-phone-masking = Zamaskování telefonního čísla
+vpn-shared-get-vpn-plus-relay = Získejte { -brand-name-vpn(case: "acc") } + { -brand-name-relay(case: "acc") }
+vpn-shared-why-bundle = Proč jako balík?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Ušetříte { $percent } %</span> na ročním plánu pro službu { -brand-name-relay-premium }
 
 ##
 
