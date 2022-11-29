@@ -39,10 +39,12 @@ firefox-privacy-hub-learn-more-about-our-mission = Даведайцеся бол
 firefox-privacy-hub-your-privacy-by-the-product = Ваша прыватнасць, дзякуючы прадукту
 firefox-privacy-hub-firefox-products-work-differently = Прадукты { -brand-name-firefox } працуюць па-іншаму — таму што яны створаны для аховы вашай прыватнасці ў першую чаргу.
 firefox-privacy-hub-learn-about-our-products = Даведайцеся аб нашых прадуктах
+firefox-privacy-hub-firefox-privacy-by-the = Прыватнасць прадуктаў { -brand-name-firefox }
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ахоўвае вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ахоўвае</strong> вашу прыватнасць у кожным прадукце.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Больш за 2000 трэкераў заблакіравана — аўтаматычна
+firefox-privacy-hub-if-you-want-to-see-what = Калі хочаце даведацца, што { -brand-name-firefox } блакуе, наведайце гэтую старонку ў сваім браўзеры { -brand-name-firefox } для камп'ютара.
 firefox-privacy-hub-see-what-firefox-has-blocked = Паглядзіце, што { -brand-name-firefox } заблакіраваў для вас
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-privacy-hub-get-enhanced-tracking-protection = Атрымайце ўзмоцненую ахову ад сачэння
