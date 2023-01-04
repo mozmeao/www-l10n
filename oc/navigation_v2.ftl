@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-sub-navigation-desktop-nightly = { -brand-name-nightly } per l’ordenador
-sub-navigation-support = Assisténcia
-sub-navigation-developer-edition = { -brand-name-developer-edition }
+
+## Firefox menu
+
+
+## Products menu
+
+
+## Who We Are menu
+
+navigation-v2-careers = Emplecs
+
+## Innovation menu
+
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }

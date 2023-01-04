@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-sub-navigation-desktop-nightly = { -brand-name-nightly } per l’ordenador
-sub-navigation-support = Assisténcia
-sub-navigation-developer-edition = { -brand-name-developer-edition }
+
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+
+browser-history-resources = Ressorsas
