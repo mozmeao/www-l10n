@@ -30,3 +30,18 @@ browser-history-the-browser-wars = Ратови прегледача
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = До 1995. { -brand-name-netscape } Navigator није био једини начин да се повежете на мрежу. { -brand-name-microsoft }, гигант компјутерског софтвера, лиценцирао је стари Мозаик код и направио сопствени прозор ка интернету, <a href="{ $ie }">{ -brand-name-ie }</a>. Ово издање је започело рат. { -brand-name-netscape } и { -brand-name-microsoft } су грозничаво радили на стварању нових верзија својих програма, покушавајући да надмаше оног другог бржим и бољим производима.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+browser-history-netscape-created = { -brand-name-netscape } је направио и објавио JavaScript, дајући сајтовима моћне рачунарске могућности које раније нису имали. (Такође су направили злогласни <a href="{ $blink }">&lt;blink&gt; таг.) { -brand-name-microsoft } је одговорио са Cascading Style Sheets (CSS), који је постао стандард у дизајнирању сајтова.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Ствари су мало измакле контроли 1997. године када је { -brand-name-microsoft } објавио { -brand-name-ie } 4.0. Тим је направио огромно слово “е” и кришом га поставио на травњак пред { -brand-name-netscape } седиште. { -brand-name-netscape } тим је срушио огромно “е” и <a href="{ $dino }">ставио своју { -brand-name-mozilla } маскоту диносауруса на њега</a>.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Затим је { -brand-name-microsoft } почео да испоручује { -brand-name-ie } са својим { -brand-name-windows } оперативним системом. У року од 4 године имао је 75% тржишта, а до 1999. имао је 99%. Компанија се суочила са антимонополским споровима у вези са овим потезом, а { -brand-name-netscape } је одлучио да отвори своју базу кодова и створио непрофитну <a href="{ $mozilla }">{ -brand-name-mozilla }-у</a>, која је направила и објавила { -brand-name-firefox } 2002. године. Схватили су да монопол над прегледачима није у најбољем интересу како корисника тако и самог отвореног веба, па је направљен { -brand-name-firefox } да пружи слободу избора. До 2010., { -brand-name-mozilla } { -brand-name-firefox } и други прегледчи су <a href="{ $marketshare }">смањили тржишни удео { -brand-name-ie }-а на 50%</a>.
+browser-history-other-competitors = Други конкуренти су се појавили крајем 1990-их и почетком 2000-их, као нпр.: { -brand-name-opera }, { -brand-name-safari } и { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } заменио је { -brand-name-ie } са { -brand-name-windows } 10 издањем 2015. године.
+browser-history-browsing-the-web = Прегледање веба данас
+browser-history-whatever-the-future = Шта год да носи будућност веба, { -brand-name-mozilla } и { -brand-name-firefox } ће бити ту за кориснике и обезбеђиваће моћне алате за истраживање интернета и свега што он може да понуди. Интернет је за свију и свако треба да има контролу над својим искуством на мрежи. Зато пружамо { -brand-name-firefox } алатке за заштиту приватности корисника и никада не продајемо корисничке податке оглашивачима.
+browser-history-resources = Ресурси
+browser-history-take-control-of = Преузмите контролу над вашим прегледачем.
