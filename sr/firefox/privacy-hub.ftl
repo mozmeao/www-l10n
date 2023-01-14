@@ -20,3 +20,7 @@ firefox-privacy-our-products = Наши производи
 firefox-privacy-hub-you-should-be-able-to-decide = На вама је да одлучите ко може да види ваше личне податке. Не само са вашим пријатељима, већ са свим оглашивачима и компанијама које послују на интернету — укључујући и нас.
 firefox-privacy-hub-thats-why-everything-we-make = Зато све што радимо подлеже нашем обаћању о личним подацима
 firefox-privacy-hub-take-less = Узми мање
+firefox-privacy-hub-we-make-a-point-of-knowing = Полазна тачка нам је жеља да знамо што мање о вама
+firefox-privacy-hub-all-tech-companies-collect = Све технолошке компаније прикупљају податке како би побољшале своје производе, али не морају да укључују толико личних података. Прикупљамо само оне податке који на крају служе вама. Често се питамо да ли су нам ови подаци заиста потребни? Због чега нам требају? Када их можемо избрисати?
+firefox-privacy-hub-keep-it-safe = Чувај на безбедном
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Вредно радимо да заштитимо ваше личне податке
