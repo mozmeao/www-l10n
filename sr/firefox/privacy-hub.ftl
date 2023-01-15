@@ -61,3 +61,14 @@ firefox-privacy-hub-meet-four-of-the-most-common = Упознајте четир
 firefox-privacy-hub-always-in-your-control = Увек под вашом контролом
 firefox-privacy-hub-want-to-customize-what = Желите да прилагодите шта се блокира? Ваша подешавања су један клик далеко.
 firefox-privacy-hub-protection-beyond-tracking = Заштита изван праћења
+firefox-privacy-hub-if-you-have-a-firefox-account = Ако имате { -brand-name-firefox-account }, можете да видите како вам помажемо да заштитите ваше личне податке и лозинке.
+# Variables:
+#   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
+firefox-privacy-hub-more-than-s-trackers-blocked = Дневно блокирамо више од { $trackers } елемената за праћење за { -brand-name-firefox } кориснике широм света
+firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email = Када унесете вашу адресу е-поште у { -brand-name-firefox-monitor }, ми је одмах заборављамо након што проверимо да ли постоји подударање у познатим цурењима података — осим ако нам не дозволите да наставимо да пратимо нова цурења ваших личних података.
+firefox-privacy-hub-check-for-breaches = Проверите цурења података
+firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
+firefox-privacy-hub-the-passwords-and-credentials = Лозинке налога ускладиштене у { -brand-name-firefox-lockwise } су шифроване на сваком од ваших уређаја, тако да чак ни ми не можемо да их провалимо.
+firefox-privacy-hub-learn-more-about-lockwise = Сазнајте више о { -brand-name-lockwise }-у
+firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
