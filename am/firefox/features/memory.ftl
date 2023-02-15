@@ -1,16 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
 
 # HTML page title
-features-memory-firefox-browser-use-less = ፋየርፎክስ ድረ-ገፅ ማሰሻ: አነስተኛ የማህደረ ትውስታ ቦታ፣ ከፍተኛ ፍጥነት
+features-memory-firefox-browser-use-less = { -brand-name-firefox-browser }:- ትንሽ ማህደረ ትውስታን በመጠቀም፣ የበለጠ ፍጥነት ያግኙ
 # HTML page description
 features-memory-is-your-computer-slow-your = ኮምፒውተርዎ ቀርፋፋ ነው? የሚጠቀሙበት የድረ-ገፅ ማሰሻ ምናልባት ብዙ የማህደረ ትውስታ ቦታን ይይዝ ይሆናል። ለከፍተኛ ፍጥነት ዛሬውኑ ወደ ፋየርፎክስ ይለውጡት።
-features-memory-less-memory-usage-than-chrome = ከክሮም አነስተኛ ማህደረ ትውስታን የሚጠቀም
-features-memory-if-your-web-browser-uses = የድረ-ገፅ ማሰሻዎት ብዙ ማህደረ ትውስታ ቦታን የሚጠቀም ከሆነ ወደ ፋየርፎክስ ይቀይሩት።
+features-memory-less-memory-usage-than-chrome = ከ{ -brand-name-chrome } ያነሰ የማህደረ ትውስታ አጠቃቀም
+features-memory-if-your-web-browser-uses = የድር አሳሽዎ ብዙ ማህደረ ትውስታን የሚጠቀም ከሆነ ወደ { -brand-name-firefox } ይቀይሩ።
 features-memory-speed-up-your-computer = የኮምፒውተርዎን ፍጥነት ይጨምሩ
 features-memory-every-computer-program-you = ሁሉም የኮምፒውተር ፕሮግራሞች በሚሠሩበት ጊዜ የተወሰነ ማህደረ ትውስታ ቦታን ይጠቀማሉ። በጣም ብዙ ሲጠቀሙ ደግሞ የበለጠ ቀርፋፋ ይሆናል። ፋየርፎክስ ግን ሁለቱንም ያመጣጥናል - ኢንተርኔት ያለችግር እንዲጠቀሙ በቂ ቦታን ይይዛል፤ ኮምፒውተሩ በደንብ እንዲሠራ ደግሞ በርካታ የማህደረ ትውስታ ቦታን ይተዋል።
 features-memory-stop-running-out-of-memory = የማህደረ ትውስታ ቦታን በሙሉ አይጨርሱ
