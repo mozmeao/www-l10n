@@ -41,6 +41,8 @@ firefox-desktop-download-os-availability = የስርዓተ ክወና መኖር
 firefox-desktop-download-in-browser-screenshot = የአሳሽ-ውስጥ ቅጽበታዊ ገጽ እይታ መሣሪያ
 firefox-desktop-download-primary-password = ዋና የይለፍ ቃል
 # Obsolete string
+firefox-desktop-love-your-life = የመስመር ላይ ሕይወትዎን ይውደዱ
+# Obsolete string
 firefox-desktop-its-your-internet = የእርስዎ በይነመረብ ነው። በሺዎች በሚቆጠሩ መሳሪያዎች፣ ገጽታዎች እና ቅጥያዎች በፈለጉት መንገድ ያሳምሩት። { -brand-name-firefox } ሰዎችን ከትርፍ በፊት የሚያስቀድም የመጀመሪያው አማራጭ አሳሽ ነው።
 # Obsolete string
 firefox-desktop-download-master-password = ዋና የይለፍ ቃል
@@ -64,6 +66,7 @@ firefox-desktop-download-works-with-google = ከ{ -brand-name-google } ምርቶ
 firefox-desktop-download-built-in-screenshot = አብሮ የተሰራ ቅጽበታዊ ገጽ እይታ መሣሪያ
 firefox-desktop-download-bookmarks-manager = የዕልባቶች አስተዳዳሪ
 firefox-desktop-download-autosuggest-urls = URLsን በራስ ጠቁም
+firefox-desktop-download-sync-across-devices = በመሳሪያዎች ላይ አሰናስል
 firefox-desktop-download-reader-mode = የአንባቢ ሁነታ
 firefox-desktop-download-spell-check = የፊደል አጻጻፍ
 firefox-desktop-download-pinned-tabs = የተሰኩ ትሮች
@@ -73,6 +76,35 @@ firefox-desktop-download-block-autoplay-of = ተንቀሳቃሽ ምስል እና
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = ሥዕል-በሥዕል
 firefox-desktop-download-curated-content-on = በአዲስ ትር ላይ የተመረጠ ይዘት
+firefox-desktop-download-share-links = አገናኞችን አጋራ
+firefox-desktop-download-protect-your-privacy = ግላዊነቶን ይከልሉ
+firefox-desktop-download-third-party-cookie = የሶስተኛ ወገን ኩኪ ማገድ
+firefox-desktop-download-fingerprinter-blocking = አሳሽ አሻራ ተከታታይ ማገድ
+firefox-desktop-download-cryptominer-blocking = ምናባዊ ገንዘብ ቆፋሪን ማገድ
+firefox-desktop-download-private-browsing-mode = የግል አሰሳ ሁነታ
+firefox-desktop-download-individual-protections-report = የግለሰብ ጥበቃ ሪፖርት
+firefox-desktop-download-secure-your-personal = የግል መረጃዎን ያስጠብቁ
+firefox-desktop-download-breached-website-alerts = የተደፈሩ የድር ጣቢያ ማንቂያዎች
+firefox-desktop-download-built-in-password = አብሮ የተሰራ የይለፍ ቃል አስተዳዳሪ
+firefox-desktop-download-clear-history = ታሪክ አጽዳ
+firefox-desktop-download-form-autofill = ቅጽ ራስ-ሙላ
+firefox-desktop-download-automatic-updates = ራስ-ሰር ዝማኔዎች
+firefox-desktop-download-customize-your-browser = አሳሽዎን ያበጁ
+firefox-desktop-download-themes = ገጽታዎች
+firefox-desktop-download-dark-mode = ጨለማ ሁነታ
+firefox-desktop-download-library-of-extensions = የቅጥያዎች ቤተ-መተግበሪያ
+firefox-desktop-download-adjust-search-bar = የፍለጋ አሞሌ ቅንብሮችን ያስተካክሉ
+firefox-desktop-download-change-new-tab = አዲስ የትር አቀማመጥ ቀይር
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong>ን የራስዎ ያድርጉት
+firefox-desktop-download-extensions-for-every = ቅጥያዎች ለእያንዳንዱ ፍላጎት
+firefox-desktop-download-change-up-your = መልክዎን ይቀይሩ
+firefox-desktop-download-go-from-light = እንደ ስሜትህ ወይም ምርጫህ ከብርሃን ሁነታ ወደ ጨለማ ሁነታ ሂድ፣ ወይም ነገሮችን በብጁ ጭብጥ (ቀስተ ደመና ዩኒኮርን፣ ምናልባት) አሳምር።
+firefox-desktop-download-tweak-your-settings = ቅንብሮችዎን ያስተካክሉ
+firefox-desktop-download-theres-no-need = መፍታት አያስፈልግም። በይነመረብን በሚፈልጉት መንገድ ለማሰስ አዲሱን የትር ገጽ፣ የፍለጋ አሞሌ፣ ዕልባቶች እና ሌሎችንም ይለውጡ።
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = ሰዎችን በማስቀደም በ<strong>ትርፍ ያልሆነ</strong> የተደገፈ
+firefox-desktop-download-challenging-the-status = ከ 1998 ጀምሮ ያለውን ታዋቂ ሁኔታ በመታገል ላይ
+firefox-desktop-download-your-privacy-comes = የእርስዎ ግላዊነት ይቀድማል
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
