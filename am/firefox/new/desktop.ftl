@@ -121,6 +121,13 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
 firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።
 firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefox } ዴስክቶፕ አሳሽ ይወቁ
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
+firefox-desktop-download-get-more-from-firefox = ከ{ -brand-name-firefox } ተጨማሪ ያግኙ
+firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያውርዱ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
