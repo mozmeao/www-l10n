@@ -126,14 +126,21 @@ firefox-desktop-download-learn-about-the = ከታች ስለ { -brand-name-firefo
 firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
+firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
 firefox-desktop-download-get-more-from-firefox = ከ{ -brand-name-firefox } ተጨማሪ ያግኙ
 firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያውርዱ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = ሊያልቅ ነው!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = አሁን { -brand-name-firefox }ን <strong>መጫን</strong> ጨርስ።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = አሁን የወረደውን ጫኝ <strong>አስጀምር</strong>።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = አሁን የወረደውን ፋይል <strong>ክፈት</strong>።
+firefox-desktop-download-in-another-language = በሌላ ቋንቋ ወይም ለሌላ ስርዓተ ክወና አውርድ።
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
