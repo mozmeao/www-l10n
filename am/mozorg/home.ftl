@@ -20,5 +20,7 @@ home-using-the-web-as-the-platform = ድሩን እንደ መድረክ በመጠ�
 home-virtual-reality-platform = ምናባዊ እውነታ መድረክ
 home-common-voice = { -brand-name-common-voice }
 home-extensions = ቅጥያዎች
+home-personalize-firefox-with-your = { -brand-name-firefox }ን እንደ የይለፍ ቃል አስተዳዳሪዎች፣ ማስታወቂያ አጋጆች እና ሌሎች ተወዳጅ ተጨማሪዎች ያብጁ።
 home-careers = ሙያዎች
 home-need-help = እገዛ ይፈልጋሉ?
+home-get-answers-to-your-questions = ስለ { -brand-name-firefox } እና ሁሉም { -brand-name-mozilla } ምርቶች ጥያቄዎችዎ መልስ ከድጋፍ ቡድናችን ያግኙ።
