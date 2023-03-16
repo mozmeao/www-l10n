@@ -10,7 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = ดาวน์โหลด { -brand-name-firefox-browser } — เร็ว เป็นส่วนตัว และฟรี — จาก { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = ดาวน์โหลด { -brand-name-firefox } สำหรับเดสก์ท็อป — จาก { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = รับ { -brand-name-firefox } เว็บเบราว์เซอร์ฟรีที่พัฒนาโดย { -brand-name-mozilla } มูลนิธิไม่แสวงหาผลกำไรที่อุทิศตนในเรื่องสุขภาพอินเทอร์เน็ตและความเป็นส่วนตัว พร้อมให้ใช้แล้วบน { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } และ { -brand-name-ios }
+firefox-desktop-download-meta-desc-v2 = รับ { -brand-name-firefox } สำหรับ { -brand-name-windows }, { -brand-name-mac-short } หรือ { -brand-name-linux } { -brand-name-firefox } เป็นเว็บเบราว์เซอร์ฟรีที่สนับสนุนโดย { -brand-name-mozilla } องค์กรไม่แสวงหากำไรที่อุทิศตนเพื่ออินเทอร์เน็ตและความเป็นส่วนตัวอันแข็งแกร่ง
 firefox-desktop-download-og-title = ดาวน์โหลด { -brand-name-firefox } ที่เร็วที่สุดกว่าที่เคย
 firefox-desktop-download-og-desc = โหลดหน้าได้เร็วขึ้น ใช้หน่วยความจำน้อยลง และยังเต็มไปด้วยคุณลักษณะต่าง ๆ { -brand-name-firefox } ใหม่อยู่ที่นี่แล้ว
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -38,10 +40,9 @@ firefox-desktop-download-blocks-social-trackers = ปิดกั้นตัว
 firefox-desktop-download-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการ
 firefox-desktop-download-in-browser-screenshot = เครื่องมือจับภาพหน้าจอในเบราว์เซอร์
 firefox-desktop-download-primary-password = รหัสผ่านหลัก
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = รักชีวิตออนไลน์ของคุณ
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = นี้คืออินเทอร์เน็ตของคุณ ลงสีมันตามที่ต้องการด้วยเครื่องมือ ชุดตกแต่งและส่วนขยายนับพัน { -brand-name-firefox } เป็นเบราว์เซอร์ทางเลือกตัวดั้งเดิมที่ให้ความสำคัญผู้คนมาก่อนผลกำไร
 # Obsolete string
 firefox-desktop-download-master-password = รหัสผ่านหลัก
@@ -115,7 +116,7 @@ firefox-desktop-download-download-this-browser = <a { $attrs } >ดาวน์�
 firefox-desktop-download-sync-your-devices = ซิงค์อุปกรณ์ของคุณ
 firefox-desktop-download-screenshots = ภาพหน้าจอ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
-firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามที่มากขึ้น (ETP)
+firefox-desktop-download-enhanced-tracking-protection = การป้องกันการติดตามแบบพิเศษ (ETP)
 firefox-desktop-download-from-watching-a = ไม่ว่าจะดูบทช่วยสอนเว็บ หรือติดตามทีมโปรดของคุณ วิดีโอของคุณจะตามคุณไปขณะที่คุณทำงานหลายงานพร้อมกัน
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = รับ{ -brand-name-firefox-browser } สำหรับ <strong>{ -brand-name-android }</strong>
