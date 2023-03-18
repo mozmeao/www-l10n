@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密
 firefox-accounts-enter-your-email-address = 请输入您的电子邮箱地址，开始改变。
 firefox-accounts-already-have-an-account = 已经注册过了吗？
 firefox-accounts-sign-in = 登录
+firefox-accounts-already = 太好了！您已拥有 { -brand-name-firefox-account }。
 firefox-accounts-manage = 管理账户
 # This is followed by a list of things you can do with your Firefox account
 firefox-accounts-sign-in-to = 将 { -brand-name-firefox-account }用于
@@ -20,6 +21,9 @@ firefox-accounts-meet-our-family-of = 认识我们一系列尊重隐私的产品
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = 将标签页<a href="{ $send }">发送到其他设备</a>
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">保存和同步密码</a>
 firefox-accounts-get-email-alerts = 在您的信息出现在已知外泄事件中时获得邮件警报
 # Obsolete string
 firefox-accounts-see-if-youve-been = 看看您是否受数据外泄事件的影响。
