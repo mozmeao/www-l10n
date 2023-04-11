@@ -33,8 +33,19 @@ vpn-or-proxy-vpns-do-more = VPN:t tekevät enemmän kuin välityspalvelimet, sil
 vpn-or-proxy-a-vpn-works = VPN toimii luomalla suojatun "tunnelin" laitteesi ja Internetin välille. Se suojaa yksityisyyttäsi kahdella keskeisellä tavalla:
 vpn-or-proxy-concealing-your-ip = Häivyttämällä todellisen IP-osoitteesi. Tämä suojaa henkilöyttäsi ja peittää sijaintisi.
 vpn-or-proxy-encrypting-your-traffic = Salaamalla sinun ja VPN-palveluntarjoajasi välisen liikenteen, jotta kukaan paikallisessa verkossasi ei voi tulkita tai muokata liikennettä.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN tarjoaa suojan myös avoimissa ja julkisissa WiFi-yhteyksissä. Avoin WiFi voi olla riskialtis, ja on mahdotonta olla varma, että joku muu ei muodosta yhteyttä samaan verkkoon nuuskiakseen mitä teet. Vaikka liikenne on salattua, on silti mahdollista nähdä, millä sivustoilla vierailet. Ja jos käytät sovellusta, jossa ei ole salausta – ja monissa sovelluksissa ei vielä nykyäänkään ole – on mahdollista nähdä, mitä teet kyseisessä sovelluksessa. { -brand-name-mozilla-vpn } on nopea, turvallinen ja luotettava palvelu, joka voi auttaa tietoturvapuutteiden täyttämisessä. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> antaa sinun myös valita “sijaintisi” (josta liikenne näyttää tulevan) yli { $countries } eri maasta.
 vpn-or-proxy-choose-a-trustworthy = Valitse luotettava palvelu
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-or-proxy-the-most-important = Tärkein huomioitava asia VPN:ää tai välityspalvelinta valittaessa on luotettavan yrityksen valinta. Varmista, että ymmärrät ehdot, jotka hyväksyt. Monet väittävät olevansa mahtavia ja keskittyvänsä yksityisyyteen, mutta monet eivät täytä lupauksiaan. Kaikki välityspalvelin- ja VPN-palvelut eivät ole turvallisia ja yksityisiä. Jotkin palvelut <a href="{ $cnet }">muodostavat</a> <a href="{ $pcmag }">lokia</a> toimistasi verkossa, jotta tietojasi voidaan myydä markkinointiyrityksille. Jotkin palvelut yrittävät jopa saada sinut asentamaan haittaohjelmia laitteillesi.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Olemme tehneet työtä varmistaaksemme, että <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ja <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> -välityspalvelinlaajennus todella kunnioittavat yksityisyyttäsi, ja olemme valmiita asettamaan maineemme sen varaan. { -brand-name-mozilla } on tunnettu tuotteista, jotka auttavat pitämään tietosi turvassa. Noudatamme selkokielisiä ja ymmärrettäviä <a href="{ $principles }">tietojen suojausperiaatteita</a>, joiden avulla voimme keskittyä vain tietoihin, joita tarvitsemme palvelun tuottamiseen. Ja koska tämän VPN:n tekijöitä tukee <a href="{ $mission }">tehtävälähtöinen</a> yritys, voit luottaa siihen, että tähän tuotteeseen käyttämäsi rahat eivät takaa sinulle vain ensiluokkaista tietoturvaa, vaan tekevät Internetistä myös paremman kaikille.
