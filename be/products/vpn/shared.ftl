@@ -15,8 +15,21 @@ vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
 vpn-shared-features-encrypt = Шыфраванне на ўзроўні прылады
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Больш за { $servers } сервераў у больш чым { $countries } краінах
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Магчымасць падлучэння да { $devices } прылад
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Абарона да { $devices } прылад
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Даступна ў { $countries } краінах. Хутка з'явяцца іншыя рэгіёны
 # Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
@@ -29,8 +42,10 @@ vpn-shared-features-strong-servers = Моцныя серверы ў { $countries
 vpn-shared-features-connect = Падключыце да { $devices } прылад
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-дзённая гарантыя вяртання грошай
+vpn-shared-refund-policy = Палітыка вяртання сродкаў
 vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 vpn-shared-terms-conditions = Умовы выкарыстання
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } — зарэгістраваны таварны знак Джэйсана А. Доненфельда
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
