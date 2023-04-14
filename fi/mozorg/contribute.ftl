@@ -18,12 +18,14 @@ contribute-how-heading = Miten voit osallistua…
 contribute-tag-non-technical = Ei-tekninen
 contribute-tag-technical = Tekninen
 contribute-tag-technical-non-technical = Tekninen ja ei-tekninen
+contribute-tag-individual-event = Yksilöllinen ja tapahtumaorganisaatio
 contribute-tag-individual = Yksilöllinen
 contribute-tag-support = Tuki
 contribute-task-translate-heading = Käännä sisältöä
 contribute-task-translate-desc = Internet on maailmanlaajuinen vain, jos se ymmärretään kaikkialla. Auta meitä kääntämään { -brand-name-mozilla }-tuotteita ja -sivustoja paikalliselle kielellesi.
 contribute-task-mozilla-codebase-heading = Osallistu { -brand-name-mozilla }-koodin tekemiseen
 contribute-task-mozilla-codebase-desc = Paranna { -brand-name-mozilla }-tuotteita osallistumalla erilaisiin kehitysmahdollisuuksiin.
+contribute-task-support-desc = Auta tekemään { -brand-name-mozilla }-tuotteista helppokäyttöisiä. Vastaa ihmisten tukikysymyksiin osana { -brand-name-mozilla }-tukiyhteisön keskustelupalstoja.
 contribute-task-join-heading = Liity yhteisöön
 contribute-task-join-desc = Haluatko osallistua tiiviimmin { -brand-name-mozilla }-yhteisöön? Katso kaikki vapaaehtoistyön mahdollisuudet yhteisöportaalissamme.
 
@@ -44,6 +46,7 @@ contribute-opportunities = Uutisia ja vapaaehtoistyömahdollisuuksia
 
 contribute-made-by-heading = Kaltaisesi intohimoisten ihmisten luoma
 contribute-made-by-desc = Kun osallistut { -brand-name-mozilla }n toimintaan, sinusta tulee osa maailmanlaajuista ihmisten yhteisöä, jotka uskovat, että meillä kaikilla on oma roolimme sen varmistamisessa, että internet pysyy hyvän voimana.
+contribute-made-by-desc-cont = Uskomme, että yhteisöllinen yhteistyö on elintärkeää, jotta on mahdollista luoda Internet, joka on monipuolinen, innovatiivinen ja vastuullinen sitä eniten tarvitseville ihmisille. On taustasi sitten tekniikasta, yhteisön organisoinnista tai vain tietokoneesta ja vapaa-ajasta, voit auttaa meitä tekemään Internetistä paremman paikan.
 
 ## Newsletter
 
