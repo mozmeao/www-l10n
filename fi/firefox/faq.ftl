@@ -42,6 +42,7 @@ is-firefox-safe-download = Onko { -brand-name-firefox }in lataaminen turvallista
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Yksityisyytesi suojaaminen on tärkein prioriteettimme, ja vakuutamme, että { -brand-name-firefox }in asentaminen laitteillesi on täysin turvallista — lataa aina luotetulta { -brand-name-mozilla }/{ -brand-name-firefox }-sivustolta, kuten <a href="{ $url }">lataussivultamme.</a>
 is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 
 # Variables:
@@ -71,6 +72,7 @@ does-firefox-have = Onko { -brand-name-firefox }issa sisäänrakennettu VPN?
 # $url (url) - link to https://fpn.firefox.com/
 # $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
+firefox-does-not = { -brand-name-firefox }issa ei ole sisäänrakennettua virtuaalista erillisverkkoa (VPN), mutta { -brand-name-mozilla }/{ -brand-name-firefox } tarjoaa kaksi erillistä tuotetta, jotka toimivat { -brand-name-firefox-browser }ta käyttäessä suojaten joko selaintasi (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) tai laitteesi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) yhteyttä sekä piilottaen IP-osoitteesi.
 related-questions-ip = Aiheeseen liittyviä kysymyksiä: piilottaako { -brand-name-firefox } IP-osoitteesi
 who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 
