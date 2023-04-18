@@ -12,6 +12,7 @@ firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mel
 firefox-accounts-enter-your-email-address = Skriv inn e-postadressa di for å kome i gang.
 firefox-accounts-already-have-an-account = Har du allereie ein konto?
 firefox-accounts-sign-in = Logg inn
+firefox-accounts-already = Du har allereie ein { -brand-name-firefox-account }. Gratulerer!
 firefox-accounts-manage = Handsam kontoen din
 # Obsolete string
 firefox-accounts-meet-our-family-of = Møt familien vår av personvernprodukt.
@@ -20,7 +21,7 @@ firefox-accounts-see-if-youve-been = Sjå om du har vore involvert i ein datalek
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.
 firefox-accounts-travel-the-internet = Surf på nettet med vern, på alle einingar.
-firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å føle deg fanga av eitt enkelt oerativsystem.
+firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne deg fanga av eitt enkelt operativsystem.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
