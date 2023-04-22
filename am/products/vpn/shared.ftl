@@ -101,12 +101,46 @@ vpn-shared-platform-cta-headline = እንጀምር
 vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
 vpn-shared-platform-privacy-promise = የእርስዎ ግላዊነት የእኛ ቃል-ኪዳን ነው
 vpn-shared-platform-trust-partner-headline = ስለ ታማኝ አጋራችን
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = የ{ -brand-name-mozilla-vpn } በ<a href="{ $policy }">{ -brand-name-mullvad }</a> በተሰራ <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® ፕሮቶኮልን በመጠቀም ዓለምአቀፍ የአገልጋዮች አውታረ መረብ ላይ ይሰራል። { -brand-name-mullvad } የእርስዎን ግላዊነት ያስቀድማል እና ምንም ዓይነት ማስታወሻዎችን መዝገቦ አያስቀምጥም።
+vpn-shared-platform-what-youll-get = በ{ -brand-name-mozilla-vpn } ምን ያገኛሉ፡-
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = ቪፒኤን ምንድን ነው?
+vpn-subnav-faqs = (ተየጥ) ተደጋግሞ የሚጠየቁ ጥያቄዎች
+vpn-subnav-get-help = እገዛ ያግኙ
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = ዴስክቶፕ
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = ተንቀሳቃሽ ስልክ
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = አይፒ አድራሻ ምንድን ነው?
+vpn-subnav-when-to-use-a-vpn = ቪፒኤን መቼ መጠቀም አለብን
+vpn-subnav-subscribe = ለ{ -brand-name-mozilla-vpn } ይመዝገቡ
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = የትኛው የእኛ አጋር ወደ { -brand-name-mozilla-vpn } እንደመራዎ ለማወቅ ኩኪዎችን እንጠቀማለን። የግል መለያ መረጃን ከአጋሮቻችን ጋር አንጋራም። የእኛን <a { $attrs }>የግላዊነት መመሪያ</a> ያንብቡ።
+vpn-shared-affiliate-notification-reject = ውድቅ አድርግ
+vpn-shared-affiliate-notification-ok = ይሁን
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = በ{ -brand-name-vpn } + { -brand-name-relay } ግላዊነትዎን ያሳድጉ
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = የእርስዎን ኢሜይል እና ስልክ ቁጥር ለመጠበቅ { -brand-name-firefox-relay }ን ወደ ምዝገባዎ ያክሉ። <a href="{ $url }">የበለጠ ለመረዳት</a>።
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> አክል
+vpn-shared-relay-email-masking = የኢሜል ጭንብል
+vpn-shared-relay-phone-masking = የስልክ ጭንብል
 
 ##
 
