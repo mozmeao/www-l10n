@@ -21,9 +21,59 @@ vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
 vpn-shared-features-servers = { $servers }+ አገልጋዮች በ{ $countries }+ አገሮች
 vpn-shared-features-activity = የአውታረ መረብ እንቅስቃሴዎ አይመዘገብም
 vpn-shared-features-activity-logs = ምንም የመስመር ላይ የእንቅስቃሴ መዝገብ ማስታወሻዎች አሁን ወይም በጭራሽ የሉም
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = በ { $countries }+ አገሮች ውስጥ ያሉ አገልጋዮች መዳረሻ
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = እስከ { $devices } መሳሪያዎች ድረስ የማገናኘት አማራጭ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = እስከ { $devices } መሳሪያዎች ድረስ ጥበቃ ያለው
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = ከ{ $countries } በላይ አገራት ውስጥ ካሉ  ከ{ $servers } በላይ አገልጋዮች ጋር ይገናኙ
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = አሁን በ{ $countries } አገሮች ይገኛል። ተጨማሪ ክልሎች በቅርቡ ይመጣሉ
+# Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = የእኛን ሙሉ የ<a href="{ $url }" { $attrs }>አገልጋዮች</a> ዝርዝር ይመልከቱ።
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = በ{ $countries }+ አገሮች ውስጥ ያሉ ጠንካራ አገልጋዮች
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = እስከ { $devices } መሳሪያዎች ድረስ ያገናኙ
+vpn-shared-refund-policy = የተመላሽ ገንዘብ ፖሊሲ
+vpn-shared-privacy-notice = የግላዊነት ማስታወቂያ
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } የJason A. Donenfeld የንግድ ምልክት ነው
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-one-subscription-heading = ለሁሉም የእርስዎ መሣሪያዎች አንድ ምዝገባ
+vpn-shared-choose-a-plan-sub-heading = ለእርስዎ የሚስማማውን እቅድ ይምረጡ
+vpn-shared-pricing-variable-sub-heading = ሁሉም እቅዶቻችን የሚከተሉትን ያካትታሉ:-
+vpn-shared-pricing-recommended-offer = የሚመከር
+vpn-shared-pricing-plan-12-month-v2 = የ 12 ወር እቅድ
+# Outdated string
+vpn-shared-pricing-plan-12-month = 12 ወር
+vpn-shared-pricing-plan-monthly-v2 = ወርሃዊ እቅድ
+# Outdated string
+vpn-shared-pricing-plan-monthly = ወርሃዊ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span> /በወር</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span> /በወር+ ግብር</span>
+# Outdated string
+vpn-shared-pricing-get-6-month = የ6 ወር እቅድ ያግኙ
+# Outdated string
+vpn-shared-pricing-get-12-month = የ 12 ወር እቅድ ያግኙ
 
 # Platform subpage shared strings
 
