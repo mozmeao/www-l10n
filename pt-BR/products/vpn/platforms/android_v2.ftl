@@ -5,5 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
-vpn-android-vpn-for-android = VPN для Android ад { -brand-name-mozilla }
-vpn-android-vpns-help = VPN дапамагаюць прадухіліць:
+vpn-android-vpn-for-android = VPN para Android da { -brand-name-mozilla }
+vpn-android-how-does-a = Como uma VPN protege meu dispositivo Android?
