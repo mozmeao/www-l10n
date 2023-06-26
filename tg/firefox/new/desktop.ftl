@@ -27,17 +27,40 @@ firefox-desktop-love-your-life = Ҳаёти худро дар Интернет �
 # Obsolete string
 firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
+firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
+firefox-desktop-download-all-your-devices = Браузери «{ -brand-name-firefox }»-ро ба ҳамаи дастгоҳҳои худ гузоред
+firefox-desktop-download-search-smarter = Зудтар ва оқилонатар ҷустуҷӯ намоед
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
+firefox-desktop-download-bookmark-history = Хатбаракҳо, таърих ва варақаҳои кушода дар натиҷаҳо
+firefox-desktop-download-works-with-google = Бо маҳсулоти «{ -brand-name-google }» кор мекунад
+firefox-desktop-download-built-in-screenshot = Абзори дарунсохт барои гирифтани аксҳои экран
 firefox-desktop-download-bookmarks-manager = Мудири хатбаракҳо
+firefox-desktop-download-autosuggest-urls = Пешниҳодҳои худкор барои нишониҳои URL
+firefox-desktop-download-sync-across-devices = Ҳамоҳангсозӣ байни дастгоҳҳо
+firefox-desktop-download-reader-mode = Реҷаи хонанда
 firefox-desktop-download-spell-check = Санҷиши имло
+firefox-desktop-download-pinned-tabs = Варақаҳои васлшуда
+firefox-desktop-download-stream-share-play = Пахши мустақим, мубодила ва иҷро
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Расм-дар-расм
+firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
+firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
+firefox-desktop-download-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
+firefox-desktop-download-secure-your-personal = Маълумоти шахсии худро ҳифз намоед
+firefox-desktop-download-built-in-password = Мудири ниҳонвожаҳои дарунсохт
 firefox-desktop-download-clear-history = Пок кардани таърих
 firefox-desktop-download-form-autofill = Пуркунии худкори шакл
 firefox-desktop-download-automatic-updates = Навсозиҳои худкор
+firefox-desktop-download-customize-your-browser = Браузери худро шахсӣ созед
 firefox-desktop-download-themes = Мавзуъҳо
 firefox-desktop-download-dark-mode = Реҷаи торик
 firefox-desktop-download-library-of-extensions = Китобхонаи васеъшавиҳо
+firefox-desktop-download-adjust-search-bar = Дуруст кардани танзимоти навори ҷустуҷӯ
+firefox-desktop-download-tweak-your-settings = Беҳтар кардани танзимоти шахсӣ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Ҳамаи хусусиятҳои дӯстдоштаи худро дар браузер нигоҳ доред — ва хусусиятҳои навро <strong>пайдо намоед</strong>.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Дастгоҳҳои худро ҳамоҳанг созед
 firefox-desktop-download-screenshots = Аксҳои экран
@@ -46,6 +69,10 @@ firefox-desktop-download-enhanced-tracking-protection = Муҳофизати т�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-learn-about-the = Маълумоти бештар дар бораи браузери «{ -brand-name-firefox }» барои мизи корӣ
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
