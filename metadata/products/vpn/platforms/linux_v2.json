@@ -1,6 +1,7 @@
 {
   "active_locales": [
     "ar",
+    "cy",
     "de",
     "en-GB",
     "es-AR",
@@ -8,6 +9,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hu",
     "ia",
     "id",
     "it",
@@ -17,6 +19,7 @@
     "ru",
     "sv-SE",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ]
 }
