@@ -9,8 +9,8 @@ relay-shared-firefox-relay = { -brand-name-firefox-relay }
 # Subnav strings
 relay-shared-subnav-title = { -brand-name-firefox-relay }
 relay-shared-subnav-premium = { -brand-name-relay-premium }
-relay-shared-subnav-faq = { -brand-name-relay } Cwestiynau Cyffredin
-nav-profile-sign-in = Mewngofnodi
+relay-shared-subnav-faq = Preguntas frecuentes sobre { -brand-name-relay }
+nav-profile-sign-in = Iniciar sesión
 # Page description
-meta-description-2 = Mae { -brand-name-firefox-relay } yn ei gwneud hi'n hawdd creu arallenwau e-bostio, arallenwau sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn. Defnyddiwch hwn i ddiogelu eich cyfrifon ar-lein rhag hacwyr a negeseuon digroeso.
-hero-section-cta = Cychwyn arni
+meta-description-2 = { -brand-name-firefox-relay } facilita la creación de máscaras de correo electrónico que reenvían los mensajes a su verdadera bandeja de entrada. Úselos para proteger sus cuentas en línea de piratas informáticos y mensajes no deseados.
+hero-section-cta = Comenzar
