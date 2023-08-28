@@ -9,15 +9,27 @@ plan-matrix-title = Precios
 
 ## PRICING MATRIX SECTION
 
+plan-matrix-offer-title = Elige un nivel de protección adecuado para ti
 
 ## Top Row Labels
 
 # Variables:
 #   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
 plan-matrix-heading-features = Características
+plan-matrix-heading-plan-free = Protección de correo electrónico limitada
+plan-matrix-heading-plan-premium = Protección de correo electrónico
+plan-matrix-heading-plan-phones = Protección de correo electrónico y teléfono
+plan-matrix-heading-plan-bundle-v2 = Añadir protección VPN
 
 ## Feature Breakdowns
 
+plan-matrix-feature-email-masks = Máscaras de correo electrónico para proteger tu dirección de correo electrónico real
+plan-matrix-feature-browser-extension = Extensión del navegador para usar { -brand-name-relay } en cualquier sitio
+plan-matrix-feature-email-tracker-removal = Eliminar rastreadores de correo electrónico
+plan-matrix-feature-promo-email-blocking = Bloquear correos electrónicos promocionales
+plan-matrix-feature-email-subdomain = Dominio de correo electrónico de { -brand-name-relay } para crear máscaras sobre la marcha
+plan-matrix-feature-email-reply = Responder a correos electrónicos de forma anónima
+plan-matrix-feature-phone-mask = Enmascaramiento de teléfono para proteger tu número real
 plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
@@ -26,6 +38,9 @@ plan-matrix-feature-mobile-email-masks = Máscaras de correo electrónico
 plan-matrix-feature-mobile-browser-extension = Extensión del navegador
 plan-matrix-feature-mobile-email-tracker-removal = Eliminar rastreadores de correo electrónico
 plan-matrix-feature-mobile-promo-email-blocking = Bloquear correos electrónicos promocionales
+plan-matrix-feature-mobile-email-subdomain = Dominio de correo electrónico de { -brand-name-relay } único
+plan-matrix-feature-mobile-email-reply = Responder a correos electrónicos de forma anónima
+plan-matrix-feature-mobile-phone-mask = Protege tu número de teléfono real
 plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
@@ -45,6 +60,9 @@ plan-matrix-price-period-yearly = Anual
 plan-matrix-price-period-monthly = Mensualmente
 plan-matrix-price-period-yearly-footnote-1 = Facturado anualmente
 plan-matrix-price-period-monthly-footnote-1 = Facturado mensualmente
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-price-vpn-discount-promo-v2 = <span>Ahorra { $ahorros }%</span> sobre el precio normal del VPN
 
 ## Plan CTAs
 

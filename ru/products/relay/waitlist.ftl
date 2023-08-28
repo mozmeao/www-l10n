@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/waitlist/[vpn|phone].html
 
+waitlist-premium-name = { -brand-name-relay-premium }
+waitlist-bundle-name = Комплект { -brand-name-relay } + { -brand-name-vpn }
+waitlist-phone-name = Маскировка телефона от { -brand-name-relay }
 waitlist-heading-2 = Присоединяйтесь к списку ожидания { -brand-name-relay-premium }
 waitlist-heading-phone = Присоединяйтесь к списку ожидания маскирования телефона { -brand-name-relay }
 waitlist-heading-bundle = Присоединяйтесь к списку ожидания пакета { -brand-name-relay } + { -brand-name-vpn }
@@ -24,4 +27,16 @@ waitlist-privacy-policy-agree-2 = Нажимая «{ waitlist-submit-label-2 }»
 waitlist-privacy-policy-use = Предоставленная информация будет использована только для уведомления вас о доступности { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Ваша информация будет использоваться только для уведомления вас, когда маскирование телефона будет доступно в вашем регионе.
 waitlist-privacy-policy-use-bundle = Ваша информация будет использоваться только для уведомления о доступности пакета { -brand-name-relay } + { -brand-name-vpn }.
+waitlist-subscribe-success-title = Спасибо! Теперь вы в списке
+# Variables:
+#   $product (string) one of the following three options:
+#      - { -brand-name-relay-premium }
+#      - { waitlist-bundle-name }
+#      - { waitlist-phone-name }
+waitlist-subscribe-success-email-desc = Как только { -brand-name-relay-premium } станет доступен в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-success-phone-desc = Как только маскировка телефона от { -brand-name-relay } станет доступна в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-success-bundle-desc = Как только { -brand-name-relay } + { -brand-name-vpn } станут доступны в вашем регионе, мы сообщим вам об этом по почте.
+waitlist-subscribe-please-enter-a-valid = Пожалуйста, введите корректный адрес электронной почты
+waitlist-subscribe-please-select-country = Пожалуйста, выберите страну или регион
+waitlist-subscribe-please-select-language = Пожалуйста, выберите язык
 waitlist-subscribe-error-unknown = При добавлении вас в список ожидания произошла ошибка. Пожалуйста, попробуйте ещё раз.

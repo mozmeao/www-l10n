@@ -4,6 +4,7 @@
     "cs",
     "cy",
     "de",
+    "el",
     "en-GB",
     "es-AR",
     "es-CL",
@@ -20,11 +21,13 @@
     "ms",
     "nl",
     "pt-BR",
+    "ru",
     "sk",
     "sv-SE",
     "tr",
     "uk",
     "vi",
+    "zh-CN",
     "zh-TW"
   ]
 }

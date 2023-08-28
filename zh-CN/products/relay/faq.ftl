@@ -15,6 +15,9 @@ faq-question-missing-emails-question-2 = 我收不到来自马甲邮箱的消息
 faq-question-missing-emails-answer-a-2 = 收不到马甲邮箱所转发的电子邮件，可能的原因包括：
 faq-question-missing-emails-answer-reason-spam = 消息被归入垃圾邮件文件夹
 faq-question-missing-emails-answer-reason-blocked-2 = 邮件服务商屏蔽了您的马甲邮箱
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-missing-emails-answer-reason-size = 转发的电子邮件的附件大于 { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = 该网站不允许使用马甲邮箱
 faq-question-missing-emails-answer-reason-turned-off-2 = 马甲邮箱的转发功能可能已被关闭
 faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } 转发消息可能需要比平时更长的时间
@@ -49,6 +52,9 @@ faq-question-longevity-answer-2 = 我们会提前通知您，您需要到所有�
 faq-question-mozmail-question-2 = 为何我的马甲域名变成“mozmail.com”了？
 faq-question-mozmail-answer-2 = 之所以从“relay.firefox.com”切换到“mozmail.com”，是为了自定义邮箱子域名这一特性，如 mask@yourdomain.mozmail.com。{ -brand-name-relay-premium } 订阅者可使用自定义子域名生成更好记的马甲。
 faq-question-attachments-question = { -brand-name-firefox-relay } 可以转发含附件的电子邮件吗？
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = 我们现在支持转发附件。但是，使用 { -brand-name-relay } 转发电子邮件有 { $size } MB 限制。无法转发大于 { $size } MB 的电子邮件。
 faq-question-unsubscribe-domain-question-2 = 若取消订阅 { -brand-name-relay-premium }，我的自定义子域会怎样？
 faq-question-unsubscribe-domain-answer-2 = 若不再续订 { -brand-name-relay-premium }，您仍能收到之前自定义马甲邮箱转发的电子邮件，但无法再使用该子域名新建马甲。若已有五个以上马甲，则无法创建更多马甲。您也将无法回复转发的消息。重新订阅 { -brand-name-relay-premium } 才可重获这些功能的使用权。
 faq-question-8-question = { -brand-name-firefox-relay } 会收集哪些数据？
@@ -81,3 +87,45 @@ faq-question-trackerremoval-breakage-answer-2 = 有时移除跟踪器可能会�
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = 什么是虚拟手机号？
+phone-masking-faq-answer-what-is = 与马甲邮箱类似，虚拟手机号可以将短信和电话转移给您的真实手机号，不让给您打电话及发短信的人得知您的真实号码。
+phone-masking-faq-question-where-is = 哪些地区可以使用虚拟手机号？
+phone-masking-faq-answer-where-is = 虚拟手机号目前仅在美国和加拿大推出。也就是说，您只能接收来自美国和加拿大号码的转移通话和短信。我们正努力向更多国家和地区推出虚拟手机号服务。
+phone-masking-faq-question-how-many = 我可以有多少个虚拟手机号？
+phone-masking-faq-answer-how-many = 目前，您只能拥有一个虚拟手机号。虚拟手机号一经选定，以后就无法再更改。
+phone-masking-faq-question-change-phone-mask = 我可以更改我的虚拟手机号吗？
+phone-masking-faq-answer-change-phone-mask = 不可以。虚拟手机号一经选定就无法再更改。我们正在研究其他可行方案。
+phone-masking-faq-question-can-reply = 我可以回复短信吗？
+phone-masking-faq-answer-can-reply = 是的，您可以回复您收到的最近一条短信，方法与您回复其他短信一样。
+phone-masking-faq-question-forwarded-texts = 哪些类型的短信会被转发？
+phone-masking-faq-answer-forwarded-texts = 仅转发 SMS 文本消息。包含照片、视频等文件的彩信不会被转发。
+phone-masking-faq-question-pictures = 我可以通过短信发送或接收图片吗？
+phone-masking-faq-answer-pictures = 不可以，只能转发和回复文本短信。
+phone-masking-faq-question-historical = 我可以回复以前的短信吗？
+phone-masking-faq-answer-historical = 您目前无法回复之前收到的短信，不过此功能即将推出。
+phone-masking-faq-question-can-i-send = 我可以直接发送而不是回复短信吗？
+phone-masking-faq-answer-can-i-send = 不，您还不能发送非回复短信。您只能回复转发的短信。
+phone-masking-faq-question-limit = 我能够接收的短信数量有限制吗？
+phone-masking-faq-answer-limit = 您每月最多可以接收和回复 75 条信息。超过此数目后，发送到虚拟手机号的短信就不会再转发给您的真实号码，您也无法再发送回复。月度以您的账单日期为周期计算，而非自然月。进入新的账单月后，就可以继续接收信息。
+phone-masking-faq-question-call-length = 接到电话时我可以通话多长时间？
+phone-masking-faq-answer-call-length = 您每个月有 50 分钟通话时长。时长用完后，直至下个账单月开始前，您将无法接收转移的通话。
+phone-masking-faq-question-can-i-call = 我可以用虚拟手机号给别人打电话吗？
+phone-masking-faq-answer-can-i-call = 不可以，您只能接听转移的通话。
+phone-masking-faq-question-can-i-see = 我可以看到谁给我发短信或打电话吗？
+phone-masking-faq-answer-can-i-see = 是的，您可以看到给您发短信和打电话的号码。您也可以选择不存储这些记录，但将无法再回复或拦截个别来电者和发信者。
+phone-masking-faq-question-can-i-block = 我可以拦截通话和短信吗？
+phone-masking-faq-answer-can-i-block = 您可以拦截转移自某一号码的所有通话和短信。
+phone-masking-faq-question-spam = 如果我的虚拟手机号收到垃圾信息怎么办？
+phone-masking-faq-answer-spam = 如果收到垃圾信息，您可以拦截向您发送垃圾信息的号码。
+phone-masking-faq-question-disable-logging = 我可以选择不记录来电者和发信者吗？
+phone-masking-faq-answer-disable-logging = 是的，您可以在 { -brand-name-relay } 仪表板中选择停止记录号码。但是，您将无法再回复短信及拦截特定号码，因为我们需要通过此记录来得知给您发信息的人是谁。
+phone-masking-faq-question-can-i-share = 我可以分享给我转发短信的号码吗？
+phone-masking-faq-answer-can-i-share = 即使您分享此号码，也不会有什么作用。该号码不是您的虚拟手机号，只是 { -brand-name-relay } 转移您的短信和通话时所用的号码。
+phone-masking-faq-question-how-i-save-card = 如何保存 { -brand-name-relay } 联系人？
+phone-masking-faq-answer-how-i-save-card = 升级到 { -brand-name-relay } 虚拟手机号后，我们会通过短信给您发送一份联系人卡片，当中包含您今后接收转移通话和短信的号码，此卡片与其他存储了联系人电话号码的联系人卡片相似。在大部分设备上，您可以选择这份联系人卡片并保存联系人，方法与在手机上保存其他联系人一样。
+phone-masking-faq-question-install-app = 我需要安装应用才能使用 { -brand-name-relay } 虚拟手机号吗？
+phone-masking-faq-answer-install-app = 不需要，{ -brand-name-relay } 虚拟手机号只需使用设备的标准短信和通话应用。
+phone-masking-faq-question-data = { -brand-name-relay } 虚拟手机号会存储什么类型的数据？
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = 请参阅<a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay }隐私政策</a>。
