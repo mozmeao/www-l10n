@@ -10,8 +10,8 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Usamos cookies para saber qué socio afiliado te trajo hasta acá. No compartimos información de identificación personal con nuestros socios. Leé nuestra <a { $attrs }>Política de privacidad</a>.
+affiliate-notification-message = We use cookies to understand which affiliate partner led you here. We do not share personally identifying information with our partners. Read our <a { $attrs }>Privacy Policy</a>.
 # label for the button that rejects cookie use
-affiliate-notification-reject = Rechazar
+affiliate-notification-reject = Reject
 # label for the button that okays cookie use
-affiliate-notification-ok = Aceptar
+affiliate-notification-ok = OK
