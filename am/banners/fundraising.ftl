@@ -5,19 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = በዚህ የበዓል ሰሞን ለተሻለ በይነመረብ እንዲታገል { -brand-name-mozilla } ን ይርዱ።
-banner-fundraising-title-giving-day = በዚህ የመስጠት ማክሰኞ ለተሻለ በይነመረብ እንዲታገል { -brand-name-mozilla } ን ይርዱ።
-# Outdated string
-banner-fundraising-title = ወደፊታችን በመስመር ላይ እየተወሰነ ነው። ለሁላችንም ድር እንድንታገል { -brand-name-mozilla }ን ይርዱ።
-banner-fundraising-body-v2 = ድሩን ጤናማ ለማድረግ እየሰራን በኩራት ለትርፍ አልተቋቋምንም። የእርስዎ አስተዋጽዖ ደህንነቱ የተጠበቀ እና ክፍት በይነ መረብ ለመገንባት ያግዛል።
-# Outdated string
-banner-fundraising-body = የእኛ የግል መረጃ የሚሰበሰበው ድሩን በተጠቀምን ቁጥር ነው፣ እና በእሱ ላይ ምን እንደሚፈጠር ለማወቅ ቀላል አይደለም። የተሳሳተ መረጃ እውነትን ለማግኘት እየከበደን ነው። ከድር ጋር የተገናኙ መሳሪያዎች አነስተኛውን የደህንነት መስፈርቶች ሳያሟሉ ወደ ገበያ ይገባሉ። ለትርፍ ያልተቋቋመው { -brand-name-mozilla-foundation } በይነመረብን ደህንነቱ የተጠበቀ፣ ክፍት እና ለሁሉም ተደራሽ ለማድረግ ይተጋል። <strong>ዛሬ ይለግሳሉ?</strong>
-banner-fundraising-body-extra = ዛሬ መለገስ ይችላሉ?
-banner-fundraising-monthly = በየወሩ
-banner-fundraising-one-time = አንድ ጊዜ
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = በGiving Tuesday ለ{ -brand-name-mozilla } ይለግሱ
+banner-fundraising-giving-tuesday-tagline = በይነመረቡን ከትልቅ ቴክኖሎጂ መልሶ ለማግኘት ጊዜው አሁን ነው። በGiving Tuesday  ለ{ -brand-name-mozilla } መለገስ ይችላሉ?
+banner-fundraising-title-1 = ለ{ -brand-name-mozilla } ይለግሱ። በይነመረቡን መልሰው ያግኙ።
+banner-fundraising-tagline-1 = በይነመረቡን ከትልቅ ቴክኖሎጂ ለመመለስ ጊዜው አሁን ነው። ለ{ -brand-name-mozilla } መለገስ ይችላሉ?
+banner-fundraising-title-2 = በይነመረብን እንደገና ይቆጣጠሩ።
+banner-fundraising-title-3 = ለ{ -brand-name-mozilla } መለገስ ይችላሉ?
 banner-fundraising-donate = ይለግሱ
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = ${ $amount }
