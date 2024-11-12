@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Shkarkoni { -brand-name-firefox-browser } — I shpejtë, Privat & Falas — nga { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Shkarkoni { -brand-name-firefox-browser }-in — I shpejtë, Privat & Falas — nga { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Shkarkoni { -brand-name-firefox }-in për Desktop — që nga { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Merrni { -brand-name-firefox }, një shfletues i lirë, që ka pas { -brand-name-mozilla }, një ent jofitimprurës përkushtuar shëndetit të internetit dhe privatësisë. Tanimë i gatshëm për { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } dhe { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Merrni { -brand-name-firefox } për { -brand-name-windows }, { -brand-name-mac-short } ose { -brand-name-linux }. { -brand-name-firefox } është një shfletues i lirë, që pas ka { -brand-name-mozilla }, një ent jofitimprurës kushtuar shëndetit dhe privatësisë së internetit.
@@ -25,7 +25,7 @@ firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçk
 firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> Shfletuesi Firefox <strong>s’ju</strong> vëzhgon.
+firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
 firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë
 firefox-desktop-download-get-all-the-speed = Përfitoni krejt shpejtësinë dhe mjetet pa asnjë prej shkeljeve të privatësisë. { -brand-name-firefox-browser } grumbullon kaq pak të dhëna rreth jush, sa as që ju kërkojmë adresë email për ta shkarkuar. Kjo vjen ngaqë, ndryshe nga shfletues të tjerë, s’kemi interesa financiare për ndjekjen tuaj nëpër internet.
 firefox-desktop-download-how-we-compare = Si dalim në krahasim me shfletues të tjerë
