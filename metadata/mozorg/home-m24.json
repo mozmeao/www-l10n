@@ -1,10 +1,20 @@
 {
   "active_locales": [
     "ar",
+    "cs",
+    "cy",
     "de",
+    "en-GB",
+    "es-AR",
     "hi-IN",
+    "hu",
     "id",
     "ja",
-    "ms"
+    "ka",
+    "ms",
+    "pt-PT",
+    "ru",
+    "zh-CN",
+    "zh-TW"
   ]
 }
