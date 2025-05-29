@@ -4,7 +4,6 @@
     "af",
     "an",
     "ar",
-    "ast",
     "az",
     "azz",
     "be",
@@ -53,7 +52,6 @@
     "ka",
     "kab",
     "kk",
-    "km",
     "kn",
     "ko",
     "lij",
@@ -61,7 +59,6 @@
     "lt",
     "ltg",
     "lv",
-    "mk",
     "ml",
     "mr",
     "ms",
@@ -78,7 +75,6 @@
     "rm",
     "ro",
     "ru",
-    "si",
     "sk",
     "skr",
     "sl",
@@ -86,12 +82,10 @@
     "sq",
     "sr",
     "sv-SE",
-    "sw",
     "ta",
     "te",
     "tg",
     "th",
-    "tl",
     "tr",
     "trs",
     "uk",
@@ -101,7 +95,6 @@
     "wo",
     "xh",
     "zh-CN",
-    "zh-TW",
-    "zu"
+    "zh-TW"
   ]
 }
