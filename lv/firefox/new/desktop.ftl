@@ -29,6 +29,7 @@ firefox-desktop-download-themes = Izskati
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
 # Variables:
@@ -37,6 +38,9 @@ firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ir pieejams visās Tavās ierīcēs; paņem līdzi cilnes, vēsturi un grāmatzīmes. Viss, kas nepieciešams, ir <a { $attrs }>{ -brand-name-mozilla-account }</a>, un Tu iegūsi piekļuvi vienādošanai un citiem { -brand-name-mozilla } produktiem.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Uzņem augstas izšķirtspējas attēlu ar jebko tiešsaistē ar mūsu tieši pārlūkā iebūvēto <a { $attrs }>ekrānuzņēmumu</a> rīku!
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automātiski <a { $attrs }>liedz daudzus trešo pušu izsekotājus</a>, lai tie nevarētu ievākt un pārdot Tavas darbības tīmeklī.
@@ -60,7 +64,14 @@ firefox-desktop-download-select-linux = Zemāk jāatlasa <strong>lejupielādes</
 firefox-desktop-download-get-help = Ir sarežģījumi? <a { $attrs }>Saņemt palīdzību par uzstādīšanu</a>.
 firefox-desktop-download-in-another-language = Lejupielādēt citā valodā vai citai operētājsistēmai.
 firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ja redzi uzvedni, kurā norādīts, ka lietotne, kuru mēģini uzstādīt, nav { -brand-name-microsoft } apliecināta lietotne, jāklikšķina “Vienalga uzstādīt” vai <a { $attrs }>jāmaina lietotņu ieteikšanas iestatījumi</a>.
 firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Lejupielādei vajadzētu sākties automātiski. Tā nenotika? <a id="{ $id }" href="{ $fallback_url }">Jāmēģina lejupielādēt vēlreiz.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ir kas vairāk par pārlūku.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Lejupielāde tika pārtraukta. Bet viss vēl nav zaudēts.
