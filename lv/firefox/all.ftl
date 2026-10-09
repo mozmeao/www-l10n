@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Lejupielādē { -brand-name-firefox } angļu (amerikāņu) un vairāk nekā 90 citās valodās
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Ikviens ir pelnījis piekļuvi internetam — valodai nekad nevajadzētu būt šķērslim. Tieši tāpēc — ar apņēmīgu brīvprātīgo palīdzību visā pasaulē — mēs padarām { -brand-name-firefox } pieejamu vairāk nekā 90 valodās.
 firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
 firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
@@ -33,6 +35,10 @@ firefox-all-microsoft-store-installers = Microsoft veikals
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lejupielādēt { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Mēs atrodamies pārejas laika posmā starp galvenajām ESR versijām { $esr_next_major } un { $esr_current_major }.
 firefox-all-check-the-system-requirements = Pārbaudīt sistēmas prasības
 firefox-all-release-notes = Laidiena piezīmes
 firefox-all-source-code = Pirmkods
@@ -55,3 +61,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Lejupielādēt ESR 115
