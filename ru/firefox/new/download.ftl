@@ -24,7 +24,7 @@ firefox-new-need-help = Нужна помощь?
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-firefox-new-should-begin = Загрузка начнётся автоматически. Она не началась? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
+firefox-new-your-firefox-new-should-begin = Скачивание начнётся автоматически. Оно не началось? <a id="{ $id }" href="{ $fallback_url }">Попробуйте скачать снова</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — больше, чем просто браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.
